@@ -1,11 +1,11 @@
 {
-    "name": "dtu_guide",
-    "short_name": "dtu_guide",
+    "name": "DTUplus",
+    "short_name": "DTUplus",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Visit architecture and art on DTU",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
