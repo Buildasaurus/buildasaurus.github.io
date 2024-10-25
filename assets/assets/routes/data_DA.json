@@ -1,636 +1,701 @@
 [
-    {
-        "name": "Arkitekturruten",
-        "logo": "Arkitekturruten",
-        "route_items": [
-            {
-                "item": {
-                    "name": "Origo",
-                    "sub_name": null,
-                    "kind": "Bygning",
-                    "location": null,
-                    "creator": {
-                        "name": "Nils og Eva Koppel",
-                        "about": null,
-                        "title": "Arkitekt"
-                    },
-                    "about": "<p><strong>Origo: midten af Lyngby Campus - et universitet til velf&aelig;rdssamfundet.<br /><br />Medvirkende i lydfort&aelig;lling: Jennifer Dahm Petersen, arkitekt og medskribent p&aring; bogen 'Eva og Nils Koppel' (2017).<br /></strong></p>\r\n<p style=\"margin: 0cm 0cm 10pt;\"><span style=\"font-family: Calibri; font-size: medium;\">DTU&rsquo;s arkitekturrute tager sit afs&aelig;t i midten af Lyngby Campus. P&aring; dette punkt m&oslash;des DTU&rsquo;s fire kvadranter, som markerer den originale arkitektoniske tanke af Nils og Eva Koppel, hvor Lyngby Campus blev bygget op som et koordinatsystem. Den originale campusplan fra 1960&rsquo;erne var bygget stramt op omkring de 4 kvadranter og brede avenuer. Kvadranterne var tidligere en m&aring;de at opdele den tids&nbsp;fire ingeni&oslash;rretninger: Byg, Kemi, Elektro og Maskin. I 1974 blev DTU&rsquo;s nye bygninger her p&aring; stedet indviet. Nils og Eva Koppels arkitektoniske tilgang var pr&aelig;get af tidens rationelle og funktionelle &aelig;stetiske overbevisninger. DTU&rsquo;s oprindelige byggestil var udpr&aelig;get modernistisk, med enkle former og materialer som st&aring;l og beton i er rent og stramt udtryk. Hovedbygningen 101 st&aring;r tilbage som et eksempel p&aring; byggestilen. Udover bygningerne i sig selv, var pladsen mellem bygninger ogs&aring; en vigtig del af den oprindelige helheldsplan for Lyngby Campus. Havearkitekt Ole N&oslash;rgaard stod bag udviklingen af DTU&rsquo;s pladser og gr&oslash;nne omr&aring;der. Ideen var, at DTU Campus skulle betragtes som en lysning i en skov og udend&oslash;rsmilj&oslash;erne er derfor ogs&aring; en vigtig del af helhedsoplevelsen. Ved byggeriets oprindelse ville man gerne bevare det landskabelige pr&aelig;g og de fleste bygninger blev derfor h&oslash;jest bygget i 3 etager. Dette sikrede ogs&aring; overholdelsen af en gammel regel, om at ingen bygninger m&aring;tte kunne ses fra Eremitageslottets &oslash;verste trin. <br /></span><span style=\"font-family: Calibri; font-size: medium;\"> Disse &aring;r investerer DTU over 4 mia. kroner i nye byggeprojekter p&aring; hele Campus, som skal optimere rammerne for forskning og uddannelse. Byggerierne er nyt&aelig;nkende og udfordrende, men den strategiske helheldsplan er fortsat i t&aelig;t dialog med den originale helheldsplan udt&aelig;nkt af Eva &amp; Nils Koppel.<br /> <br /> <em>Kilde: &rsquo;Eva og Nils Koppel&rsquo; af Johannes Hedal Hansen og Jennifer Dahm Petersen, Strandberg Publishing, 2017. </em></span></p>",
-                    "coordinates": {
-                        "latitude": "55.7856920",
-                        "longitude": "12.5217620"
-                    },
-                    "audio": null,
-                    "images": [
-                        "Ehrhorn__Hummerston.jpg",
-                        "Ehrhorn__Hummerston1_K3fcbXW.jpg",
-                        "DTU.fritkøbt.jpg",
-                        "Luftfoto_Lyngby.Mikkel_Barker.jpg"
-                    ]
-                },
-                "position": 1,
-                "visit": true
-            },
-            {
-                "item": {
-                    "name": "Bygning 411, DTU's kraftvarmeværk",
-                    "sub_name": null,
-                    "kind": "Bygning",
-                    "location": null,
-                    "creator": {
-                        "name": "Nils Koppel (varmeværket). Kraftvværket tegnet af Jens Fredslund fra Erik Møller Arkitekter (1990erne)",
-                        "about": null,
-                        "title": "Arkitekt"
-                    },
-                    "about": "<p><span style=\"font-family: Calibri; font-size: medium;\"><strong>Medvirkende i lydfort&aelig;lling: Jacob Steen M&oslash;ller, Campusdirekt&oslash;r DTU.</strong><br /><br />Kraftvarmev&aelig;rket blev sat i drift tilbage i 1998 og producerer b&aring;de el og varme. V&aelig;rket best&aring;r af et naturgasfyre combined-cycle-anl&aelig;g med b&aring;de gas- og dampturbine. Gas- og dampturbinen producerer el, mens restvarmen anvendes til fjernvarme. Kapaciteten er p&aring; 31 MJ/s varme og 39 MW elektricitet. Dermed kan kraftvarmev&aelig;rket forsyne omkring 9.000 husstande i omr&aring;det med varme og ca. 40.000 husstande med elektricitet. Varmev&aelig;rket er ogs&aring; et godt visuelt eksempel p&aring; den tilgang Koppel havde til farver. Farvepaletten p&aring; DTU tager udgangspunkt i kunsten og dens fysiske blanding af malerfarver, med gul, gr&oslash;n og r&oslash;d som prim&aelig;rfarverne. De bemalede overflader p&aring; DTU skal tiltr&aelig;kke sig opm&aelig;rksomhed gennem deres m&aelig;ttede og rene farver, som bliver kontrastfulde op i mod de u-bemalede materialer som tegl og beton. Den oprindelige noget begr&aelig;nsede farvepalet blev udvidet slut-firserne af Jens Fredslund fra Erik M&oslash;llers Tegnestue og Ib Gertsen &ndash; DTU&rsquo;s farvepalet blev udvidet til 12 farver til v&aelig;gge, lofter og interi&oslash;r. </span></p>\r\n<p><em><span style=\"font-family: Calibri;\"><span style=\"font-size: medium;\">Kilde: </span></span><a href=\"http://dtukvv.dk/om-os/\"><span style=\"color: #0000ff; font-family: Calibri; font-size: medium;\">http://dtukvv.dk/om-os/</span></a><span style=\"font-family: Calibri; font-size: medium;\"> / Danmarks Tekniske Universitet, farver og materialer (pr&aelig;sentation), udgave fra d. 16. juni 2013.</span></em></p>",
-                    "coordinates": {
-                        "latitude": "55.7855160",
-                        "longitude": "12.5228890"
-                    },
-                    "audio": null,
-                    "images": [
-                        "DTU.varmecentral.fritkøbt.jpg"
-                    ]
-                },
-                "position": 2,
-                "visit": false
-            },
-            {
-                "item": {
-                    "name": "Bygning 101, Hovedbygning",
-                    "sub_name": null,
-                    "kind": "Bygning",
-                    "location": null,
-                    "creator": {
-                        "name": "Nils og Eva Koppel",
-                        "about": null,
-                        "title": "Arkitekt"
-                    },
-                    "about": "<p><strong>Bevaring af den oprindelige arkitektur<br /><br />Medvirkende i lydfort&aelig;lling: Jacob Steen M&oslash;ller, Campusdirekt&oslash;r DTU; Jannie Rosenberg Bendsen fra Slots- og Kulturstyrelsen.<br /></strong></p>\r\n<p style=\"margin: 0cm 0cm 10pt;\"><span style=\"font-family: Calibri; font-size: medium;\">I hovedbygning 101 opleves den originale arkitektur, med beton og rene linjer. Bygningen blev renoveret i 2003, men dav&aelig;rende rektor Lars Pallesen mente samtidigt, at det var vigtigt at beholde og bevare det originale arkitektoniske udtryk. Bygning 101 er den eneste bevaringsv&aelig;rdige bygning fra det originale byggeri og huser blandt andet administration, hovedkantine, bibliotek, glassalen og sportshallen. Selvom byggestilen kan virke kold og kantet er stilen flere steder udfordret. Der findes blandt andet en r&aelig;kke markante skulpturelle trapper, udformet i b&aring;de st&aring;l og jernbeton, der bryder med det stramme udtryk. I lydfort&aelig;llingen kan du h&oslash;re mere om indretningsvalg, sportshallen, samt overvejelserne om at bevare historisk arkitektur. For Eva og Nils Koppel er billedkunsten fra starten en vigtig del af byggeriet, der kan skabe milj&oslash; og genkendelighed. Specielt bygning 101 rummer en r&aelig;kke markante v&aelig;rker. Find yderligere information om dette ved DTU&rsquo;s kunstrute, som ogs&aring; ligger i denne app. <br /></span><span style=\"font-family: Times New Roman; font-size: medium;\"><br />Under hovedbygningen er et virvar af k&aelig;ldergange og rum, der normalt er lukket for offentligheden. F&aring; et lille kig ned i k&aelig;lderen gennem denne video: <a href=\"https://www.youtube.com/watch?v=0U29Yckh_iA&amp;feature=youtu.be\">https://www.youtube.com/watch?v=0U29Yckh_iA&amp;feature=youtu.be</a>&nbsp;<br /></span></p>\r\n<p><em><span style=\"line-height: 115%; font-family: 'Calibri','sans-serif'; font-size: 11pt; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-fareast-language: EN-US; mso-ansi-language: DA; mso-bidi-language: AR-SA;\">Kilde: &rsquo;Eva og Nils Koppel&rsquo; af Johannes Hedal Hansen og Jennifer Dahm Petersen, Strandberg Publishing, 2017. <strong style=\"mso-bidi-font-weight: normal;\"><br style=\"mso-special-character: line-break;\" /> </strong></span></em></p>",
-                    "coordinates": {
-                        "latitude": "55.7856460",
-                        "longitude": "12.5247450"
-                    },
-                    "audio": null,
-                    "images": [
-                        "DTU.byg101.Kaare_Smith.jpg",
-                        "DTU.fritkøbt2.jpg",
-                        "DTU_Bibliotek_Thorkild_Amdi_Christensen.jpg",
-                        "DTU.sportshal.fritkøbt.jpg",
-                        "Ehrhorn__Hummerston1.jpg"
-                    ]
-                },
-                "position": 3,
-                "visit": true
-            },
-            {
-                "item": {
-                    "name": "Bygning 201-205, Lifescience & Bio Engineering",
-                    "sub_name": null,
-                    "kind": "Bygning",
-                    "location": null,
-                    "creator": {
-                        "name": "COWI, Christensen & Co Arkitekter, Rørbæk & Møller Arkitekter, Schul Landskabsarkitekter og Wessberg",
-                        "about": null,
-                        "title": "Arkitekt"
-                    },
-                    "about": "<p><strong>DTU's st&oslash;rste nye byggeprojekt til mennesker, dyr og mikroorganismer<br /><br />FAKTA: Bygherre Chef, Claus M&oslash;ller Rasmussen. Byggeperiode: 2014-2019, Areal: Ca.50.000 m<sup>2&nbsp;</sup>i b&aring;de nybyggeri og ombygning, Budget: 1,4 mia. kr. <br />Medvirkende i lydfort&aelig;lling: Birgitte Fester , arkitekt ved R&oslash;rb&aelig;k &amp; M&oslash;ller Arkitekter; Michael Christensen, partner og kreativ direkt&oslash;r ved Christensen &amp; Co.<br /></strong></p>\r\n<p><span style=\"font-family: Calibri; font-size: medium;\">I 2012 blev det afgjort at COWI med underr&aring;dgivere var vindere af projektkonkurrencen til det nye institut byggeri til Life Science &amp; Bioengineering, der d&aelig;kker bygningerne 201-205. Bygning 202 er et nyt byggeri, der kobler de eksisterende bygninger 201 &amp; 204 sammen. Bygning 202 er det st&oslash;rste nye byggeri p&aring; Lyngby Campus siden stedets oprindelse og hele bygning 201 og 204 gennemg&aring;r omfattende indvendig renovering. Desuden etableres den nye Bygning 205, som bliver et h&oslash;jklassificeret laboratorium. De nye bygninger skal huse DTU Aqua, DTU F&oslash;devareinstitut og DTU Veterin&aelig;rinstitut. Som en del af det nye byggeri har det sociale l&aelig;ringsmilj&oslash; v&aelig;ret h&oslash;jt prioriteret. Biosf&aelig;ren er navnet p&aring; et trippelh&oslash;jt atrium, som danner rammen for sociale m&oslash;der, faglig udveksling, kantine og caf&eacute;-omr&aring;de. Biosf&aelig;ren &aring;bner bygning 202&nbsp;op og inviterer til vidensdeling p&aring; tv&aelig;rs af faglighederne.<br /></span><span style=\"font-family: Calibri; font-size: medium;\"> Rektor Anders Bjarklev fort&aelig;ller om byggeriet i denne video: <br /> <br /> Youtube video link: </span><a href=\"https://www.youtube.com/watch?v=YVbGtqm4mdA\"><span style=\"color: #0000ff; font-family: Calibri; font-size: medium;\">https://www.youtube.com/watch?v=YVbGtqm4mdA</span></a></p>\r\n<p>&nbsp;</p>\r\n<p style=\"margin: 0cm 0cm 10pt;\"><em><span style=\"font-family: Calibri; font-size: medium;\">Kilde: </span><a href=\"http://www.dtu.dk/Om-DTU/Praktisk-information/Campusudvikling/Byggeri-paa-vej/Bygning-201-205/Bygning-202\"><span style=\"color: #0000ff; font-family: Calibri; font-size: medium;\">http://www.dtu.dk/Om-DTU/Praktisk-information/Campusudvikling/Byggeri-paa-vej/Bygning-201-205/Bygning-202</span></a><span style=\"font-family: Calibri; font-size: medium;\"> / </span><a href=\"http://www.dtu.dk/Om-DTU/Praktisk-information/Campusudvikling/Byggeri-paa-vej/Bygning-201-205\"><span style=\"color: #0000ff; font-family: Calibri; font-size: medium;\">http://www.dtu.dk/Om-DTU/Praktisk-information/Campusudvikling/Byggeri-paa-vej/Bygning-201-205</span></a></em></p>\r\n<p>&nbsp;</p>",
-                    "coordinates": {
-                        "latitude": "55.7861960",
-                        "longitude": "12.5213120"
-                    },
-                    "audio": null,
-                    "images": [
-                        "Byg.201-205.Tjorbjørn_Hansen_Kontraframe.jpg",
-                        "Byg201-205.Stamers_Kontor.jpg",
-                        "overdragelse_bygning_201.2.Thorkild_Christensen.jpg",
-                        "overdragelse_bygning_201.Thorkild_Christensen.jpg"
-                    ]
-                },
-                "position": 4,
-                "visit": true
-            },
-            {
-                "item": {
-                    "name": "Normalhuse",
-                    "sub_name": null,
-                    "kind": "Bygning",
-                    "location": null,
-                    "creator": {
-                        "name": "Nils og Eva Koppel",
-                        "about": null,
-                        "title": "Arkitekt"
-                    },
-                    "about": "<p style=\"margin: 0cm 0cm 10pt;\"><strong><span style=\"font-family: Calibri; font-size: medium;\">Medvirkende i lydfort&aelig;lling: Andy Horsewell, professor ved DTU Mekanik.</span></strong></p>\r\n<p style=\"margin: 0cm 0cm 10pt;\"><span style=\"font-family: Calibri; font-size: medium;\">Normalhusene er et eksempel p&aring; en af de originale bygningstyper fra Koppels oprindelige byggeplan. I 1974 udgjorde Normalhusene 60% af bygningskvadratmetrene p&aring; DTU. Det arkitektoniske udtryk er rationelt og praktisk. Husene er regul&aelig;re 3 etagers huse p&aring; 50 eller 100 meter. Rumdybden i den ene side af huset er 6,27 m., t&aelig;nkt som velegnet til tegnestue eller laboratorier. I den anden side er rumdybden 4,56 m. og er udnyttet til kontorer. </span></p>",
-                    "coordinates": {
-                        "latitude": "55.7857610",
-                        "longitude": "12.5189650"
-                    },
-                    "audio": null,
-                    "images": [
-                        "Normalhuse.DTU.jpg"
-                    ]
-                },
-                "position": 5,
-                "visit": false
-            },
-            {
-                "item": {
-                    "name": "Bygning 303A, Auditoriebygning",
-                    "sub_name": null,
-                    "kind": "Bygning",
-                    "location": null,
-                    "creator": {
-                        "name": "Nils og Eva Koppel",
-                        "about": null,
-                        "title": "Arkitekt"
-                    },
-                    "about": "<p><strong>Auditoriefaciliteter p&aring; DTU<br /><br />FAKTA: Byggeperiode: 2015-2016, Areal: 3.285 m2, Budget: ca. 80 mio.&nbsp;&nbsp;&nbsp;&nbsp; </strong><br /><strong>Totalr&aring;dgiver: R&oslash;rb&aelig;k &amp; M&oslash;ller Arkitekter, Ingeni&oslash;r: Alectia</strong><br /><strong>Medvirkende i lydfort&aelig;lling: Andy Horsewell, professor ved DTU Mekanik; Voxpop med studerende fra DTU.</strong></p>\r\n<p><span style=\"font-family: Calibri;\"><span style=\"font-size: medium;\">Denne bygning er DTU&rsquo;s st&oslash;rste auditoriebygning og den har for nyligt gennemg&aring;et en indvendig renovering. Den prim&aelig;re&nbsp;hensigt&nbsp;har v&aelig;ret&nbsp;at optimere&nbsp;indeklima, lys og akustik&nbsp; i de enkelte auditorier.&nbsp;R&oslash;rb&aelig;k &amp; M&oslash;ller Arkitekter, samt Alectia, har v&aelig;ret inde over renoveringen af den store auditoriebygning, der best&aring;r af 6 auditorier og tre databarer.&nbsp;Grundplanen er et tiln&aelig;rmet kvadrat med dets 52 x 58 meter, der er delt i tre sektioner, hvoraf den midterste er en bred foyer. I k&aelig;lderen under auditorierne er der oprindeligt ind t&aelig;nkt et beskyttelsesrum, der kan rumme 1.800 personer.<span style=\"mso-spacerun: yes;\">&nbsp; </span></span><span style=\"font-size: medium;\">Beredskabsrummet blev opf&oslash;rt under den kolde krig, da reglementer kr&aelig;vede opf&oslash;relsen af sikkerhedsrum i offentlige bygninger.&nbsp;<br />Renoveringen af bygning 303A er en del af den samlede strategi p&aring; DTU, hvor alle auditorier frem&nbsp;mod 2021 skal moderniseres og renoveres.</span><span style=\"mso-spacerun: yes;\"><span style=\"font-size: medium;\">&nbsp;</span></span></span></p>\r\n<p>&nbsp;</p>\r\n<p style=\"margin: 0cm 0cm 10pt;\"><em><span style=\"font-family: Calibri; font-size: medium;\">Kilde: &rsquo;Eva og Nils Koppel&rsquo; af Johannes Hedal Hansen og Jennifer Dahm Petersen, Strandberg Publishing, 2017 / DTU&rsquo;s Historie- og samlingsdatabase.</span></em></p>",
-                    "coordinates": {
-                        "latitude": "55.7852400",
-                        "longitude": "12.5196300"
-                    },
-                    "audio": null,
-                    "images": [
-                        "30002041-101.jpg",
-                        "303A_studiemiljø.Kristian_Ridder-Nielsen.jpg",
-                        "auditoriebygning_303A.2.Mikal_Schlosser.jpg",
-                        "auditoriebygning_303A.Mikal_Schlosser.jpg",
-                        "Bygning303A.Stamers_Kontor.jpg"
-                    ]
-                },
-                "position": 6,
-                "visit": true
-            },
-            {
-                "item": {
-                    "name": "Bygning 324, DTU Compute",
-                    "sub_name": null,
-                    "kind": "Bygning",
-                    "location": null,
-                    "creator": {
-                        "name": "Christensen & Co.",
-                        "about": null,
-                        "title": "Arkitekt"
-                    },
-                    "about": "<p style=\"margin: 0cm 0cm 10pt;\"><strong>Nye studiemilj&oslash;er<br /><br />FAKTA: Byggeperiode: 2011-2013, Areal: 4.600 m<sup>2&nbsp;</sup>Budget: 99,5 mio. kr.<br />Medvirkende i lydfort&aelig;lling: Michael Christensen, partner og kreativ direkt&oslash;r, Christensen &amp; Co.<br /></strong></p>\r\n<p><span style=\"font-family: Calibri;\"><span style=\"font-size: medium;\">I 2013 stod en helt ny bygning f&aelig;rdig ved det store Matematiktorv i 3. kvadrant. Bygningen huser DTU Compute, der er en fusionering mellem det tidligere DTU Infomatik og DTU Matematik. DTU Compute er et af de st&oslash;rste institutter og bygning 324 er pr&aelig;get af moderne undervisningsfaciliteter, samt &aring;bne loungeomr&aring;der til de studerende. Bygningen skiller sig ud blandt de mange mursten, med dets glasfacade og transparens, der ogs&aring; er anvendt indenfor. &Aring;bne milj&oslash;er, med kig til de forskellige aktiviteter, skaber et livligt hus, med lys. Lyset og &aring;benheden pr&aelig;ger loungeomr&aring;derne, hvor der ogs&aring; er plantet indvendige black-olive tr&aelig;er, som hj&aelig;lper med at holde et sundt indeklima. De mere tekniske undervisningsfaciliteter er desuden optimeret betydeligt gennem moderne og avanceret av-udstyr, der underst&oslash;tter fremtidig e-l&aelig;ring. <br /></span><span style=\"font-size: medium;\"> Bygningen er desuden designet til at v&aelig;re en lavenergi klasse 1 bygning. </span></span></p>\r\n<p style=\"margin: 0cm 0cm 10pt;\"><em><span style=\"font-family: Calibri; font-size: medium;\">Kilde: </span><a href=\"http://www.dtu.dk/Om-DTU/Praktisk-information/Campusudvikling/Byggeri_afsluttet/Bygning-324%20/\"><span style=\"color: #0000ff; font-family: Calibri; font-size: medium;\">http://www.dtu.dk/Om-DTU/Praktisk-information/Campusudvikling/Byggeri_afsluttet/Bygning-324 /</span></a><span style=\"font-family: Calibri;\"><span style=\"font-size: medium;\"> <br /></span><span style=\"font-size: medium;\"> / </span></span><a href=\"http://www.christensenco.dk/projekter/&amp;p=15\"><span style=\"color: #0000ff; font-family: Calibri; font-size: medium;\">http://www.christensenco.dk/projekter/&amp;p=15</span></a></em></p>",
-                    "coordinates": {
-                        "latitude": "55.7841030",
-                        "longitude": "12.5185530"
-                    },
-                    "audio": null,
-                    "images": [
-                        "Byg324.Ude.Stamers_Kontor.jpg",
-                        "Bygning_324.miljø.Stamers_Kontor.jpg",
-                        "Bygning_324.Stamers_Kontor.jpg"
-                    ]
-                },
-                "position": 7,
-                "visit": false
-            },
-            {
-                "item": {
-                    "name": "Bygning 340, Fotonik",
-                    "sub_name": null,
-                    "kind": "Bygning",
-                    "location": null,
-                    "creator": {
-                        "name": "Rørbæk & Møller Arkitekter",
-                        "about": null,
-                        "title": "Arkitekt"
-                    },
-                    "about": "<p><strong>Lysdesign i sammenspil med arkitekturen<br /><br />FAKTA: Areal: 3.700 m2, Budget: 120 mio. kr. Byggeperiode: 2014-2016.</strong><br /><strong>Ingeni&oslash;r: Alectia A/S, Hovedentrepren&oslash;r: B. Nygaard S&oslash;rensen.<br />Medvirkende i lydfort&aelig;lling: Sune Borch, projektleder, Campus Service DTU.</strong><br /><br /><br /><span style=\"line-height: 115%; font-family: 'Calibri','sans-serif'; font-size: 11pt; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-fareast-language: EN-US; mso-ansi-language: DA; mso-bidi-language: AR-SA;\">Bygning 340 er et af de nyeste byggerier p&aring; DTU og huser DTU Fotonik, der forsker i lysets anvendelsesmuligheder. Bygningen er direkte forbundet til de eksisterende fotonik bygninger og rummer nye m&oslash;rke, st&oslash;vfrie laboratorier i k&aelig;lderen. En del af forskningen kan dog ogs&aring; foreg&aring; i mere &aring;bne laboratorier, der er placeret s&aring; forbipasserende kan kigge ind. Vinduer ind til laboratorierne og flere glaspartier er blevet prioriteret i &oslash;nsket om at &aring;bne op og synligg&oslash;re den aktuelle forskning. <span style=\"mso-spacerun: yes;\">&nbsp;</span>Lyset er p&aring; flere m&aring;der en gennemg&aring;ende del af bygningen og i den offentlige passage fra Asmussens All&eacute; til &Oslash;rsteds Plads pulserer et lysdesign af Iben Winther Orton. Det centrale hovedstr&oslash;g i bygningen er blevet d&oslash;bt &rsquo;Line of Light&rsquo; og den lysende stribe tr&aelig;der tydeligt frem n&aring;r dagslyset s&aelig;nker sig. Iben Winther Orton har designet det specielle lys, der bryder med askelamellerne p&aring; v&aelig;ggene. Gulvet er desuden lavet af bambus og de anvendte tr&aelig;sorter giver en ro og varme til rummene i sammenspil med lyset. </span></p>",
-                    "coordinates": {
-                        "latitude": "55.7825190",
-                        "longitude": "12.5189320"
-                    },
-                    "audio": null,
-                    "images": [
-                        "340.Fotonik_facade._Adam_Mørk.jpg",
-                        "340.fotonik-lysfacade.jpg",
-                        "340.Indendørs.Adam_Mørk.jpg",
-                        "340.Materialer.Adam_Mørk.jpg"
-                    ]
-                },
-                "position": 8,
-                "visit": true
-            },
-            {
-                "item": {
-                    "name": "Bygning 354, Lydlab",
-                    "sub_name": null,
-                    "kind": "Bygning",
-                    "location": null,
-                    "creator": {
-                        "name": "Rørbæk & Møller Arkitekter",
-                        "about": null,
-                        "title": "Arkitekt"
-                    },
-                    "about": "<p><strong>FAKTA<br />Areal: 400 m2 nybyggeri og 147 m2 ombygning, Budget:&nbsp;18,2 mio. kr., Byggeperiode: 2014.</strong><br /><strong>Medvirkende i lydfort&aelig;lling: Barbara Olrik, arkitekt hos R&oslash;rb&aelig;k &amp; M&oslash;ller Arkitekter.</strong></p>\r\n<p>Bygningen syner m&aring;ske ikke af noget stort, men Lydlab faciliteterne til DTU Elektro -&nbsp;Hearing Systems, er nogle af de mest sofistikerede faciliteter inden for audiovisuel forskning. I 2014 blev to sorte bokse tilf&oslash;jet til de eksisterende gule murstensbygninger af R&oslash;rb&aelig;k &amp; M&oslash;ller Arkitekter. Rent arkitektonisk er det et godt eksempel p&aring; hvorledes de eksisterende bygninger udnyttes til at forme nybyggerier og tilbygninger. Opgaven har kr&aelig;vet r&aring;dgivning fra ALECTIA i forbindelse med neds&aelig;ttelsen af krav til det akustiske milj&oslash; og fremtidssikring af rummene.&nbsp;I den ene af boksene er der&nbsp;blandt andet etableret et lydd&oslash;dt rum til forskningen. <br /><br />Kilde: <span style=\"line-height: 115%; font-family: 'Calibri','sans-serif'; font-size: 11pt; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-fareast-language: EN-US; mso-ansi-language: DA; mso-bidi-language: AR-SA;\"><a href=\"http://www.alectia.com/da/projekter/dtu-s-laboratoriebygning-far-nyt-lyddodt-rum-da/\"><span style=\"font-family: 'Arial','sans-serif';\"><span style=\"color: #0000ff;\">http://www.alectia.com/da/projekter/dtu-s-laboratoriebygning-far-nyt-lyddodt-rum-da/</span></span></a></span><span style=\"color: #323232; line-height: 115%; font-family: 'Arial','sans-serif'; font-size: 11pt; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-fareast-language: EN-US; mso-ansi-language: DA; mso-bidi-language: AR-SA;\">&nbsp;/ <span style=\"line-height: 115%; font-family: 'Calibri','sans-serif'; font-size: 11pt; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-fareast-language: EN-US; mso-ansi-language: DA; mso-bidi-language: AR-SA;\"><a href=\"http://www.dtu.dk/om-dtu/praktisk-information/campusudvikling/byggeri_afsluttet/bygning-354\"><span style=\"font-family: 'Arial','sans-serif';\"><span style=\"color: #0000ff;\">http://www.dtu.dk/om-dtu/praktisk-information/campusudvikling/byggeri_afsluttet/bygning-354</span></span></a></span><span style=\"color: #323232; line-height: 115%; font-family: 'Arial','sans-serif'; font-size: 11pt; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-fareast-language: EN-US; mso-ansi-language: DA; mso-bidi-language: AR-SA;\">&nbsp;</span></span>&nbsp;&nbsp;&nbsp;&nbsp;</p>",
-                    "coordinates": {
-                        "latitude": "55.7818690",
-                        "longitude": "12.5159510"
-                    },
-                    "audio": null,
-                    "images": [
-                        "Det_Lyddøde_Rum_DTU_byg354.Thorkild_Amdi_Christensen.jpg",
-                        "lydlaboratorium.254.Stamers_kontor.jpg",
-                        "lydlaboratoriumStamerskontor.jpg"
-                    ]
-                },
-                "position": 9,
-                "visit": false
-            },
-            {
-                "item": {
-                    "name": "Bygning 374, Skylab",
-                    "sub_name": null,
-                    "kind": "Bygning",
-                    "location": null,
-                    "creator": {
-                        "name": "Juul Frost Arkitekter",
-                        "about": null,
-                        "title": "Arkitekt"
-                    },
-                    "about": "<p><strong>Innovativ tilgang til studiemilj&oslash; og arkitektur<br /></strong><span style=\"font-family: 'Arial','sans-serif';\"><span style=\"font-size: medium;\"><br /><strong>FAKTA: Bygherre: DTU CAS, Arkitekt: Juul Frost Arkitekter</strong><br /></span><strong><span style=\"font-size: medium;\"> Ingeni&oslash;r: Alectia, Belysning: Lightscapes. <br /> </span><span style=\"mso-bidi-font-weight: bold;\"><span style=\"font-size: medium;\"><br />Medvirkende i lydfort&aelig;lling: Helle Juul fra Juul Frost Arkitektur; Mikkel S&oslash;rensen, daglig leder af Skylab; Voxpop med studerende fra DTU.</span></span></strong></span></p>\r\n<p>I den sydlige&nbsp;del af Lyngby Campus ligger DTU Skylab, som blev indviet i september 2014 og tilbyder cirka 1500 m2 til de studerende. Bygningen er en gammel forskningshal fra 1970erne, der blev brug af DTU Byg. En gennemg&aring;ende renovering har skabt et inspirerende studiemilj&oslash;, med respekt for bygningens originale arkitektoniske v&aelig;rdier, som den indvendige struktur med betons&oslash;jler og kranbaner. I dag er DTU Skylab et levende og dynamisk milj&oslash;, med optimale rammer for tv&aelig;rfaglig vidensdeling i de &aring;bne lokaler. Projektet skubber til opfattelsen af det traditionelle Campus milj&oslash; og har fokus p&aring; &aring;benhed og transformering. <br />Ombygningen blev nomineret til RENOVERPRISEN i 2015 med begrundelsen: Et fornemt eksempel p&aring;, hvordan en vision&aelig;r bygherre i samarbejde med de&nbsp;studerende og r&aring;dgiverne kan g&oslash;re en udslidt bygning til et symbol p&aring; fanden i voldsk g&aring;-p&aring;-mod og en livgivende eksperimenterende praksis.\"<br /><br />Skylab har i marts 2017 modtaget en ny donation p&aring; 80 mio. kr. fra Den A.P. M&oslash;llerske St&oslash;ttefond, der giver det popul&aelig;re Skylab, mulighed for at udvide innovationshuset med nye faciliteter og kvadratmeter. I det nye hus bliver der fortsat masser af plads til de studerende, samt forskere, iv&aelig;rks&aelig;ttere og erhvervslivet.</p>\r\n<p>Kilde: <span style=\"line-height: 115%; font-family: 'Calibri','sans-serif'; font-size: 11pt; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: DA; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\"><a href=\"http://www.dtu.dk/om-dtu/praktisk-information/campusudvikling/byggeri_afsluttet/bygning-376-skylab\"><span style=\"font-family: 'Arial','sans-serif';\"><span style=\"color: #0000ff;\">http://www.dtu.dk/om-dtu/praktisk-information/campusudvikling/byggeri_afsluttet/bygning-376-skylab</span></span></a></span><span style=\"color: #323232; line-height: 115%; font-family: 'Arial','sans-serif'; font-size: 11pt; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: DA; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">&nbsp; / <span style=\"line-height: 115%; font-family: 'Calibri','sans-serif'; font-size: 11pt; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: DA; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\"><a href=\"http://www.juulfrost.dk/projekter/220/#5\"><span style=\"font-family: 'Arial','sans-serif';\"><span style=\"color: #0000ff;\">http://www.juulfrost.dk/projekter/220/#5</span></span></a></span></span></p>",
-                    "coordinates": {
-                        "latitude": "55.7817020",
-                        "longitude": "12.5126160"
-                    },
-                    "audio": null,
-                    "images": [
-                        "Bygning_373.Skylab.Stamers_Kontor.jpg",
-                        "Bygning_373.ude.Stamers_Kontor.jpg",
-                        "DTU_Skylab2.Stamers_Kontor.jpg"
-                    ]
-                },
-                "position": 10,
-                "visit": true
-            }
-        ],
-        "about": null,
-        "audio": null,
-        "color": [76, 175, 80]
-    },
-    {
-        "name": "Kunstruten",
-        "logo": "Kunstruten",
-        "route_items": [
-            {
-                "item": {
-                    "name": "Portræt af Julius Thomsen",
-                    "sub_name": "Indviet d. 20. februar 1906 i Sølvgade. Bronzefigur",
-                    "kind": "Kunst",
-                    "location": "Bygning 118, udenfor bygningen.",
-                    "creator": {
-                        "name": "August Vilhelm Saabye (1823-1916)",
-                        "about": "<p class=\"p1\"><span class=\"s1\">August Vilhelm Saabye var en dansk billedhugger. Oprindelig blev han uddannet h&aring;ndv&aelig;rker, men havde et &oslash;nske om at udvikle sig yderligere gennem kunstakademiet, hvor han blev optaget i 1842. En r&aelig;kke konkurrencer skabte opm&aelig;rksomhed omkring A. Vilhelm, og i 1855 fik han midler af Indenrigsministeriet og Det Reiersenske Fond til rejser, som fik betydning for kunstnerens videre produktioner. Desuden fik han lov at arbejde hos den erfarne billedhugger H.W. Bissen (1798-1868), som s&aring; hans talent. A. Saabye opn&aring;ede igennem sit lange liv at pr&aelig;ge dansk billedhuggerkunst med sine mindesm&aelig;rker og portr&aelig;tbuster, heriblandt hans kendte&nbsp; statue af H.C. Andersen i Kongens Have fra 1877, der blev udf&oslash;rt som en bestillingsopgave.</span></p>\r\n<p class=\"p1\"><span class=\"s1\"><em>Kilder: Kunstindeks Danmark &amp; Weilbachs Kunstnerleksikon</em></span></p>",
-                        "title": "Kunstner"
-                    },
-                    "about": "<p class=\"p1\"><span class=\"s1\">Udenfor Institut for Byggeri &amp; Anl&aelig;g, ved bygning 118, st&aring;r en lille bronzefigur med en stor historie. Oprindeligt blev bronzestatuetten skabt til DTU&rsquo;s gamle lokaler i S&oslash;lvgade, hvor den blev afsl&oslash;ret d. 20. februar 1906 i anledning af Julius Thomsens 80-&aring;rs f&oslash;dselsdag. Det er netop J. Thomsen <strong>(</strong>Hans Peter J&ouml;rgen Julius Thomsen), professor i kemi og direkt&oslash;r ved Den Polytekniske L&aelig;reanstalt i &aring;rene 1883-1902, der er statuens motiv. Bronzefiguren viser os en af datidens f&oslash;rende og mest indflydelsesrige videnskabsm&aelig;nd i landet. I 1853 udtog Julius Thomsen patent p&aring; en metode til fabrikation af soda af mineralet kryolit, og i 1856 blev han direkt&oslash;r for fabrikken &Oslash;resund, hvor netop denne metode anvendtes (det formodes, at statuen st&aring;r i et bed med kryolitsten). Fra 1864 underviste Julius Thomsen p&aring; K&oslash;benhavns Universitet i kemi, og fra 1866 var han fastansat professor i kemi og bestyrer af universitetets laboratorium. Som rektor for Den Polytekniske L&aelig;reanstalt fra 1883 gennemf&oslash;rte han v&aelig;sentlige reformer i undervisningen og stod for opf&oslash;relsen af L&aelig;reanstaltens nye bygninger p&aring; S&oslash;lvtorvet i K&oslash;benhavn. Internationalt blev Thomsen kendt for sine termokemiske unders&oslash;gelser &ndash; han var den f&oslash;rste som bevidst anvendte loven om energiens konstans som grundprincip for termokemien.</span></p>\r\n<p class=\"p1\"><span class=\"s1\"><em>Kilder: DTU Historie &ndash; og samlingsdatabase &amp; www.historie.dtu.dk</em></span></p>",
-                    "coordinates": {
-                        "latitude": "55.7899520",
-                        "longitude": "12.5259390"
-                    },
-                    "audio": null,
-                    "images": [
-                        "_MG_2591.JuliusThomsen.statue.jpg",
-                        "_MG_3145.JuliusThomsen.2.jpg",
-                        "_MG_3150.JuliusThomsen.3.jpg"
-                    ]
-                },
-                "position": 5,
-                "visit": true
-            },
-            {
-                "item": {
-                    "name": "Ingen Titel",
-                    "sub_name": "Glaseret beton, uden titel (skabt til udstilling på Danmarks Keramikmuseum, 2012). Ophængt på DTU i 2015.",
-                    "kind": "Kunst",
-                    "location": "Trappeopgangen – stuen, bygning 118.",
-                    "creator": {
-                        "name": "Anja Magrethe Bache (født 1964)",
-                        "about": "<p class=\"p1\"><span class=\"s1\">Anja Magrethe Bache eksemplificerer p&aring; mange m&aring;der sammenspillet mellem teknik og kunst i sin unders&oslash;gelse af beton og keramisk glacering. Hun er uddannet skulpt&oslash;r fra Det Kongelige Danske Kunstakademi og er derudover uddannet Civilingeni&oslash;r fra DTU (Procesteknisk Institut), samt har en ph.d.-grad i arkitektur fra Arkitektskolen i Aarhus. Hendes unders&oslash;gelser af materialer g&oslash;r det sv&aelig;rt at skelne mellem videnskaben og kunsten, da de smelter sammen i &aelig;stetiske objekter og konstruktioner. Hun anvender sin baggrund i materialedesign og implementerer kunstneriske elementer, med tanke p&aring; at udvikle og nyt&aelig;nke &aelig;stetisk byggeri i fremtiden. &nbsp; &nbsp; &nbsp;</span></p>\r\n<p class=\"p1\"><span class=\"s1\">Anja Magrethe Bache foresl&aring;r en designmetode med bredt perspektiv, hvor kunst, h&aring;ndv&aelig;rk og arkitektur arbejder sammen. I 2014 udgav hun bogen <em>Questioning Material design</em> og i pressemeddelelsen fort&aelig;ller hun f&oslash;lgende: &ldquo;<em>I develop materials with the desire to achieve new mechanical, static, chemical and/or other technical performances that can breed possibilities for future types of art, buildings, and urban spaces that do not exist today. At the same time, the materials have to move us sensuously, bodily, and emotionally, so that we want to embrace and kiss them. They must become relevant to us, so we take care of them and feel ourselves in them as reflective intellectuals, but also as beings that sense with body and spirit.&rdquo; </em>Ovenst&aring;ende citater med til at understrege, hvor essentielt det er for Anja Bache at arbejde stedsspecifikt og forholde sig til de omgivelser, hun g&aring;r i dialog med. Det handler om rum og perception, og om at kunne skabe helhedsoplevelser.</span></p>\r\n<p class=\"p1\"><span class=\"s1\">Kilder: <em>Questioning Material design (Anja Magrethe Bache), 2014</em> / www.anjabache.com&nbsp;</span></p>",
-                        "title": "Kunstner"
-                    },
-                    "about": "<p class=\"p1\"><span class=\"s1\">V&aelig;rket p&aring; DTU er en samling af cirkul&aelig;re betonformer glaseret med henholdsvis hvid blank glasur med aftryk af st&aring;lfibre, samt meleret mat blandingsglasur. V&aelig;rket er oprindeligt skabt til en udstilling p&aring; Danmarks Keramiske Museum i 2012 som hed &rsquo;Keramiske Rum &ndash; forskydninger&rsquo;. V&aelig;rket er derfor fra start af en smule atypisk, da Anja Magrethe Bache normalt arbejder med stedsspecifik installation. V&aelig;rket er skabt til Danmarks Keramiske Museum, men selve produktionen foregik her p&aring; DTU, hvor Anja Bache i en periode havde et lille v&aelig;rksted. V&aelig;rket er s&aring;ledes oprindeligt en del af en st&oslash;rre udstilling, som unders&oslash;ger forskydninger og forholdet mellem beton og keramisk glasering. Den gr&aring; beton, som ofte knyttes til en h&aring;rdhed og styrke, kommer i sammenspil med den keramiske glaserings lethed og stoflighed. Det er et v&aelig;rk, der stiller sp&oslash;rgsm&aring;l og unders&oslash;ger brugen af materialer og former i dets rumlige sammenh&aelig;ng.&nbsp; Anja Bache fort&aelig;ller f&oslash;lgende om sit arbejde: &rdquo;<em>Mit kunstneriske virke opst&aring;r i sp&aelig;ndingsfeltet mellem forskning og praksis, samt mellem kunst, design, arkitektur og teknologi. Her m&oslash;der jeg forskellige traditioner, dogmer, begreber og betydninger. Jeg st&oslash;der p&aring; varierende fagligheder, metoder og kommunikationsformer. Det er det, jeg dyrker, det er forskellene, mellemrummene og gr&aelig;nserne. Jeg transformerer viden, skaber synteser, stiller sp&oslash;rgsm&aring;l p&aring; tv&aelig;rs og kreerer herudfra former, konstruktioner og objekter, der peger p&aring; nye performances, stofligheder og &aelig;stetiske udtryk.</em>&rdquo; Der sker en sammensmeltning af tilgange hos Anja Bache, som &aring;bner op for nye perspektiver og muligheder. En symbiose mellem teknisk videnskab og kunstnerisk kreativitet.</span></p>\r\n<p class=\"p1\"><span class=\"s1\">Kilder: <em>Udstillingskataloget til &rsquo;Keramiske Rum, forskydninger&rsquo; p&aring; Danmarks Keramikmuseum &ndash; Grimmerhus, 22.januar &ndash; 22. april 2012 / www.anjabache.com</em>&nbsp;</span></p>",
-                    "coordinates": {
-                        "latitude": "55.7902500",
-                        "longitude": "12.5255510"
-                    },
-                    "audio": null,
-                    "images": [
-                        "_MG_2593.AnjaBache.jpg",
-                        "_MG_2596.AnjaBache.2.jpg"
-                    ]
-                },
-                "position": 6,
-                "visit": true
-            },
-            {
-                "item": {
-                    "name": "Eventyret om København,  1967",
-                    "sub_name": "Malet i anledning af Københavns 800 års jubilæum. Oliemaleri,  250 x 350 cm.",
-                    "kind": "Kunst",
-                    "location": "Bygning 208, forhallen",
-                    "creator": {
-                        "name": "Carl Henning Pedersen (1913-2007)",
-                        "about": "<p class=\"p1\"><span class=\"s1\">Carl Henning Pedersen (1913-2007) var en anerkendt dansk maler hvis v&aelig;rker fortsat kan ses mange steder i Danmark grundet en r&aelig;kke offentlige udsmykningsopgaver (eks. Ribe Domkirke). P&aring; DTU er vi s&aring; heldige at have to v&aelig;rker af kunstneren, som er med til at understrege hans kunstneriske mangfoldighed. Carl Henning Pedersen er blandt andet kendt for sin tilknytning til Cobra-bev&aelig;gelsen. En gruppe dannet af ligesindede kunstnere i 1948, som skabte spontane og fantasifulde v&aelig;rker. Han var en del af et alternativt kunstmilj&oslash;, som opstod p&aring; tekstilfabrikant Aage Damg&aring;rds tredje Angli-fabrik. En fabrik hvor kunstnere som Robert Jacobsen og Sven Wiig Hansen ogs&aring; tidligere havde v&aelig;ret tilknyttet. Desuden levede han t&aelig;t med sin kone Else Alfelt, som var en af de drivkr&aelig;fter der i f&oslash;rste omgang inspirerede ham til at male.</span></p>\r\n<p class=\"p1\"><span class=\"s1\">Carl Henning Pedersen har selv udtalt f&oslash;lgende om sin tilgang til kunst: &rdquo;<em>Jeg har skabt billeder ud af fantasien og har derved bygget p&aring; det samme grundlag som al folkelig kunst. Jeg tror, at vil vi skabe en kunst, der skal f&aring; betydning i det menneskelige samfunds udvikling, der vil bev&aelig;ge og tale til menneskene, m&aring; vi &oslash;se af de rige kilder, der ligger inde i ethvert menneske.</em>&rdquo; Carl Henning Pedersen var et gavmildt menneske og han &oslash;nskede, at sin kunst var tilg&aelig;ngelig for offentligheden. Han stoppede allerede omkring 1960 med salget af sine v&aelig;rker til private. I stedet fokuserede han p&aring; enkelte museumsbestillinger eller udsmykningsopgaver og han s&aring; desuden gerne sine v&aelig;rker samlet under &eacute;t tag. I dag kan der ses en omfattende samling af Carl Henning Pedersens v&aelig;rker p&aring; Carl Henning Pedersen &amp; Else Alfelts Museum ved Herning.</span></p>\r\n<p class=\"p1\"><span class=\"s1\"><em>Kilder: Carl Henning Pedersen &amp; Else Alfelts Museum / &rsquo;Virkeligheden og dr&oslash;mmen&rsquo;, Eventyrets maleri, H&oslash;studstillingen, Kbh. 1950</em></span></p>",
-                        "title": "Kunstner"
-                    },
-                    "about": "<p class=\"p1\"><span class=\"s1\">&rsquo;Eventyret om K&oslash;benhavn&rsquo; er navnet p&aring; dette store oliemaleri af Carl Henning Pedersen. V&aelig;rket blev oprindeligt malet til K&oslash;benhavns 800-&aring;rs Jubil&aelig;um, men senere sk&aelig;nket til DTU af kunstneren selv. Tidligere professor ved DTU Stig Veibel fort&aelig;ller om v&aelig;rket og dets ankomst til DTU i &rsquo;Sletten&rsquo; avisen fra 1974: &rdquo;<em>Det er en vision, et udsyn over K&oslash;benhavn fra toppen af SAS-bygningen, hvor man aner b&aring;de skibe og biskop Absalon. Udf&oslash;rt p&aring; bestilling af Berlingske Tidende til brug for et nyt&aring;rsnummer fik kunstneren det tilbage efter endt reproduktion, og han fik da den for os uhyre velkomne id&eacute;, at unge polyteknikere kunne have gl&aelig;de af at tage del i de indtryk, udsigten fra Hotel Royal havde givet ham</em>.&rdquo; Carl Henning Pedersen s&aring; s&aring;ledes selv v&aelig;rket som en inspirationskilde for de studerende. V&aelig;rket er farverigt med sine klare gr&oslash;nne og r&oslash;de felter og de store penselstr&oslash;g understreger en spontanitet og kreativitet i skabelsen af v&aelig;rket. En kreativitet som ogs&aring; lever p&aring; DTU blandt de studerende. For Carl Henning Pedersen var kunsten ikke for de f&aring;, men for de mange, og selve evnen til at skabe s&aring; han ogs&aring; som en evne iboende i alle mennesker: &rdquo;<em>Vi skal g&oslash;re alle mennesker til kunstnere. For det er de. De tror bare ikke p&aring; det selv&hellip; De ved ikke, at kunsten bor i mennesket og kun kommer frem ved, at mennesket f&oslash;ler sig frem og leger med sten, farver, ord og toner&hellip;&rdquo;.</em> (Udtale fra 1944. Kataloget til udstillingen CoBrA 1948-51, kunstforeningen i Hamburg, udg. af Uwe M. Schneede, Hamborg 1982, s. 9.)</span></p>\r\n<p class=\"p1\"><span class=\"s1\"><em>Kilder: &rsquo;Sletten&rsquo; avisen fra 1974, 4. &aring;rgang, nr. 10</em></span></p>",
-                    "coordinates": {
-                        "latitude": "55.7873980",
-                        "longitude": "12.5184100"
-                    },
-                    "audio": null,
-                    "images": [
-                        "_MG_2534.CarlHenningPedersen.maleri.jpg"
-                    ]
-                },
-                "position": 7,
-                "visit": true
-            },
-            {
-                "item": {
-                    "name": "Keramisk Vægdekoration/relief",
-                    "sub_name": "Skænket af Statens Kunstfond. Indviet i 1974. 3x11 meter.",
-                    "kind": "Kunst",
-                    "location": "Bygning 303, foyer",
-                    "creator": {
-                        "name": "Carl Henning Pedersen (1913-2007)",
-                        "about": "<p class=\"p1\"><span class=\"s1\">Carl Henning Pedersen (1913-2007) var en anerkendt dansk maler hvis v&aelig;rker fortsat kan ses mange steder i Danmark grundet en r&aelig;kke offentlige udsmykningsopgaver (eks. Ribe Domkirke). P&aring; DTU er vi s&aring; heldige at have to v&aelig;rker af kunstneren, som er med til at understrege hans kunstneriske mangfoldighed. Carl Henning Pedersen er blandt andet kendt for sin tilknytning til Cobra-bev&aelig;gelsen. En gruppe dannet af ligesindede kunstnere i 1948, som skabte spontane og fantasifulde v&aelig;rker. Han var en del af et alternativt kunstmilj&oslash;, som opstod p&aring; tekstilfabrikant Aage Damg&aring;rds tredje Angli-fabrik. En fabrik hvor kunstnere som Robert Jacobsen og Sven Wiig Hansen ogs&aring; tidligere havde v&aelig;ret tilknyttet. Desuden levede han t&aelig;t med sin kone Else Alfelt, som var en af de drivkr&aelig;fter der i f&oslash;rste omgang inspirerede ham til at male.</span></p>\r\n<p class=\"p1\"><span class=\"s1\">Carl Henning Pedersen har selv udtalt f&oslash;lgende om sin tilgang til kunst: &rdquo;<em>Jeg har skabt billeder ud af fantasien og har derved bygget p&aring; det samme grundlag som al folkelig kunst. Jeg tror, at vil vi skabe en kunst, der skal f&aring; betydning i det menneskelige samfunds udvikling, der vil bev&aelig;ge og tale til menneskene, m&aring; vi &oslash;se af de rige kilder, der ligger inde i ethvert menneske.</em>&rdquo; Carl Henning Pedersen var et gavmildt menneske og han &oslash;nskede, at sin kunst var tilg&aelig;ngelig for offentligheden. Han stoppede allerede omkring 1960 med salget af sine v&aelig;rker til private. I stedet fokuserede han p&aring; enkelte museumsbestillinger eller udsmykningsopgaver og han s&aring; desuden gerne sine v&aelig;rker samlet under &eacute;t tag. I dag kan der ses en omfattende samling af Carl Henning Pedersens v&aelig;rker p&aring; Carl Henning Pedersen &amp; Else Alfelts Museum ved Herning.</span></p>\r\n<p class=\"p1\"><span class=\"s1\"><em>Kilder: Carl Henning Pedersen &amp; Else Alfelts Museum / &rsquo;Virkeligheden og dr&oslash;mmen&rsquo;, Eventyrets maleri, H&oslash;studstillingen, Kbh. 1950 / Katalog til Carl Henning Pedersens 100 &aring;r, 2013.</em></span></p>",
-                        "title": "Kunstner"
-                    },
-                    "about": "<p class=\"p1\"><span class=\"s1\">Den store keramiske v&aelig;g af Carl Henning Pedersen st&aring;r fast placeret i bygning 303. V&aelig;rket er skabt til stedet og har netop under en ombygning v&aelig;ret oppe til diskussion i forhold til h&aring;ndteringen af v&aelig;rket under byggeprocessen. Hele ombygningen af den centrale auditoriebygning er foreg&aring;et rundt om Carl Henning Pedersens v&aelig;rk, som har st&aring;et beskyttet og indpakket, s&aring; det kunne beholde sin oprindelige placering p&aring; DTU. V&aelig;rket spreder sig over hele 3x11 meter og byder de studerende velkommen i bygningen og minder om universitetets lange historie. Tidligere professor ved DTU Stig Veibel sagde f&oslash;lgende om v&aelig;rket tilbage ved DTU&rsquo;s indvielse i 1974: <em>&rdquo;&hellip;en fantasi i gule, gr&oslash;nne, bl&aring; og sorte farver, der n&aelig;ppe kan undlade at g&oslash;re indtryk p&aring; selv den mest h&aring;rdnakkede teknokrat, hvis en s&aring;dan skulle findes</em>.&rdquo;<br /> V&aelig;gudsmykningen p&aring; DTU er lavet i tiden efter Carl Henning Pedersen udsmykkede den indre Anglig&aring;rd i Birk ved Herning med et 1000 m2 stort keramisk hovedv&aelig;rk &rsquo;Fantasiens leg om livets hjul&rsquo;, der stod f&aelig;rdigt i 1968. Han har desuden udsmykket sit eget museum i Birk ved Herning, der stod f&aelig;rdigt i 1976. Disse to v&aelig;rker minder p&aring; flere m&aring;der om det keramiske v&aelig;rk der er skabt til stedet her, hvor blik og krop bliver omfavnet af v&aelig;rkets omfang og farvestr&aring;lende keramik.</span></p>\r\n<p class=\"p1\"><span class=\"s1\">Du kan lytte til en lille fort&aelig;lling om den keramiske v&aelig;g her p&aring; DTU, som satte bygherre Lars Robert Kruse i et dilemma.</span></p>\r\n<p class=\"p1\"><span class=\"s1\"><em>Kilder: Sletten, 4. &aring;rg. Nr. 10 &ndash; onsdag d. 15. maj 1974, &rsquo;DTH&rsquo;s Indvigelse&rsquo;.</em></span></p>",
-                    "coordinates": {
-                        "latitude": "55.7852450",
-                        "longitude": "12.5197700"
-                    },
-                    "audio": "Carl Henning Pedersen.mp3",
-                    "images": [
-                        "_MG_3172.CarlHenningPedersen.mur.jpg",
-                        "_W6A5528.CarlHenningPedersen.mur2.jpg"
-                    ]
-                },
-                "position": 8,
-                "visit": true
-            },
-            {
-                "item": {
-                    "name": "Boreplatform, 1990",
-                    "sub_name": "En del af udstillingen DRIFT, i samarbejde med flere arbejdspladser. 170x210 cm.",
-                    "kind": "Kunst",
-                    "location": "Bygning 421",
-                    "creator": {
-                        "name": "Erik Styrbjørn Pedersen (født 1946)",
-                        "about": "<p class=\"p1\"><span class=\"s1\">Erik Styrbj&oslash;rn Pedersen kan godt siges at skille sig lidt ud blandt de mange kunstnere, der er repr&aelig;senteret p&aring; DTU. Erik Styrbj&oslash;rn er selvl&aelig;rt kunstner og er ikke interesseret i at male det, de andre g&oslash;r. Tv&aelig;rtimod maler han ofte motiver fra det klassiske arbejdsliv, med maskiner og sved p&aring; panden. Han maler det liv, der leves, direkte og r&aring;t. P&aring; mange m&aring;der kan man sige, at Erik Styrbj&oslash;rn hylder arbejderen gennem sine malerier, og disse verdslige motiver er sj&aelig;ldne indenfor kunstens tradition. Han har tidligere malet over tematikker som kvantefysikken, og f&oslash;ler sig inspireret af den verden, der ligger bagved alt det, vi kan se. Han har haft adskillige udstillinger gennem tiden, b&aring;de solo og gruppe, og har samarbejdet med institutioner rundt omkring i Danmark.</span></p>\r\n<p class=\"p1\"><span class=\"s1\">Han blev h&aelig;dret med LO&rsquo;s kulturpris i 1999.</span></p>\r\n<p class=\"p1\"><span class=\"s1\"><em>Kilder: Artikel, &rsquo;Kunsten at skildre arbejdet&rsquo;, i Arbejderen, 24. juni 2008.</em></span></p>",
-                        "title": "Kunstner"
-                    },
-                    "about": "<p class=\"p1\"><span class=\"s1\">Maleriet p&aring; DTU af Erik Styrbj&oslash;rn Pedersen h&aelig;nger p&aring; Institut for Mekanik &amp; Teknologi. V&aelig;rket blev skabt i forbindelse med en st&oslash;rre udstilling af kunstneren i 1988-89 ved navn &rsquo;Drift&rsquo;, som skildrede det moderne producerende samfund fra seks forskellige arbejdspladser. Udstillingen rykkede rundt p&aring; museer og arbejdspladser og var blandt andet udstillet p&aring; DTU. V&aelig;rket som h&aelig;nger p&aring; DTU var knyttet til boreplatformen som arbejdsplads. I kataloget til udstillingen beskrives boreplatformen s&aring;ledes: &rdquo;<em>P&aring; jordens overflade er havet nok det sted der kommer n&aelig;rmest det tomme rum. Her st&aring;r de &rsquo;rumfabrikkerne&rsquo;. Sm&aring; samfund isoleret med hav og rum til alle sider, med turnus p&aring; 14 dage, pr&aelig;cist udf&oslash;rt af helikopteren, maskinernes guldsmed. Borerigge selv er en gigantisk myg, der st&aring;r med sine stankelben p&aring; havbunden med snablen dybt stukket i jordens hud sugende v&aelig;sker og gasser til m&aelig;tning af maskinernes glubende appetit.</em>&rdquo;</span></p>\r\n<p class=\"p1\"><span class=\"s1\">V&aelig;rket blev k&oslash;bt til DTU i 1992, og tidligere rektor Hans Peter Jensen s&aring; en fin kobling til DTU gennem den tekniske tematik i v&aelig;rket. Han bem&aelig;rkede dog ogs&aring; en mere seri&oslash;s vinkel ved v&aelig;rket, som minder os om, at store tekniske konstruktioner ogs&aring; skal t&aelig;nkes menneskeligt. DTU er et universitet, der udvikler og producerer redskaber og ideer til arbejdslivet. Universitetet og dets virke er spundet ind i de tematikker som Erik Styrbj&oslash;rn behandler gennem kunsten &ndash; nemlig arbejdslivet og det producerende samfund.</span></p>\r\n<p class=\"p1\"><span class=\"s1\"><em>Kilder: Katalog til museumsudstillingen &rsquo;Drift&rsquo; af Erik Styrbj&oslash;rn Pedersen.</em></span></p>",
-                    "coordinates": {
-                        "latitude": "55.7820290",
-                        "longitude": "12.5215460"
-                    },
-                    "audio": null,
-                    "images": [
-                        "_MG_2483.ErikStyrbjørn.jpg",
-                        "_MG_2485.ErikStyrbjørn.2.jpg"
-                    ]
-                },
-                "position": 14,
-                "visit": true
-            },
-            {
-                "item": {
-                    "name": "Syv magiske muldvarpeskud",
-                    "sub_name": "Udført i 2010. Skænket af Ny Carlsberg Fondet i 2011. 7 malerier af 165 x 350 cm – samlet 28 meter langt værk. Olie og akryl på lærred.",
-                    "kind": "Kunst",
-                    "location": "Bygning 101 A – Landingsbanen",
-                    "creator": {
-                        "name": "Lars Nørgård (f. 1956)",
-                        "about": "<p class=\"p1\"><span class=\"s1\">Lars N&oslash;rg&aring;rd arbejder som maler, grafiker og billedhugger og er ikke optaget af at p&aring;dutte folk bestemte f&oslash;lelser eller budskaber med sin kunst. Han vil, at beskuerne g&oslash;r sig deres egne forestillinger om de ting, der m&oslash;der dem i kunsten. Han er uddannet fra Skolen for Brugskunst i K&oslash;benhavn og har l&aelig;st p&aring; Academy of Art College i San Francisco, men afbr&oslash;d forl&oslash;bet, da han under et bes&oslash;g i Danmark besluttede sig for at blive hjemme. Han blev tiltrukket at et eksperimenterende milj&oslash; i K&oslash;benhavn omkring V&aelig;rkstedet V&aelig;rst i 80&rsquo;erne. N&aring;r man ser Lars N&oslash;rg&aring;rds v&aelig;rker i dag skulle man ikke tro det, men han startede med at male fotorealistisk, for senere at blive inspireret af amerikansk-abstrakte tendenser. I de nyere v&aelig;rker er der en sp&aelig;nding eller dialog mellem kaos og orden i en mere ekspressiv form end tidligere. Kunstneren beskriver selv sin maleproces s&aring;ledes: <em>&rdquo;&hellip;jeg ved at &rdquo;lykkelige ulykker&rdquo; p&aring; l&aelig;rredet, dvs. uforudsete tekniske udfald, farver der blander sig &rdquo;forkert&rdquo;, farve der l&oslash;ber, ukoncentrerede str&oslash;g, der n&aelig;sten kunne have v&aelig;ret lavet af en anden end en selv - summen af alt dette, er altid vejen frem og fuldkommen n&oslash;dvendigt&hellip;</em>&rdquo;. Lars N&oslash;rg&aring;rd arbejder bedst under tidspres, men s&aring; arbejder han ogs&aring; konstant og i et flow. Altid til musik.</span></p>\r\n<p class=\"p1\"><span class=\"s1\">Lars N&oslash;rg&aring;rds v&aelig;rker er pr&aelig;senteret p&aring; museer i hele landet og hans v&aelig;rker pr&aelig;senteres desuden ofte i b&aring;de solo- og gruppeudstillinger.</span></p>\r\n<p class=\"p1\"><span class=\"s1\"><em>Kilder: kunsten.nu &ndash; &rsquo;Ugens Kunster&rsquo;, juni 2015, af Lisbeth Bonde / samtale med kunstneren i juni 2016.&nbsp;</em></span></p>",
-                        "title": "Kunstner"
-                    },
-                    "about": "<p class=\"p1\"><span class=\"s1\">De syv magiske muldvarper af Lars N&oslash;rg&aring;rd har en af de mest centrale placeringer p&aring; DTU i Lyngby, og er desuden et af de nyeste v&aelig;rker i universitetets samling. V&aelig;rkerne h&aelig;nger farvestr&aring;lende i en af de to store vandrehaller, som er 15 meter bred og 100 meter lang. De to vandrehaller ligger p&aring; hver sin side af Gr&oslash;nneg&aring;rden og kaldes til dagligt for landingsbanerne. Navnet peger tilbage til stedets tidligere funktion som Lundtofte flyveplads i perioden 1917-59, hvor flyene lettede og landede hvor universitetet i dag er placeret. V&aelig;rkerne af Lars N&oslash;rg&aring;rd blev produceret gennem 2010 i kunstnerens atalier. Det tog ham cirka en m&aring;ned at male hvert v&aelig;rk.</span></p>\r\n<p class=\"p1\"><span class=\"s1\">DTU&rsquo;s dav&aelig;rende rektor Lars Pallesen udtrykte stor gl&aelig;de ved pr&aelig;sentationen af de syv malerier i 2011: &rdquo;<em>Selvom vi er teknologer, teknokrater og nogle vil kalde os n&oslash;rder, s&aring; er vores sans for v&aelig;rdis&aelig;ttelse af kunst, ikke mindre af den grund. Og vi er meget taknemmelige for, at Ny Carlsberg Fondet vil bet&aelig;nke os p&aring; denne her m&aring;de. Hjertelig tak.</em>&rdquo; Med v&aelig;rkernes centrale placering har de fleste med en dagligdag p&aring; DTU nok p&aring; et eller andet tidspunkt passeret forbi den lange stribe af v&aelig;rker, som breder sig ud over 28 meters l&aelig;ngde. Landingsbanen er en &rdquo;hovedvej&rdquo; p&aring; universitetet, som sk&aelig;rer igennem hele bygning 101. Det er blandt andet her hvor hundredvis af studerende ligger i k&oslash; og holder &rdquo;ventefest&rdquo;, inden de kan k&oslash;be de popul&aelig;re billetter til en af de st&oslash;rste begivenheder p&aring; DTU, &Aring;rsfesten. V&aelig;rket er en naturlig del af b&aring;de hverdag og fest p&aring; universitetet og s&aring;dan skal det forblive med at v&aelig;re. For Lars N&oslash;rg&aring;rd har v&aelig;rkerne en central opgave, nemlig at skabe gl&aelig;de blandt de forbipasserende og selvom v&aelig;rkerne overordnet set synes abstrakte, ser kunstneren selv noget figurativt kravle frem i overfladen: &rdquo;<em>Hvis du ser billederne hele vejen ned af gangen, s&aring; synes jeg, at det ligner s&aring;dan nogle muldvarpeskud &ndash; s&aring; er de der, og s&aring; er de v&aelig;k igen, n&aring;r du pr&oslash;ver at sl&aring; dem ned med en spade&hellip;</em>&rdquo;. Lars N&oslash;rg&aring;rd har ikke selv en direkte tilknytning til DTU, men hans onkel J&oslash;rgen N&oslash;rg&aring;rd har if&oslash;lge kunstneren selv, levet et helt liv p&aring; DTU som forsker.</span></p>\r\n<p class=\"p1\"><span class=\"s1\">H&oslash;r nuv&aelig;rende Campusdirekt&oslash;r Jacob Steen M&oslash;ller fort&aelig;lle mere om v&aelig;rkets placering og kunst p&aring; DTU i en lydfort&aelig;lling.</span></p>\r\n<p class=\"p1\"><span class=\"s1\"><em>Kilder: Artikel p&aring; dtu.dk, &rsquo;Lars N&oslash;rg&aring;rds udsmykker DTU&rsquo;s vandrehal&rsquo;, maj 2011, af Marie Vendelbo Fridorf / Artikel fra DTU avisen &rsquo;Magiske Muldvarpeskud&rsquo;, september 2011, af Signe M&oslash;lgaard.</em></span></p>",
-                    "coordinates": {
-                        "latitude": "55.7861060",
-                        "longitude": "12.5234280"
-                    },
-                    "audio": "Lars Nørgaards muldvarper.mp3",
-                    "images": [
-                        "_MG_2548.LarsNørgard.jpg",
-                        "_MG_2550.LarsNørgard.2.jpg"
-                    ]
-                },
-                "position": 1,
-                "visit": true
-            },
-            {
-                "item": {
-                    "name": "Ukendt Titel",
-                    "sub_name": "6 oliemalerier (235x110 cm) og vægtæppe (vævet af Lise Warburg).  Skænket i 1979 af Statens Kunstfond.",
-                    "kind": "Kunst",
-                    "location": "Bygning 358, stueetagen",
-                    "creator": {
-                        "name": "Mogens Andersen (1916-2003)",
-                        "about": "<p class=\"p1\"><span class=\"s1\">Mogens Andersen arbejdede i sin levetid b&aring;de som maler, grafiker og keramiker. Han var elev p&aring; maleren Peter Rostrup B&oslash;yesens malerskole, som l&aelig;rte ham b&aring;de klassisk og mere alternativ kunsthistorie. Han var t&aelig;t knyttet til Frankrig og han ops&oslash;gte store malere som C&eacute;zanne og Henri Matisse, og skrev ofte om de franske kunstnere. Mogens Andersen er et vigtigt bindeled for forholdet mellem dansk og fransk kunst. Hans egen kunst udviklede sig i takt med kendskabet til fransk malerkunst og han bev&aelig;gede sig v&aelig;k fra de till&aelig;rte modelstudier. I stedet unders&oslash;gte han dynamikker og kontraster i malerierne. Mogens Andersens f&oslash;rste udsmykningsopgave blev til K&oslash;benhavns Kommunes Hovedbibliotek (1957-59). Han vandt udsmykningen gennem en konkurrence, men der var noget skepsis over den abstrakte malerstil p&aring; en offentlig institution. Han modtog dog senere i livet betydelig anerkendelse og applaus for sin stil, og han var officiel repr&aelig;sentant for Danmark p&aring; Venedig Biennalen i 1968. Han arbejdede senere i livet som g&aelig;steprofessor p&aring; Kunstakademiet og var formand for de billedkunstneriske udvalg under Statens Kunstfond fra 1977-80. Flere af Mogens Andersens v&aelig;rker h&aelig;nger rundt omkring p&aring; Campus, Lyngby.</span>&nbsp;</p>\r\n<p class=\"p1\"><span class=\"s1\"><em>Kilder: Mogensandersen.com / voreskunst.dk / Kunstindeks Danmark &amp; Weilbachs kunstnerleksikon</em></span></p>",
-                        "title": "Kunstner"
-                    },
-                    "about": "<p class=\"p1\"><span class=\"s1\">I bygning 358 kan man n&aelig;sten ikke undg&aring; at se Mogens Andersens omfattende v&aelig;rker, som b&aring;de t&aelig;ller 6 oliemalerier af kunstneren selv, samt et stort v&aelig;gt&aelig;ppe skabt i samarbejde med v&aelig;ver Lise Warburg. V&aelig;gt&aelig;ppet blev skabt i 1977 og senere sk&aelig;nket af statens kunstfond i 1979. De 6 oliemalerier viser os den side af malerkunsten som Mogens Andersen nok er blevet mest kendt for. De m&oslash;rke farver i sine non-figurative malerier, der kun lader spr&aelig;kker &aring;bne sig op til de lysere farver inde bagved. Med placeringen p&aring; DTU f&aring;r vi b&aring;de et indblik i det traditionelle for kunstneren, men ogs&aring; for det unikke samarbejde mellem billedkunst og v&aelig;vning i det store v&aelig;gt&aelig;ppe. De to kunstnere har form&aring;et at samles om det store v&aelig;gt&aelig;ppe, som forener hver deres ekspertise. Lise Warburg refererer til en samtale mellem hende selv og Mogens Andersen: \"<em>Det skal se ud li&rsquo;som, n&aring;r man tar brillerne af. S&aring; kan man ikke se noget&hellip; Det hele bliver s&aring;dan lidt uklart.. Man ser kun de store linier&hellip; JA! S&aring;dan skal det se ud: en stor bl&aring; tegning p&aring; en gr&oslash;n bund. Det er da nemt &ndash; ikke sandt?</em>\" V&aelig;gt&aelig;ppet fylder godt ud p&aring; de gule murstensv&aelig;gge med sine 3,30 x 3,50 meters omfang og er et ud af i alt syv gobeliner, som Lise Warburg og Mogens Andersen skabte i f&aelig;llesskab. Med de 6 oliemalerier p&aring; den ene side og v&aelig;gt&aelig;ppet p&aring; den modsatte, bliver de studerende og ansatte omringet af de farverige inputs, som forh&aring;bentlig indbyder til en lille kunstnerisk pause i hverdagen.</span></p>\r\n<p class=\"p1\"><span class=\"s1\"><em>Kilder: voreskunst.dk &nbsp;</em></span></p>",
-                    "coordinates": {
-                        "latitude": "55.7803820",
-                        "longitude": "12.5165610"
-                    },
-                    "audio": null,
-                    "images": [
-                        "_MG_2467.MogensAndersen.jpg",
-                        "_MG_2471.MogensAndersen.2.jpg",
-                        "_MG_2472.MogensAndersen.3.jpg"
-                    ]
-                },
-                "position": 12,
-                "visit": true
-            },
-            {
-                "item": {
-                    "name": "Ukendt Titel",
-                    "sub_name": "3 oliemalerier, 1977. Skænket af Statens Kunstfond",
-                    "kind": "Kunst",
-                    "location": "Bygning 306, indgang 1. sal",
-                    "creator": {
-                        "name": "Peter Nyborg (født 1937)",
-                        "about": "<p class=\"p1\"><span class=\"s1\">Peter Nyborg har flere uddannelser bag sig, blandt andet fra Kunsth&aring;ndv&aelig;rkerskolen i K&oslash;benhavn (1958-60) og senere ogs&aring; Kongelige Danske Kunstakademi (1960-63). Han er kendt for at male ekspressionistisk, men det abstrakte og tilsyneladende tilf&aelig;ldige f&aring;r ogs&aring; tankerne mod action-painting: En malerstil fra Amerika, der inddrager forskellige hj&aelig;lpemidler i processen, og hvor kunstneren meget aktivt bruger kroppen mens der males/dryppes/kastes/tv&aelig;res etc. med malingen. De tidlige malerier af Peter Nyborg har ligheder med Carl Henning Pedersens stil, en kunstner, der ogs&aring; er repr&aelig;senteret her p&aring; DTU. I de tidlige v&aelig;rker malede Peter Nyborg ofte farvetomt og holdte sig til sort-hvide toner. Flere af de &aelig;ldre v&aelig;rkers titler peger desuden mod den nordiske tradition med sagn og myter. Senere v&aelig;rker viser, hvorledes farverne begyndte at fylde mere og mere, og i de nyere v&aelig;rker k&aelig;mper st&aelig;rke farver side og side.&nbsp;</span></p>\r\n<p class=\"p1\"><span class=\"s1\"><em>Kilder: Kunstindeks Danmarks &amp; Weilbachs Kunstnerleksikon</em></span></p>",
-                        "title": "Kunstner"
-                    },
-                    "about": "<p class=\"p1\"><span class=\"s1\">Peter Nyborg har skabt en udsmykning til DTU med tre store sort-hvide v&aelig;rker, som med sine abstrakte universer giver fornemmelsen af, at v&aelig;re i konstant bev&aelig;gelse. Kigger man ordentligt p&aring; v&aelig;rkerne, stikker der sm&aring; fabeldyr frem i billederne, som k&aelig;mper om pladsen p&aring; l&aelig;rredet. V&aelig;rkerne fremst&aring;r tidsl&oslash;se, blandt andet grundet de sort-hvide farver og det abstrakte univers, der giver mulighed for fri fantasi. &rdquo;<em>Malerierne b&aelig;rer flere tidsaldre i sig&hellip;P&aring; den m&aring;de l&aelig;ner de sig op af den videnskab, der praktiseres p&aring; DTU, hvis love heller ikke skelner mellem fortid, nutid eller fremtid</em>.&rdquo; (voreskunst.dk, JDN) N&aring;r videnskab og forskning ud&oslash;ves p&aring; DTU, findes der inspiration b&aring;de i fortiden og nutiden, for at kunne skabe de bedst mulige l&oslash;sninger og opfindelser til fremtiden. Det er en n&oslash;dvendig bev&aelig;gelse for l&aelig;ring og udvikling, som praktiseres b&aring;de i kunsten og i studiemilj&oslash;et p&aring; DTU. Det abstrakte og n&aelig;rmest kaotiske er en del af vejen mod brugbare resultater i en forskningsproces, s&aring;vel som i den kunstneriske proces.</span></p>\r\n<p class=\"p1\"><span class=\"s1\"><em>Kilder: voreskunst.dk</em></span></p>",
-                    "coordinates": {
-                        "latitude": "55.7853860",
-                        "longitude": "12.5189370"
-                    },
-                    "audio": null,
-                    "images": [
-                        "_MG_2491.PeterNyborg.2.jpg",
-                        "_MG_3179.PeterNyborg.jpg"
-                    ]
-                },
-                "position": 9,
-                "visit": true
-            },
-            {
-                "item": {
-                    "name": "Ukendt Titel",
-                    "sub_name": "Indviet 1974. Skænket af Statens Kunstfond. Skabt specielt til DTU i forbindelse med opførelsen af Universitetet.",
-                    "kind": "Kunst",
-                    "location": "Bygning 101 – Grønnegården",
-                    "creator": {
-                        "name": "Robert Jacobsen (1912-1993)",
-                        "about": "<p class=\"p1\"><span class=\"s1\">Robert Jacobsen er en af Danmarks mest anerkendte skulpt&oslash;rer gennem tiden og hans v&aelig;rker kan ses b&aring;de rundt omkring i Danmark og i udlandet. Han er autodidakt kunstner og form&aring;ede selv at skabe sig sin karriere gennem afpr&oslash;vning af adskillige materialer i sine v&aelig;rker. Han er bedst kendt for sine skulpturer, men arbejdede ogs&aring; med grafiske v&aelig;rker. Han blev i f&oslash;rste omgang introduceret til det kunstneriske milj&oslash;, da han som cykelbud kom til Henning Larsens Kunsthandel i Vognmagergade i K&oslash;benhavn. Milj&oslash;et tiltrak ham og allerede i 1930 lavede han sin f&oslash;rste skulptur i tr&aelig;. Gennem sin levetid arbejdede han med mange forskellige udtryk og materialer, men han n&aring;ede til et punkt hvor rummet omkring materialet blev vigtigere og vigtigere og herfra begyndte han at fokusere p&aring; jernet som materiale. Han var fantasifuld og eksperimenterende og i en serie kaldet &rsquo;Dukkerne&rsquo; arbejdede Robert Jacobsen kun med skrot og kasserede elementer fra v&aelig;rksteder, som cykelk&aelig;der, skruer, st&aring;ltr&aring;d etc. Han lod materialerne eksistere i sig selv og &oslash;nskede ikke en poleret overflade. &rdquo;<em>Selv lod Robert Jacobsen for det meste sine skulpturer tale for sig selv. Han omtalte gerne arbejdet med den skulpturelle form, men mente ikke, at han med ord kunne tilf&oslash;re mere, end &oslash;jet kunne se</em>.&rdquo;( &rsquo;Rum og form &ndash; Robert Jacobsen 100 &aring;r&rsquo;, 2012: s. 67). Han havde en st&aelig;rk tilknytning til Paris, hvor han gennem flere &aring;r var bosat. Da han vendte hjem til Danmark i 1969 begyndte mange foresp&oslash;rgsler om offentlige udsmykninger, som i dag st&aring;r rundt i hele landet.</span></p>\r\n<p class=\"p1\"><span class=\"s1\">Robert Jacobsen var professor ved Kunstakademiet i M&uuml;nchen (1962-82) og ved Det Kongelige Danske Kunstakademi i K&oslash;benhavn (1976-83). Han blev desuden &aelig;resprofessor ved akademierne i M&uuml;nchen og Firenze.</span></p>\r\n<p class=\"p1\"><span class=\"s1\"><em>Kilder: Kunstindeks Danmark &amp; Weilbachs kunstnerleksikon / Bogen &rsquo;Rum og form &ndash; Robert Jacobsen 100 &aring;r&rsquo;, 2012, udgivet af Kunsten.</em></span></p>",
-                        "title": "Kunstner"
-                    },
-                    "about": "<p class=\"p1\"><span class=\"s1\">Skulpturgruppen &rsquo;Den afd&oslash;de teknokrat&rsquo; af Robert Jacobsen i Gr&oslash;nneg&aring;rden p&aring; DTU er et enest&aring;ende v&aelig;rk, af en af Danmarks mest anerkendte skulpt&oslash;rer. V&aelig;rket er skabt specielt til stedet og stod klar som del af indvielsen af universitetet p&aring; Lundtoftesletten i 1974. En af hovedarkitekterne bag byggeriet, Nils Koppel, satte selv ord p&aring; skulpturgruppen i forbindelse med opf&oslash;relsen: &rdquo;<em>Robert Jacobsens skulpturkompleks har mange tons ind-kapslet i sig&hellip; Tre brunsorte jernfigurer, formede af luftmellemrum og stof, der overv&aring;ges af en st&oslash;tte af en anden herkomst, kongeligt ikl&aelig;dt rustfrit st&aring;l og kobber</em>.&rdquo; (Dth dia tidsskrift fra byggeriets indvielse i 1974) Citatet understreger tyngden af Robert Jacobsens skulpturgruppe, men ogs&aring; letheden i materialerne. Docent ved DTU Mekanik Andy Horsewell har taget et n&aelig;rmere kig p&aring; skulpturens materialehistorie: &rdquo;Materialet i jernpladerne er tilsyneladende ikke simple jernplader, men formentligt jern, som indeholder en lille procentdel kobber. Den slags jern ruster i starten til den karakteristiske brunlige rust, men bliver ikke ved med at ruste. Dette specielle jern kommer fra skrot som indeholder kobber fra ledningerne i de skrottede biler. Den anden, lidt h&oslash;jere figur er ikl&aelig;dt et kludet&aelig;ppe af geometrisk sk&aring;rne stykker af rustfrit st&aring;l og kobber. Disse stykker er svejset sammen til en nobel kappe eller en akademisk- / biskops- kappe. For at lave kappen har Robert Jacobsen samlet 2 forskellige metaller. Det m&aring; man i virkeligheden ikke - det giver svagheder ved samlingen, og v&aelig;rre er, at der kan opst&aring; 'galvanisk korrosion' mellem de 2 forskellige metaller. Men valget af kobber og en bestemt type af rustfrit st&aring;l kan lige g&aring; an (p&aring; grund af en lille forskel i sp&aelig;ndingsr&aelig;kken). Derudover har Jacobsen gjort samlingen mulig med en dengang meget speciel sammensvejsningsteknik. Han har brugt TIG-svejsning med kobber som fyldemetal til svejses&oslash;mmet mellem kobber og rustfrit st&aring;l. Der, hvor der er samlinger mellem 2 rustfrie plader, har han brugt almindeligt rustfrit st&aring;l som fyldemetal i svejses&oslash;mmet. En skjult hemmelighed er, at denne noble figur er st&oslash;ttet af et indre stativ, som er bygget op i almindelig jern. Dette afsl&oslash;res ved brug af en magnet!&rdquo;</span></p>\r\n<p class=\"p1\"><span class=\"s1\">Professor Stig Veibel vandrede i 1974 ogs&aring; rundt p&aring; sletten og fortalte om de mange v&aelig;rker som er placeret p&aring; Campus og netop Robert Jacobsen blev fremh&aelig;vet. Flere kunstanmeldere var fra start af skeptiske over skulpturens sammens&aelig;tning og brug af forskellige materialer, men Stig Veibel havde en anden mening: &rdquo;<em>Et kunstv&aelig;rk er ikke en matematisk ligning, der kun har &eacute;n l&oslash;sning. Dets opgave er at s&aelig;tte beskuerens fantasi i sving, og jeg er sikker p&aring;, at Robert Jacobsens skulptur vil l&oslash;se denne opgave, ikke blot nu, men ogs&aring; overfor kommende tiders polyteknikere</em>.&rdquo;</span></p>\r\n<p class=\"p1\"><span class=\"s1\">Udforsk skulpturen yderligere gennem en lydfort&aelig;lling med Andy Horsewell.</span></p>\r\n<p class=\"p1\"><span class=\"s1\"><em>Kilder: Andy Horsewell / Dth dia tidsskrift fra byggeriets indvielse i 1974 / Sletten avis, 4. &aring;rgang. Nr. 10, 1974.</em></span></p>",
-                    "coordinates": {
-                        "latitude": "55.7864310",
-                        "longitude": "12.5239530"
-                    },
-                    "audio": "Robert Jacobsen.mp3",
-                    "images": [
-                        "_MG_2553.Robert_Jacobsen.jpg",
-                        "_MG_2559.RobertJacobsen.2.jpg"
-                    ]
-                },
-                "position": 2,
-                "visit": true
-            },
-            {
-                "item": {
-                    "name": "3 sten",
-                    "sub_name": "Udført fra 1961-1965. Granitskulptur. Skænket af Ny Carlsbergfondet i 1966.",
-                    "kind": "Kunst",
-                    "location": "Ole Nørgårds Have, for enden af 4. kvadrant",
-                    "creator": {
-                        "name": "Søren Georg Jensen (1917-1982)",
-                        "about": "<p class=\"p1\"><span class=\"s1\">Skulpturen &rsquo;3 sten&rsquo; er den f&oslash;rste gave til byggeriet af DTU (dengang Dth) og blev sk&aelig;nket af Ny Carlsbergfondet i 1966. I f&oslash;rste omgang var skulpturen oprindeligt placeret et andet sted p&aring; Campus mellem en r&aelig;kke bygninger, men blev senere flyttet til Ole N&oslash;rg&aring;rds Have, med en placering der gav skulpturen mere ro og plads. V&aelig;rket er et eksempel p&aring; S&oslash;ren Georg Jensens arbejde med tyngde. I sin tid som billedhugger og s&oslash;lvsmed eksperimenterede han l&oslash;bende med flere materialer i sine v&aelig;rker. Han blev mere og mere optaget af det konkrete, som drejede sig om former og flader. Flere af S&oslash;ren Georg Jensens v&aelig;rker er, ligesom p&aring; DTU, t&aelig;nkt ind i arkitekturen der omgiver v&aelig;rket. Den endelige og nuv&aelig;rende placering p&aring; DTU er i en af de haver som indkredser Lyngby Campus. Haven er opkaldt efter arkitekt og landskabsarkitekt Ole N&oslash;rgaard, som st&aring;r bag udf&oslash;relsen af DTU&rsquo;s udenoms arealer. Han stod blandt andet ogs&aring; bag Louisianas kendte skulpturhave i Humleb&aelig;k. Ideen bag Lyngby Campus er, at man skal betragte hele Campus som en lysning midt i en skov, med den brede akse centralt placeret. S&aring; selvom N&oslash;rgaards have og skulpturen af S&oslash;ren Georg Jensen er placeret i den ene ende af Campus, er den en vigtig del af at opleve helheden.</span></p>\r\n<p class=\"p1\"><span class=\"s1\">Kilder: <em>historie.dtu.dk / &rsquo;Sletten&rsquo; Avis, 1974, 4. &aring;rgang, nr. 10</em></span></p>",
-                        "title": "Kunstner"
-                    },
-                    "about": "<p class=\"p1\"><span class=\"s1\">Som efternavnet m&aring;ske hurtigt antyder, var S&oslash;ren Georg Jensen s&oslash;n af den ber&oslash;mte danske s&oslash;lvsmed Georg Jensen. Han blev uddannet s&oslash;lvsmed i starten af 1930erne og gik senere til tegneundervisning, inden han gik p&aring; Kunstakademiets Billedhuggerskole i K&oslash;benhavn fra 1941-45. Hans skulpturer er ofte enkle i sit design og er ofte skabt med brug af geometriske linjer. I knap 10 &aring;r stod han i spidsen som kunstnerisk direkt&oslash;r hos Georg Jensen, hvor han videref&oslash;rte sin fars visioner og filosofi. Som skulpt&oslash;r kan man ogs&aring; sige, at han arbejdede indenfor de famili&aelig;re rammer. Han videref&oslash;rte ideer fra sin fars praksis som s&oslash;lvsmed, om at skabe tidsl&oslash;se, &aelig;stetiske og holdbare genstande. S&oslash;ren Georg Jensen har skabt flere ikoniske v&aelig;rker, som blandt andet pryder gaderne i K&oslash;benhavn. Blandt andet hele udsmykningen omkring havnebassinet ved Udenrigsministeriet p&aring; Christianshavn, med hele 3 skulpturer.</span></p>\r\n<p class=\"p1\"><span class=\"s1\">Kilde:<em>Kunstindeks Danmark &amp; Weilbachs Kunstnerleksikon / georgjensen.com</em></span></p>",
-                    "coordinates": {
-                        "latitude": "55.7800060",
-                        "longitude": "12.5183340"
-                    },
-                    "audio": null,
-                    "images": [
-                        "_MG_2444.SørenGeorgJensen.jpg",
-                        "_MG_2449.SørenGeorgJensen.2.jpg"
-                    ]
-                },
-                "position": 13,
-                "visit": true
-            },
-            {
-                "item": {
-                    "name": "Skrifter Tyrkiet",
-                    "sub_name": "Billedserie fra 1971/72. Kvadrater af 90x90 cm. Skænket af Statens Kunstfond i 1977",
-                    "kind": "Kunst",
-                    "location": "Bygning 116, foyer og flere områder i stueetagen",
-                    "creator": {
-                        "name": "Stig Brøgger",
-                        "about": "<p><span class=\"s1\">Stig Br&oslash;gger l&aelig;ste Statsvidenskab ved K&oslash;benhavns Universitet fra 1960-67, samt gik p&aring; Den eksperimenterende Kunstskole gennem et par &aring;r. Han har gennem sin karriere arbejdet med skulptur, maleri, installation og fotografi. Hans karriere er pr&aelig;get af en mangfoldighed af materialer og formsprog, som underst&oslash;tter en kunstnerisk praksis der unders&oslash;ger billedets rolle i verdenen. &nbsp;&nbsp;</span></p>\r\n<p class=\"p1\"><span class=\"s1\"> <strong>&rdquo;</strong><em>Br&oslash;gger er kendt for sine omfattende billedserier, der favner alskens &rsquo;motiver&rsquo; fra det mikroskopiske til det makrokosmiske plan og er et fors&oslash;g p&aring; at formidle et s&aring; omfattende billede af verden som muligt. Kommunikations- og konsumsamfundets konstante informations- og billedflow er vand p&aring; hans m&oslash;lle og fungerer som udgangspunkt for en billedkunstnerisk kommentar til den samfundsm&aelig;ssige udvikling.&rdquo;</em> (Voreskunst.dk, af Julie Damgaard Nielsen) Billedkunsten kobles s&aring;ledes til b&aring;de den sociale og naturlige verden. En interesse Stig Br&oslash;gger allerede fandt tilbage i 1960erne og 70erne gennem internationale str&oslash;mninger som popkunst og land art. I 1974 stiftede Stig Br&oslash;gger, Hein Hansen og Mogens M&oslash;ller f&aelig;llesskabet &rsquo;Institut for Skalakunst&rsquo;. De tre kunstnere udf&oslash;rte sammen en r&aelig;kke offentlige udsmykninger, blandt andet&rsquo; Fredens Port&rsquo; (1982) p&aring; N&oslash;rrebro i K&oslash;benhavn. Stig Br&oslash;gger bor og arbejder i dag i Vedb&aelig;k.&nbsp; <br /> <br /> Kilder: <em>Kunstindeks Danmark &amp; Weilbachs Kunstnerleksikon</em> <em>/ voreskunst.dk /</em>&nbsp; <em>kunsten.nu, &rsquo;Stig Br&oslash;gger &ndash; Ugens kunstner&rsquo;, 2013.</em></span></p>",
-                        "title": "Kunstner"
-                    },
-                    "about": "<p><span class=\"s1\">V&aelig;rket af Stig Br&oslash;gger spreder sig rundt i en st&oslash;rre del af bygning 116. V&aelig;rket m&oslash;der dig som det f&oslash;rste n&aring;r du ankommer i foyeren, men forts&aelig;tter ogs&aring; rundt i andre hj&oslash;rner og kroge. Det er p&aring; mange m&aring;der flettet ind i det liv der leves i bygningen og det overordnede studiemilj&oslash;. V&aelig;rket er et glimrende eksempel p&aring;, at kunsten p&aring; DTU fungerer i sammenspil med dets omgivelser &ndash; der er plads til b&aring;de kunsten og de studerende. V&aelig;rkets store omfang er et typisk formsprog for Stig Br&oslash;gger at arbejde med. Det serielle er et yndet format for kunstneren, med store fort&aelig;llinger der b&aring;de afgr&aelig;nser, men samtidig springer udenfor den klassiske billedramme og i stedet bruger hele rummet som ramme.&nbsp;</span></p>\r\n<p class=\"p1\"><span class=\"s1\"> P&aring; DTU forskes der bredt indenfor alverdens felter og forskningen tager os nogle gange steder hen vi ikke kunne forudsige eller forestille os. De mange billeder i Stig Br&oslash;ggers v&aelig;rk springer mellem kompositioner, farver og stilarter, men h&aelig;nger alligevel sammen p&aring; kryds og tv&aelig;rs. De kan siges at afspejle de skiftende nybrud i videnskaben og kunsten, som hele tiden forrykker sig og finder nye udtryk. Denne serie af malerier er inspireret af et filmprojekt, som Stig Br&oslash;gger lavede efter et bes&oslash;g i Tyrkiet. <br /> <em><br /> Kilder: Voreskunst.dk</em>&nbsp;</span></p>",
-                    "coordinates": {
-                        "latitude": "55.7891830",
-                        "longitude": "12.5250880"
-                    },
-                    "audio": null,
-                    "images": [
-                        "_MG_2614.StigBrøgger.3.jpg",
-                        "_MG_3158.StigBrøgger.jpg",
-                        "_MG_3163.StigBrøgger.2.jpg"
-                    ]
-                },
-                "position": 4,
-                "visit": true
-            },
-            {
-                "item": {
-                    "name": "Ukendt Titel",
-                    "sub_name": "Loft, væg og glasmaleri. Skabt til stedet i 1982. Skænket af Statens Kunstfond.",
-                    "kind": "Kunst",
-                    "location": "101B, Vandrehallen øst/ Landingsbanen",
-                    "creator": {
-                        "name": "Svend Wiig Hansen (1922-1997)",
-                        "about": "<p class=\"p1\"><span class=\"s1\">Svend Wiig Hansen arbejdede b&aring;de som maler, billedhugger, grafiker og tegner og uddannet ved Kunstakademiet i K&oslash;benhavn. At g&aring; den kunstneriske vej var ikke selvskrevet for Svend Wiig, tv&aelig;rtimod var han l&aelig;nge usikker omkring hvad han &oslash;nskede at lave i livet. Et job med nogle st&oslash;bte klatreengle fik ham dog til at interessere sig for skulpturen. Han blev herefter elev p&aring; Kunstakademiet, men blev ikke kendt som en s&aelig;rlig flittig elev. I 1950erne oplevede han sit gennembrud, hvor han blev et kendt navn grundet en landsd&aelig;kkende pressestorm om v&aelig;rket &rsquo;Moder Jord&rsquo;, som p&aring; dav&aelig;rende tidspunkt var udstillet foran &Aring;rhus R&aring;dhus. Skulpturen blev senere fjernet, men Svend Wiig Hansen havde gjort stort nok indtryk til at blive husket. Hans v&aelig;rker er ofte stedsspecifikke og omfattende i st&oslash;rrelsen og tager ofte udgangspunkt i menneskekroppen. Svend Wiig Hansen tog flere initiativer gennem sin karriere, der peger p&aring; at han var en person der engagerede sig i samfundet og mennesker. Han tog blandt andet initiativ til en folkelig kunstundervisning i F&aelig;lledparken i 1973, samarbejdede med borgere i Brande om en udsmykning, samt underviste som kunstl&aelig;rer i det gamle Horsens Statsf&aelig;ngsel.<br /> De seneste &aring;r har man kunne se omfattende udstillinger af Svend Wiig Hansens v&aelig;rker b&aring;de p&aring; HEART i Herning og Gl. Holtegaard.</span></p>\r\n<p class=\"p1\"><span class=\"s1\">Kilder<em>: Kunstindeks Danmark &amp; Weilbachs Kunstnerleksikon/ Kunsten.nu: &lsquo;Svend Wiig Hansen &ndash; hudl&oslash;s gigant&rsquo;, af Trine Rytter Andersen, 11. 11.2014.</em></span></p>",
-                        "title": "Kunstner"
-                    },
-                    "about": "<p class=\"p1\"><span class=\"s1\">I den ene af DTU&rsquo;s store vandrehaller, ogs&aring; kaldet landingsbanerne, kan det omfattende kunstv&aelig;rk af Svend Wiig Hansen opleves. V&aelig;rket er skabt til stedet og sk&aelig;nket af Statens Kunstfond i 1982. Selve glasv&aelig;ggen str&aelig;kker sig over 3,5 x 45 meter. V&aelig;rkets omfang g&oslash;r, at det har betydning for hele det store areal som landingsbanen str&aelig;kker sig over. Det har blandt andet ikke v&aelig;ret muligt at lave en akustikd&aelig;mpning, som eller er sket i landingsbanen p&aring; den anden side af Gr&oslash;nneg&aring;rden. Nils m&oslash;ller fra DTU (sektionsleder og bygherre) har v&aelig;ret en del af en omfattende renovering af vandrehallen hvor Svend Wiig Hansens v&aelig;rk befinder sig. Han fort&aelig;ller, at hallen m&aring;tte renoveres i 2012, grundet vandskader i loftet. I samme omb&aelig;ring blev vinduerne skiftet ud og speciel belysning indf&oslash;rt i siderne og loftet. I forbindelse med alle forbedringerne blev der taget hensyn til det stedsspecifikke v&aelig;rk af Svend Wiig Hansen og forbedringer af v&aelig;rkets stand blev udf&oslash;rt med inddragelse af en kunstekspert. <br /> Svend Wiig Hansen er meget kendt for sine skulpturer og malerier af menneskekroppen, som b&aring;de viser sk&oslash;nhed, men ogs&aring; det usk&oslash;nne og menneskets kamp i livet. Selvom v&aelig;rket her p&aring; DTU er mere abstrakt, rummer det alligevel nogle af de tematikker som Svend Wiig Hansen &oslash;nskede at ber&oslash;re sin beskuer med: orden &amp; uorden, form &amp; forml&oslash;shed, opbygning og nedbrydning - kontraster som altid vil v&aelig;re en del af livet.</span></p>\r\n<p class=\"p1\"><span class=\"s1\">Kilder: <em>Kunstindeks Danmark &amp; Weilbachs Kunstnerleksikon</em></span></p>",
-                    "coordinates": {
-                        "latitude": "55.7862240",
-                        "longitude": "12.5250110"
-                    },
-                    "audio": null,
-                    "images": [
-                        "_MG_2562.SvendWiig.2..jpg",
-                        "_MG_2582.SvendWiig.jpg"
-                    ]
-                },
-                "position": 3,
-                "visit": true
-            },
-            {
-                "item": {
-                    "name": "Ukendt Titel",
-                    "sub_name": "Vægudsmykning i emalje, udført til stedet, 1986. 3x8 meter",
-                    "kind": "Kunst",
-                    "location": "Matematiktorvet, facade mellem bygning 304 & 305",
-                    "creator": {
-                        "name": "Tonning Rasmussen (født 1936)",
-                        "about": "<p>Tonning Rasmussen er autodidakt kunstner, f&oslash;dt i det midtjyske, men i dag bosat p&aring; Bornholm. Han er oprindeligt uddannet malersvend og f&oslash;rte efterh&aring;nden sit h&aring;ndv&aelig;rk til kunstv&aelig;rker. Tonning Rasmussen har udf&oslash;rt flere udsmykningsopgaver, blandt andet den omfattende farveudsmykning af Panum Instituttet i K&oslash;benhavn fra 1976 og 1982. Han har fundet inspiration i flere stilarter, blandt andet abstrakt-ekspressiv kunst og det non-figurative. De farverige v&aelig;rker har ikke altid pr&aelig;get kunstnerens v&aelig;rker, tv&aelig;rtimod startede han med at male m&oslash;rke landskaber og portr&aelig;tter. Farverne tog til gennem &aring;rerne og i denne &aelig;stetiske &aelig;ndring, ligger der ogs&aring; et personligt &oslash;nske om at frembringe gl&aelig;de gennem kunst. I en artikel fra Kristelig Dagblad, 2012, siger han s&aring;ledes: &rdquo;<em>Som ung var min kunst ogs&aring; mere politisk. Dengang malede jeg blandt andet generaler og raketter i mine malerier. Men jeg har for l&aelig;ngst opgivet at fors&oslash;ge at fordrive krig ved at gengive den i kunsten. Jeg vil hellere pege p&aring; gl&aelig;den og alt det, der giver livet mening. Alt det modsatte af krig&hellip;</em>&rdquo;.</p>\r\n<p class=\"p1\"><span class=\"s1\">Kilder: <em>Kunstnersammenslutningen Gr&oslash;nningen</em> - <em>gronningen.dk / Kristelig Dagblad &ndash; &rsquo;En fest form former og farver&rsquo;, 15. marts 2012.</em></span></p>",
-                        "title": "Kunstner"
-                    },
-                    "about": "<p><span class=\"s1\">Matematiktorvet i 3. kvadrant er et sted med liv og aktivitet og Tonning Rasmussens v&aelig;rk afspejler ogs&aring; dette. Et v&aelig;ld af farver og former er i bev&aelig;gelse p&aring; det store emaljev&aelig;rk, som er skabt specielt til DTU. I flere af Tonning Rasmussens v&aelig;rker ser man de klare, tydelige farver, men komplement&aelig;rfarverne er altid en smule kn&aelig;kkede, s&aring; din har sin egen tone. Desuden bruger han altid prim&aelig;rtalsr&aelig;kken i antallet af figurer i sine v&aelig;rker: &rdquo;<em>Der er ikke noget der g&aring;r op i billedet. Og dermed g&aring;r billedet ogs&aring; kun op i sig selv</em>.&rdquo; (Kristelig Dagblad, 15. marts 2012) Brugen af emalje i Tonning Rasmussens v&aelig;rk bygger bro til opfindelser indenfor DTU&rsquo;s egne r&aelig;kker. Civilingeni&oslash;r Herbert Krenchel (uddannet i 1946 fra DtH) viste et kreativt talent gennem sin udvikling af krenit &ndash; navnet er en sammentr&aelig;kning af Krenchel og eternit. I 1953 formgav han designikonet Krenitsk&aring;len, som bestod af flere materialer, blandt andet den abestfri eternit, men ogs&aring; emalje. Emaljen l&aring; som et lag udenp&aring; sk&aring;lens tynde st&aring;lskal. Netop emaljen var som materiale ikke s&aelig;rlig anerkendt p&aring; dette tidspunkt, men Herbert Krenchel form&aring;ede gennem en fin sandbl&aelig;sning, at give emaljen et nyt udtryk p&aring; Krenitsk&aring;len. Det var en dybdeg&aring;ende forskning og fors&oslash;g om konstruktion og materialer der banede vejen for udviklingen af et Dansk designikon. Emaljen kommer ogs&aring; til sin ret her i v&aelig;rket af Tonning Rasmussen, som viser et eksempel p&aring; materialets brug indenfor kunstens verden.</span></p>\r\n<p class=\"p1\"><span class=\"s1\"> Kilder: <em>historie.dtu.dk / DTU&rsquo;s magasin DYNAMO, Maj 2006, nr. 5 /</em> <em>Kristelig Dagblad &ndash; &rsquo;En fest form former og farver&rsquo;, 15. marts 2012.</em></span></p>",
-                    "coordinates": {
-                        "latitude": "55.7842620",
-                        "longitude": "12.5191020"
-                    },
-                    "audio": null,
-                    "images": [
-                        "_MG_2499.TonningRasmussen.jpg",
-                        "_MG_2513.TonningRasmussen.2.jpg"
-                    ]
-                },
-                "position": 10,
-                "visit": true
-            },
-            {
-                "item": {
-                    "name": "Multi Dimentioner, fra 2004",
-                    "sub_name": "Lysinstallationerne er skabt i samarbejde mellem kunstneren og Erik Møllers Tegnestue.",
-                    "kind": "Kunst",
-                    "location": "Danchip, Bygning 346, udenpå facaden",
-                    "creator": {
-                        "name": "Viera Collaro (født 1946)",
-                        "about": "<p class=\"p1\"><span class=\"s1\">Viera Collaro blev f&oslash;dt i Slovakiet i 1946 og arbejder som maler og installationskunstner. Hun er uddannet som billedkunstner i USA og senere videreudannet p&aring; Det Kongelige Danske Kunstakademi i K&oslash;benhavn. Hun har igennem en l&aelig;ngere &aring;rr&aelig;kke arbejdet med lys som kunstnerisk materiale. Blandt andet ved at skabe skulpturer og ruminstallationer, med forskelligt farvede lysstofr&oslash;r som et af de prim&aelig;re elementer. Viera Collaro har skabt flere udsmykningsv&aelig;rker, som ofte har referencer til nutidig teknologi, energi og transformation. Udsmykninger kan blandt andet ses b&aring;de p&aring; K&oslash;benhavns Universitet, Lyngby Kulturhus og Aved&oslash;re Kraftv&aelig;rk 2. Hun udtaler i et interview p&aring; levekunst.com: &rdquo;<em>Light is part of nature and the universe. My attraction to light&nbsp; is due the infinite quality it possesses. Due to this, it can be compared with the universal aspects of mankind, the mind and the spirit</em>.&rdquo;&nbsp;</span></p>\r\n<p class=\"p1\"><span class=\"s1\">I 2006 blev Viera Collaro tildelt livsvarig ydelse fra Statens Kunstfond og hun fik i 2015 tildelt Thorvaldsens Medalje for sit enest&aring;ende og banebrydende kunstneriske arbejde.</span>&nbsp;</p>\r\n<p class=\"p1\"><span class=\"s1\">Kilder: <em>Levekunst.com &amp; vieracollaro.com</em></span></p>",
-                        "title": "Kunstner"
-                    },
-                    "about": "<p class=\"p1\"><span class=\"s1\">P&aring; DTU m&aring; man sige at &eacute;t v&aelig;rk i s&aelig;rlig grad lyser Campus op. Det er Viera Collaros v&aelig;rk &rsquo;Multi Dimentioner&rsquo;, fra 2004, som er skabt til DTU i forbindelse med opf&oslash;relsen og udvidelsen af bygning 346 af Erik M&oslash;llers Tegnestue. Starter vi med at vende blikket ind i bygningen er det faktisk lidt begr&aelig;nset hvad vi kan f&aring; lov til at se. Bygningen indeholder nemlig et renrumslaboratorium, et af landets reneste rum, som af gode grunde derfor ikke er offentligt tilg&aelig;ngeligt. Viera Collaros v&aelig;rker h&aelig;nger ogs&aring; i nogle af indend&oslash;rsarealerne i Mikroelektronisk Center, dog er disse ikke s&aring; let tilg&aelig;ngelige grundet bygningens funktion. Men det rene indhold inde i bygningen kan ogs&aring; ses afspejlet udenp&aring; bygningen, hvor arkitekturen er skarp og simpel. Det er her Viera Collaros v&aelig;rk lyser st&aring;lfladerne p&aring; bygningen op. V&aelig;rket er integreret fuldst&aelig;ndigt i arkitekturen og kunstneren har v&aelig;ret med i processen fra start af. St&aring;lmoduler er blevet udskiftet med glasmoduler, som bag sig har neonr&oslash;r i forskellige farver, der bryder med den blanke overflade. Lyset tilf&oslash;rer bygningen noget liv og poetisk, som afspejler det arbejde som foreg&aring;r inde i bygningen. Viera Collaro behandler emner som lys og farve: de fleste mennesker mener m&aring;ske at vide hvad disse begreber betyder, men at forklare det helt pr&aelig;cis kr&aelig;ver fysiske, biologiske og matematiske aspekter: &rdquo;<em>Hun samordner farvens kunstneriske, &aelig;stetiske side med de erfaringer, vi har gjort gennem videnskabelig forskning og matematisk beskrivelse og frig&oslash;r derigennem helt nye, upr&oslash;vede kr&aelig;fter ved at stille det n&oslash;dvendige sp&oslash;rgsm&aring;l: Hvad er lys?</em>&rdquo;. (Jan O. Hansen i &rsquo;Viera Collaro &ndash; lys, kunst og arkitektur&rsquo;.)</span></p>\r\n<p class=\"p1\"><span class=\"s1\">H&oslash;r kunstneren fort&aelig;lle mere om v&aelig;rket i en lydfort&aelig;lling.</span></p>\r\n<p class=\"p1\"><span class=\"s1\">Kilder: <em>Erik M&oslash;llers Tegnestue A/S / &rsquo;Lyspunkter p&aring; DTU&rsquo;, artikel i Berlingske Kultur, 28. april 2005 af Torben Weirup / Bogen &rsquo;Viera Collaro &ndash; lys, kunst og arkitektur&rsquo;, 2006 (red. Viera Collaro &amp; Elsebeth Gynther)</em></span></p>",
-                    "coordinates": {
-                        "latitude": "55.7808740",
-                        "longitude": "12.5170630"
-                    },
-                    "audio": "Viera Collaro.mp3",
-                    "images": [
-                        "_MG_2636.VieraCollaro.jpg",
-                        "_MG_2640.VieraCollaro.2.jpg",
-                        "_MG_2641.VieraCollaro.3.jpg"
-                    ]
-                },
-                "position": 11,
-                "visit": true
-            }
-        ],
-        "about": "DTU har udviklet en kunstrute, der gør 14 værker spredt på DTU Lyngby Campus mere tilgængelige for studerende, ansatte og besøgende. Ved at følge kunstruten får den besøgende et indtryk af det smukke og inspirerende studiemiljø. DTU har endvidere med støtte fra Corrit Fonden udviklet denne app, der guider den besøgende og giver oplysninger om værkerne. Studerende fra DTU står bag udviklingen af app’en.\r\n\r\nApp’en indeholder et interaktivt kort, tekst, billeder og lyd som fremhæver historier om værkerne og deres tilknytning til DTU. Herigennem kobles den tekniske verden med kunstens verden. Kunstnere og ansatte på DTU har bidraget med fortællinger og anekdoter i forbindelse med tilblivelsen af app’en.",
-        "audio": "Kunst_i_det_off_rum_uden_hund.mp3",
-        "color": [255, 152, 0]
-    }
+  {
+    "name": "Arkitekturruten",
+    "logo": "Arkitekturruten",
+    "audio": null,
+    "about": "<p>DTU\u2019s arkitekturrute er skabt med et \u00f8nske om at fremh\u00e6ve arkitektoniske v\u00e6rker p\u00e5 Lyngby<br>Campus og herigennem sikre et kulturelt campusmilj\u00f8 for studerende, ansatte og bes\u00f8gende. Lyngby<br>Campus rummer en lang historie, der blandt andet kan fort\u00e6lles gennem arkitekturen. Bygningerne<br>vidner om en campus pr\u00e6get af en historisk kontekst, fra opf\u00f8relsen i 1970ernes velf\u00e6rdssamfund<br>af arkitekterne Nils &amp; Eva Koppel, men bygningerne peger samtidig fremad og bevidner, at DTU er et<br>attraktivt internationalt elite universitet. Under navnet \u2019Transforming DTU\u2019 markerer DTU en<br>forbedring og optimering af Campus milj\u00f8et, der igennem de seneste \u00e5r har bevirket en markant<br>campusudvidelse med arkitektur i topklasse. P\u00e5 denne arkitekturrute vil du gennem sm\u00e5<br>lydfort\u00e6llinger blive klogere p\u00e5 udvalgte bygninger og f\u00e5 en historisk indsigt i etableringen,<br>vedligeholdelsen og fornyelsen af DTU, Lyngby Campus. Tag med p\u00e5 tur og f\u00e5 et unikt indblik i Eva og<br>Nils Koppels oprindelige helhedsplan og kom t\u00e6t p\u00e5 de mange helt nye faciliteter.<br>DTU\u2019s arkitekturrute er skabt i forl\u00e6ngelse af DTU\u2019s kunstrute, som du ogs\u00e5 finder i denne app.<br></p>",
+    "color": [
+      76,
+      175,
+      80
+    ],
+    "route_items": [
+      {
+        "item": {
+          "name": "Origo",
+          "audio": null,
+          "creator": {
+            "name": "Nils og Eva Koppel",
+            "title": "Arkitekt",
+            "about": "<p>no info</p>"
+          },
+          "about": "<p><b>Origo \u2013 de fire kvadranter m\u00f8des (velf\u00e6rdssamfundet)\nMedvirkende i lydfort\u00e6lling: Jennifer Dahm Petersen, arkitekt og medskribent p\u00e5 bogen \u2018</b><i><b>Eva og Nils Koppel</b></i><b>\u2019 (2017)\n\n</b>DTU\u2019s arkitekturrute tager sit afs\u00e6t i midten af Lyngby Campus. P\u00e5 dette punkt m\u00f8des DTU\u2019s fire kvadranter, som markerer den originale arkitektoniske tanke af Nils og Eva Koppel, hvor Lyngby Campus blev bygget op som et koordinatsystem. Den originale campusplan fra 1960\u2019erne var bygget stramt op omkring de 4 kvadranter og brede avenuer. Kvadranterne var tidligere en m\u00e5de at opdele den tids 4 ingeni\u00f8rretninger: Byg, Kemi, Elektro og Maskin. I 1974 blev DTU\u2019s nye bygninger her p\u00e5 stedet indviet. Nils og Eva Koppels arkitektoniske tilgang var pr\u00e6get af tidens rationelle og funktionelle \u00e6stetiske overbevisninger. DTU\u2019s oprindelige byggestil var udpr\u00e6get modernistisk, med enkle former og materialer som st\u00e5l og beton i er rent og stramt udtryk. Hovedbygningen 101 st\u00e5r tilbage som et eksempel p\u00e5 byggestilen. Udover bygningerne i sig selv, var pladsen mellem bygninger ogs\u00e5 en vigtig del af den oprindelige helheldsplan for Lyngby Campus. Havearkitekt Ole N\u00f8rgaard stod bag udviklingen af DTU\u2019s pladser og gr\u00f8nne omr\u00e5der. Ideen var, at DTU Campus skulle betragtes som en lysning i en skov og udend\u00f8rsmilj\u00f8erne er derfor ogs\u00e5 en vigtig del af helhedsoplevelsen. Ved byggeriets oprindelse ville man gerne bevare det landskabelige pr\u00e6g og de fleste bygninger blev derfor h\u00f8jest bygget i 3 etager. Dette sikrede ogs\u00e5 overholdelsen af en gammel regel, om at ingen bygninger m\u00e5tte kunne ses fra Eremitageslottets \u00f8verste trin. \nDisse \u00e5r investerer DTU over 4 mia. kroner i nye byggeprojekter p\u00e5 hele Campus, som skal optimere rammerne for forskning og uddannelse. Byggerierne er nyt\u00e6nkende og udfordrende, men den strategiske helheldsplan er fortsat i t\u00e6t dialog med den originale helheldsplan udt\u00e6nkt af Eva & Nils Koppel.\n\nKilde: <i>\u2019Eva og Nils Koppel\u2019 af Johannes Hedal Hansen og Jennifer Dahm Petersen, Strandberg Publishing, 2017. </i><br></p>",
+          "coordinates": {
+            "latitude": "55.7856920",
+            "longitude": "12.5217620"
+          },
+          "images": [
+            "Ehrhorn__Hummerston.jpg",
+            "Ehrhorn__Hummerston1.jpg",
+            "DTU.fritk\u00f8bt.jpg",
+            "Luftfoto_Lyngby.Mikkel_Barker.jpg"
+          ]
+        },
+        "position": 1
+      },
+      {
+        "item": {
+          "name": "Bygning 411, DTU's kraftvarmev\u00e6rk",
+          "audio": null,
+          "creator": {
+            "name": "Nils Koppel (varmev\u00e6rket). Kraftvv\u00e6rket tegnet af Jens Fredslund fra Erik M\u00f8ller Arkitekter (1990erne)",
+            "title": "Arkitekt",
+            "about": "<p>no info</p>"
+          },
+          "about": "<p><b>Bi-fort\u00e6lling \u2013 DTU\u2019s kraftvarmev\u00e6rk, Bygning 411.\nMedvirkende i lydfort\u00e6lling: Jacob Steen M\u00f8ller, campusdirekt\u00f8r p\u00e5 DTU.\n\n</b>Kraftvarmev\u00e6rket blev sat i drift tilbage i 1998 og producerer b\u00e5de el og varme. V\u00e6rket best\u00e5r af et naturgasfyre combined-cycle-anl\u00e6g med b\u00e5de gas- og dampturbine. Gas- og dampturbinen producerer el, mens restvarmen anvendes til fjernvarme. Kapaciteten er p\u00e5 31 MJ/s varme og 39 MW elektricitet. Dermed kan kraftvarmev\u00e6rket forsyne omkring 9.000 husstande i omr\u00e5det med varme og ca. 40.000 husstande med elektricitet. Varmev\u00e6rket er ogs\u00e5 et godt visuelt eksempel p\u00e5 den tilgang Koppel havde til farver. Farvepaletten p\u00e5 DTU tager udgangspunkt i kunsten og dens fysiske blanding af malerfarver, med gul, gr\u00f8n og r\u00f8d som prim\u00e6rfarverne. De bemalede overflader p\u00e5 DTU skal tiltr\u00e6kke sig opm\u00e6rksomhed gennem deres m\u00e6ttede og rene farver, som bliver kontrastfulde op i mod de u-bemalede materialer som tegl og beton. Den oprindelige noget begr\u00e6nsede farvepalet blev udvidet slut-firserne af Jens Fredslund fra Erik M\u00f8llers Tegnestue og Ib Gertsen \u2013 DTU\u2019s farvepalet blev udvidet til 12 farver til v\u00e6gge, lofter og interi\u00f8r. <br>Kilde: <a\u00a0href=\"\">dtuvv.dk</a> <i>/ Danmarks Tekniske Universitet, farver og materialer (pr\u00e6sentation), udgave fra d. 16. juni 2013.</i><br></p>",
+          "coordinates": {
+            "latitude": "55.7855160",
+            "longitude": "12.5228890"
+          },
+          "images": [
+            "DTU.varmecentral.fritk\u00f8bt.jpg"
+          ]
+        },
+        "position": 2
+      },
+      {
+        "item": {
+          "name": "Bygning 101, Hovedbygning",
+          "audio": null,
+          "creator": {
+            "name": "Nils og Eva Koppel",
+            "title": "Arkitekt",
+            "about": "<p>no info</p>"
+          },
+          "about": "<p><b>Hovedbygningen, Bygning 101 \u2013 Bevaring af den oprindelige arkitektur\nMedvirkende i lydfort\u00e6lling: Jacob Steen M\u00f8ller, campusdirekt\u00f8r p\u00e5 DTU; Jannie Rosenberg Bendsen fra Slots- og Kulturstyrelsen.\n\n</b>I hovedbygning 101 opleves den originale arkitektur, med beton og rene linjer. Bygningen blev renoveret i 2003, men dav\u00e6rende rektor Lars Pallesen mente samtidigt, at det var vigtigt at beholde og bevare det originale arkitektoniske udtryk. Bygning 101 er den eneste bevaringsv\u00e6rdige bygning fra det originale byggeri og huser blandt andet administration, hovedkantine, bibliotek, glassalen og sportshallen. Selvom byggestilen kan virke kold og kantet er stilen flere steder udfordret. Der findes blandt andet en r\u00e6kke markante skulpturelle trapper, udformet i b\u00e5de st\u00e5l og jernbeton, der bryder med det stramme udtryk. I lydfort\u00e6llingen kan du h\u00f8re mere om indretningsvalg, sportshallen og k\u00e6lderens lange gange, samt overvejelserne om at bevare historisk arkitektur. For Eva og Nils Koppel er billedkunsten fra starten en vigtig del af byggeriet, der kan skabe milj\u00f8 og genkendelighed. Specielt bygning 101 rummer en r\u00e6kke markante v\u00e6rker. Find yderligere information om dette ved DTU\u2019s kunstrute, som ogs\u00e5 ligger i denne app. <br>Kilde:<i> \u2019Eva og Nils Koppel\u2019 af Johannes Hedal Hansen og Jennifer Dahm Petersen, Strandberg Publishing, 2017.</i> <br></p>",
+          "coordinates": {
+            "latitude": "55.7856460",
+            "longitude": "12.5247450"
+          },
+          "images": [
+            "DTU.byg101.Kaare_Smith.jpg",
+            "DTU.fritk\u00f8bt2.jpg",
+            "DTU_Bibliotek_Thorkild_Amdi_Christensen.jpg",
+            "DTU.sportshal.fritk\u00f8bt.jpg",
+            "Ehrhorn__Hummerston1.jpg"
+          ]
+        },
+        "position": 3
+      },
+      {
+        "item": {
+          "name": "Bygning 201-205, Lifescience & Bio Engineering",
+          "audio": null,
+          "creator": {
+            "name": "COWI, Christensen & Co Arkitekter, R\u00f8rb\u00e6k & M\u00f8ller Arkitekter, Schul Landskabsarkitekter og Wessberg",
+            "title": "Arkitekt",
+            "about": "<p>no info</p>"
+          },
+          "about": "<p><b>Biovidenskabeligt forskningsmilj\u00f8 \u2013 DTU\u2019s \u2019Kronjuvel\u2019, Bygning 202\nMedvirkende i lydfort\u00e6lling: Birgitte Fester, arkitekt ved R\u00f8rb\u00e6k & M\u00f8ller Arkitekter; Michael Christensen, partner og kreativ direkt\u00f8r ved Christensen & Co.\n\n</b>Bygning 202 er et nyt byggeri, der kobler de eksisterende bygninger 201 & 204 sammen. Bygning 202 er det st\u00f8rste nye byggeri p\u00e5 Lyngby Campus siden stedets oprindelse og hele bygning 201 og 204 gennemg\u00e5r omfattende indvendig renovering. De nye bygninger huser DTU Aqua, DTU F\u00f8devareinstitut og DTU Veterin\u00e6rinstitut. Som en del af det nye byggeri har det sociale l\u00e6ringsmilj\u00f8 v\u00e6ret h\u00f8jt prioriteret. Biosf\u00e6ren er navnet p\u00e5 et trippelh\u00f8jt atrium, som danner rammen for sociale m\u00f8der, faglig udveksling, kantine og caf\u00e9-omr\u00e5de. Biosf\u00e6ren \u00e5bner bygningen op og inviterer til vidensdeling p\u00e5 tv\u00e6rs af faglighederne.\nRektor Anders Bjarklev fort\u00e6ller om byggeriet i denne video: \n\nYoutube video link: <a\u00a0href=\"\">youtube.com</a> <br>Kilde: <a\u00a0href=\"\">dtu.dk/Bygning-202</a><i> / </i><a\u00a0href=\"\">dtu.dk/Bygning-201-205</a> <br></p>",
+          "coordinates": {
+            "latitude": "55.7861960",
+            "longitude": "12.5213120"
+          },
+          "images": [
+            "Byg.201-205.Tjorbj\u00f8rn_Hansen_Kontraframe.jpg",
+            "Byg201-205.Stamers_Kontor.jpg",
+            "overdragelse_bygning_201.2.Thorkild_Christensen.jpg",
+            "overdragelse_bygning_201.Thorkild_Christensen.jpg"
+          ]
+        },
+        "position": 4
+      },
+      {
+        "item": {
+          "name": "Normalhuse",
+          "audio": null,
+          "creator": {
+            "name": "Nils og Eva Koppel",
+            "title": "Arkitekt",
+            "about": "<p>no info</p>"
+          },
+          "about": "<p><b>Bi-fort\u00e6lling \u2013 Normalhusene \nMedvirkende i lydfort\u00e6lling: Andy Horsewell, professor, DTU MEKANIK</b>\n<b>\n</b>Normalhusene er et eksempel p\u00e5 en af de originale bygningstyper fra Koppels oprindelige byggeplan. I 1974 udgjorde Normalhusene 60% af bygningskvadratmetrene p\u00e5 DTU. Det arkitektoniske udtryk er rationelt og praktisk. Husene er regul\u00e6re 3 etagers huse p\u00e5 50 eller 100 meter. Rumdybden i den ene side af huset er 6,27 m., t\u00e6nkt som velegnet til tegnestue eller laboratorier. I den anden side er rumdybden 4,56 m. og er udnyttet til kontorer. <br></p>",
+          "coordinates": {
+            "latitude": "55.7857610",
+            "longitude": "12.5189650"
+          },
+          "images": [
+            "Normalhuse.DTU.jpg"
+          ]
+        },
+        "position": 5
+      },
+      {
+        "item": {
+          "name": "Bygning 303A, Auditoriebygning",
+          "audio": null,
+          "creator": {
+            "name": "Nils og Eva Koppel",
+            "title": "Arkitekt",
+            "about": "<p>no info</p>"
+          },
+          "about": "<p><b>Auditorier p\u00e5 DTU \u2013 Bygning 303A\nMedvirkende i lydfort\u00e6lling: Andy Horsewell, professor, DTU MEKANIK ; Voxpop med DTU studerende\n\n</b>Denne bygning er DTU\u2019s st\u00f8rste auditoriebygning og den har for nyligt gennemg\u00e5et en indvendig renovering. Den prim\u00e6re\u00a0hensigt\u00a0har v\u00e6ret\u00a0at optimere\u00a0indeklima, lys og akustik\u00a0i de enkelte auditorier.\u00a0R\u00f8rb\u00e6k & M\u00f8ller Arkitekter, samt Alectia, har v\u00e6ret inde over renoveringen af den store auditoriebygning, der best\u00e5r af 6 auditorier og tre databarer.\u00a0Grundplanen er et tiln\u00e6rmet kvadrat med dets 52 x 58 meter, der er delt i tre sektioner, hvoraf den midterste er en bred foyer. I k\u00e6lderen under auditorierne er der oprindeligt ind t\u00e6nkt et beskyttelsesrum, der kan rumme 1.800 personer.  Beredskabsrummet blev opf\u00f8rt under den kolde krig, da reglementer kr\u00e6vede opf\u00f8relsen af sikkerhedsrum i offentlige bygninger.\u00a0\nRenoveringen af bygning 303A er en del af den samlede strategi p\u00e5 DTU, hvor alle auditorier frem\u00a0mod 2021 skal moderniseres og renoveres. <br>Kilde: \u2019Eva og Nils Koppel\u2019 af Johannes Hedal Hansen og Jennifer Dahm Petersen, Strandberg Publishing, 2017 / DTU\u2019s Historie- og samlingsdatabase.<br></p>",
+          "coordinates": {
+            "latitude": "55.7852400",
+            "longitude": "12.5196300"
+          },
+          "images": [
+            "30002041-101.jpg",
+            "303A_studiemilj\u00f8.Kristian_Ridder-Nielsen.jpg",
+            "auditoriebygning_303A.Mikal_Schlosser.jpg",
+            "auditoriebygning_303A.Mikal_Schlosser.jpg",
+            "Bygning303A.Stamers_Kontor.jpg"
+          ]
+        },
+        "position": 6
+      },
+      {
+        "item": {
+          "name": "Bygning 324, DTU Compute",
+          "audio": null,
+          "creator": {
+            "name": "Christensen & Co.",
+            "title": "Arkitekt",
+            "about": "<p>no info</p>"
+          },
+          "about": "<p><b>Bi-fort\u00e6lling \u2013 Nye studiemilj\u00f8er - Bygning 324\nMedvirkende i lydfort\u00e6lling: Michael Christensen, partner og kreativ direkt\u00f8r, Christensen & Co.\n\n</b>I 2013 stod en helt ny bygning f\u00e6rdig ved det store Matematiktorv i 3. kvadrant. Bygningen huser DTU Compute, der er en fusionering mellem det tidligere DTU Infomatik og DTU Matematik. DTU Compute er et af de st\u00f8rste institutter og bygning 324 er pr\u00e6get af moderne undervisningsfaciliteter, samt \u00e5bne loungeomr\u00e5der til de studerende. Bygningen skiller sig ud blandt de mange mursten, med dets glasfacade og transparens, der ogs\u00e5 er anvendt indenfor. \u00c5bne milj\u00f8er, med kig til de forskellige aktiviteter, skaber et livligt hus, med lys. Lyset og \u00e5benheden pr\u00e6ger loungeomr\u00e5derne, hvor der ogs\u00e5 er plantet indvendige black-olive tr\u00e6er, som hj\u00e6lper med at holde et sundt indeklima. De mere tekniske undervisningsfaciliteter er desuden optimeret betydeligt gennem moderne og avanceret av-udstyr, der underst\u00f8tter fremtidig e-l\u00e6ring. \nBygningen er desuden designet til at v\u00e6re en lavenergi klasse 1 bygning. <br>Kilde: <a\u00a0href=\"\">dtu.dk/Bygning-4324</a><i> \n/ </i><a\u00a0href=\"\">christensenco.dk</a><i> </i><br></p>",
+          "coordinates": {
+            "latitude": "55.7841030",
+            "longitude": "12.5185530"
+          },
+          "images": [
+            "Byg324.Ude.Stamers_Kontor.jpg",
+            "Bygning_324.milj\u00f8.Stamers_Kontor.jpg",
+            "Bygning_324.Stamers_Kontor.jpg"
+          ]
+        },
+        "position": 7
+      },
+      {
+        "item": {
+          "name": "Bygning 340, Fotonik",
+          "audio": null,
+          "creator": {
+            "name": "R\u00f8rb\u00e6k & M\u00f8ller Arkitekter",
+            "title": "Arkitekt",
+            "about": "<p>no info</p>"
+          },
+          "about": "<p><b>Fotonik, lysdesign og arkitektur \u2013 Bygning 340\nMedvirkende i lydfort\u00e6lling: Sune Borch, projektleder, Campus Service DTU\n\n</b>Bygning 340 er et af de nyeste byggerier p\u00e5 DTU og huser DTU Fotonik, der forsker i lysets anvendelsesmuligheder. Bygningen er direkte forbundet til de eksisterende fotonik bygninger og rummer nye m\u00f8rke, st\u00f8vfrie laboratorier i k\u00e6lderen. En del af forskningen kan dog ogs\u00e5 foreg\u00e5 i mere \u00e5bne laboratorier, der er placeret s\u00e5 forbipasserende kan kigge ind. Vinduer ind til laboratorierne og flere glaspartier er blevet prioriteret i \u00f8nsket om at \u00e5bne op og synligg\u00f8re den aktuelle forskning.  Lyset er p\u00e5 flere m\u00e5der en gennemg\u00e5ende del af bygningen og i den offentlige passage fra Asmussens All\u00e9 til \u00d8rsteds Plads pulserer et lysdesign af Iben Winther Orton. Det centrale hovedstr\u00f8g i bygningen er blevet d\u00f8bt \u2019Line of Light\u2019 og den lysende stribe tr\u00e6der tydeligt frem n\u00e5r dagslyset s\u00e6nker sig. Iben Winther Orton har designet det specielle lys, der bryder med askelamellerne p\u00e5 v\u00e6ggene. Gulvet er desuden lavet af bambus og de anvendte tr\u00e6sorter giver en ro og varme til rummene i sammenspil med lyset.<br></p>",
+          "coordinates": {
+            "latitude": "55.7825190",
+            "longitude": "12.5189320"
+          },
+          "images": [
+            "340.Fotonik_facade._Adam_M\u00f8rk.jpg",
+            "340.fotonik-lysfacade.jpg",
+            "340.Indend\u00f8rs.Adam_M\u00f8rk.jpg",
+            "340.Materialer.Adam_M\u00f8rk.jpg"
+          ]
+        },
+        "position": 8
+      },
+      {
+        "item": {
+          "name": "Bygning 354, Lydlab",
+          "audio": null,
+          "creator": {
+            "name": "R\u00f8rb\u00e6k & M\u00f8ller Arkitekter",
+            "title": "Arkitekt",
+            "about": "<p>no info</p>"
+          },
+          "about": "<p><b>Bi-fort\u00e6lling \u2013 Lydlab, Bygning 354\nMedvirkende i lydfort\u00e6lling: Barbara Olrik, arkitekt, R\u00f8rb\u00e6k & M\u00f8ller Arkitekter \n\n</b>Bygningen syner m\u00e5ske ikke af noget stort, men Lydlab faciliteterne til DTU Elektro -\u00a0Hearing Systems, er nogle af de mest sofistikerede faciliteter inden for audiovisuel forskning. I 2014 blev to sorte bokse tilf\u00f8jet til de eksisterende gule murstensbygninger af R\u00f8rb\u00e6k & M\u00f8ller Arkitekter. Rent arkitektonisk er det et godt eksempel p\u00e5 hvorledes de eksisterende bygninger udnyttes til at forme nybyggerier og tilbygninger. Opgaven har kr\u00e6vet r\u00e5dgivning fra ALECTIA i forbindelse med neds\u00e6ttelsen af krav til det akustiske milj\u00f8 og fremtidssikring af rummene.\u00a0I den ene af boksene er der\u00a0blandt andet etableret et lydd\u00f8dt rum til forskningen. \n\nKilde<i>: </i><a\u00a0href=\"\">alectia.com</a><i>\u00a0/ </i><a\u00a0href=\"\">dtu.dk/Bygning-354</a>\u00a0<br></p>",
+          "coordinates": {
+            "latitude": "55.7818690",
+            "longitude": "12.5159510"
+          },
+          "images": [
+            "Det_Lydd\u00f8de_Rum_DTU_byg354.Thorkild_Amdi_Christensen.jpg",
+            "lydlaboratorium.254.Stamers_kontor.jpg",
+            "lydlaboratoriumStamerskontor.jpg"
+          ]
+        },
+        "position": 9
+      },
+      {
+        "item": {
+          "name": "Bygning 374, Skylab",
+          "audio": null,
+          "creator": {
+            "name": "Juul Frost Arkitekter",
+            "title": "Arkitekt",
+            "about": "<p>no info</p>"
+          },
+          "about": "<p><b>Skylab \u2013 innovativ tilgang til studiemilj\u00f8 og arkitektur, Bygning 373A\nMedvirkende i lydfort\u00e6lling: Mikkel S\u00f8rensen, leder, DTU Skylab; Helle Juul, partner, Juul Frost Arkitekter; Voxpop med DTU studerende\n</b>\nFakta:<b> </b>Bygherre: DTU CAS, Arkitekt: Juul Frost Arkitekter\nIngeni\u00f8r: Alectia, belysning: Lightscapes. <br>Skylab er et symbol p\u00e5 innovation, b\u00e5de arkitektonisk og i kraft af de aktiviteter der foreg\u00e5r inde i bygningen. Bygningen blev indviet i 2014 og tilbyder cirka 1500 m2 til de studerende og ideudvikling. Bygningen er en gammel forskningshal fra 1970erne og bygningens historie er respekteret i renoveringen, som har ladet betons\u00f8jler og kranbaner v\u00e6re synlige. Rammerne og indretningen er \u00e5ben og transparent, hvilket afspejler \u00f8nsket om at skabe et tv\u00e6rfagligt studiemilj\u00f8, med plads til vidensdeling og sparring. I 2015 blev DTU Skylab nomineret til \u2019Renover prisen\u2019 med begrundelsen: <b>\n</b><i>Et fornemt eksempel p\u00e5, hvordan en vision\u00e6r bygherre i samarbejde med de studerende og r\u00e5dgiverne kan g\u00f8re en udslidt bygning til et symbol p\u00e5 fanden i voldsk g\u00e5-p\u00e5-mod og en livgivende eksperimenterende praksis.\u201d</i><br>Skylab har i marts 2017 modtaget en ny donation p\u00e5 80 mio. kr. fra Den A.P. M\u00f8llerske St\u00f8ttefond, der giver det popul\u00e6re Skylab mulighed for at udvide innovationshuset med nye faciliteter og kvadratmeter. I det nye hus bliver der fortsat plads til de studerende, samt forskere, iv\u00e6rks\u00e6ttere og erhvervslivet. <b>\n</b>\nKilde: <a\u00a0href=\"\">dtu.dk/Bygning-376-skylab</a> / <a\u00a0href=\"<i> / </i>\">politiken.dk</a> <br></p>",
+          "coordinates": {
+            "latitude": "55.7817020",
+            "longitude": "12.5126160"
+          },
+          "images": [
+            "Bygning_373.Skylab.Stamers_Kontor.jpg",
+            "Bygning_373.ude.Stamers_Kontor.jpg",
+            "DTU_Skylab2.Stamers_Kontor.jpg"
+          ]
+        },
+        "position": 10
+      }
+    ]
+  },
+  {
+    "name": "Kunstruten",
+    "logo": "Kunstruten",
+    "audio": "Kunst_i_det_off_rum_uden_hund.mp3",
+    "about": "<p>DTU har udviklet en kunstrute, der g\u00f8r 14 v\u00e6rker spredt p\u00e5 DTU Lyngby Campus mere tilg\u00e6ngelige for studerende, ansatte og bes\u00f8gende. Ved at f\u00f8lge kunstruten f\u00e5r den bes\u00f8gende et indtryk af det smukke og inspirerende studiemilj\u00f8. DTU har endvidere med st\u00f8tte fra Corrit Fonden udviklet denne app, der guider den bes\u00f8gende og giver oplysninger om v\u00e6rkerne. Studerende fra DTU st\u00e5r bag udviklingen af app\u2019en.<br>App\u2019en indeholder et interaktivt kort, tekst, billeder og lyd som fremh\u00e6ver historier om v\u00e6rkerne og deres tilknytning til DTU. Herigennem kobles den tekniske verden med kunstens verden. Kunstnere og ansatte p\u00e5 DTU har bidraget med fort\u00e6llinger og anekdoter i forbindelse med tilblivelsen af app\u2019en.<br></p>",
+    "color": [
+      255,
+      152,
+      0
+    ],
+    "route_items": [
+      {
+        "item": {
+          "name": "Syv magiske muldvarpeskud, 2010",
+          "audio": "Lars N\u00f8rgaards muldvarper.mp3",
+          "creator": {
+            "name": "Lars N\u00f8rg\u00e5rd (f. 1956)",
+            "title": "Kunstner",
+            "about": "<p>Lars N\u00f8rg\u00e5rd arbejder som maler, grafiker og billedhugger og er ikke optaget af at p\u00e5dutte folk bestemte f\u00f8lelser eller budskaber med sin kunst. Han vil at beskueren laver sig sine egne forestillinger om de ting der m\u00f8der dem i kunsten. Han er uddannet fra Skolen for Brugskunst i K\u00f8benhavn og har l\u00e6st p\u00e5 Academy of Art College i San Francisco, men afbr\u00f8d forl\u00f8bet, da han under et bes\u00f8g i Danmark besluttede sig for at blive hjemme. Han blev tiltrukket at et eksperimenterende milj\u00f8 i K\u00f8benhavn omkring V\u00e6rkstedet V\u00e6rst i 80erne. N\u00e5r man ser Lars N\u00f8rg\u00e5rds v\u00e6rker i dag skulle man ikke tro det, men han startede med at male fotorealistisk, for senere at blive inspireret af amerikansk-abstrakte tendenser. I de nyere v\u00e6rker er der en sp\u00e6nding eller dialog mellem kaos og orden i en mere ekspressiv form end tidligere. Kunstneren beskriver selv sin maleproces s\u00e5ledes: <i>\u201d\u2026jeg ved at \u201dlykkelige ulykker\u201d p\u00e5 l\u00e6rredet, dvs. uforudsete tekniske udfald, farver der blander sig \u201dforkert\u201d, farve der l\u00f8ber, ukoncentrerede str\u00f8g, der n\u00e6sten kunne have v\u00e6ret lavet af en anden end en selv - summen af alt dette, er altid vejen frem og fuldkommen n\u00f8dvendigt\u2026</i>\u201d. Lars N\u00f8rg\u00e5rd arbejder bedst under tidspres, men s\u00e5 arbejder han ogs\u00e5 konstant og i et flow. Altid til musik. <br>Lars N\u00f8rg\u00e5rds v\u00e6rker er pr\u00e6senteret p\u00e5 museer i hele landet og hans v\u00e6rker pr\u00e6senteres desuden ofte i b\u00e5de solo- og gruppeudstillinger. <br><i>Kilder: kunsten.nu \u2013 \u2019Ugens Kunster\u2019, juni 2015, af Lisbeth Bonde / samtale med kunstneren i juni 2016.</i><br></p>"
+          },
+          "about": "<p><b>Sk\u00e6nket af Ny Carlsberg Fondet i 2011.</b><br><b>7 malerier af 165 x 350 cm \u2013 samlet 28 meter langt v\u00e6rk. Olie og akryl p\u00e5 l\u00e6rred. </b><br>De syv magiske muldvarper af Lars N\u00f8rg\u00e5rd har en af de mest centrale placeringer p\u00e5 DTU i Lyngby og er desuden et af de nyeste v\u00e6rker i universitetets samling. V\u00e6rkerne h\u00e6nger farvestr\u00e5lende i en af de to store vandrehaller, som er 15 meter bred og 100 meter lang. De to vandrehaller ligger p\u00e5 hver sin side af Gr\u00f8nneg\u00e5rden og kaldes til dagligt for landingsbanerne. Navnet peger tilbage til stedets tidligere funktion som Lundtofte flyveplads fra 1917-59, hvor flyene lettede og landede hvor universitetet i dag er placeret. V\u00e6rkerne af Lars N\u00f8rg\u00e5rd blev produceret gennem 2010 i kunstnerens atalier. Han tog cirka en m\u00e5ned om at male hvert v\u00e6rk.<br>DTU\u2019s dav\u00e6rende rektor Lars Pallesen udtrykte stor gl\u00e6de ved pr\u00e6sentationen af de syv malerier i 2011: \u201d<i>Selvom vi er teknologer, teknokrater og nogle vil kalde os n\u00f8rder, s\u00e5 er vores sans for v\u00e6rdis\u00e6ttelse af kunst, ikke mindre af den grund. Og vi er meget taknemmelige for, at Ny Carlsberg Fondet vil bet\u00e6nke os p\u00e5 denne her m\u00e5de. Hjertelig tak.</i>\u201d Med v\u00e6rkernes centrale placering har de fleste med en dagligdag p\u00e5 DTU nok p\u00e5 et eller andet tidspunkt passeret forbi den lange stribe af v\u00e6rker, som breder sig ud over 28 meters l\u00e6ngde. Landingsbanen er en \u201dhovedvej\u201d p\u00e5 universitetet, som sk\u00e6rer igennem hele bygning 101. Det er blandt andet her hvor hundredvis af studerende ligger i k\u00f8 og holder \u201dventefest\u201d, inden de kan k\u00f8be de popul\u00e6re billetter til en af de st\u00f8rste begivenheder p\u00e5 DTU, \u00c5rsfesten. V\u00e6rket er en naturlig del af b\u00e5de hverdag og fest p\u00e5 skolen og s\u00e5dan skal det forblive med at v\u00e6re.  For Lars N\u00f8rg\u00e5rd har v\u00e6rkerne en central opgave, nemlig at skabe gl\u00e6de blandt de forbipasserende og selvom v\u00e6rkerne overordnede synes abstrakte, ser kunstneren selv noget figurativt kravle frem i overfladen: \u201d<i>Hvis du ser billederne hele vejen ned af gangen, s\u00e5 synes jeg, at det ligner s\u00e5dan nogle muldvarpeskud \u2013 s\u00e5 er de der, og s\u00e5 er de v\u00e6k igen, n\u00e5r du pr\u00f8ver at sl\u00e5 dem ned med en spade\u2026</i>\u201d. Lars N\u00f8rg\u00e5rd har ikke selv en direkte tilknytning til DTU, men hans onkel J\u00f8rgen N\u00f8rg\u00e5rd har if\u00f8lge kunstneren selv, levet et helt liv p\u00e5 DTU som forsker.    <br>H\u00f8r nuv\u00e6rende Campusdirekt\u00f8r Jacob Steen M\u00f8ller fort\u00e6lle mere om v\u00e6rkets placering og virke p\u00e5 DTU i en lydfort\u00e6lling.<br><i>Kilder: Artikel p\u00e5 dtu.dk, \u2019Lars N\u00f8rg\u00e5rds udsmykker DTU\u2019s vandrehal\u2019, maj 2011, af Marie Vendelbo Fridorf / Artikel fra DTU avisen \u2019Magiske Muldvarpeskud\u2019, september 2011, af Signe M\u00f8lgaard.</i><br></p>",
+          "coordinates": {
+            "latitude": "55.7861060",
+            "longitude": "12.5234280"
+          },
+          "images": [
+            "_MG_2548.LarsN\u00f8rgard.jpg",
+            "_MG_2550.LarsN\u00f8rgard.2.jpg"
+          ]
+        },
+        "position": 1
+      },
+      {
+        "item": {
+          "name": "Den afd\u00f8de teknokrat, 1974",
+          "audio": "Robert Jacobsen.mp3",
+          "creator": {
+            "name": "Robert Jacobsen (1912-1993)",
+            "title": "Kunstner",
+            "about": "<p>Robert Jacobsen er en af Danmarks mest anerkendte skulpt\u00f8rer gennem tiden og hans v\u00e6rker kan ses b\u00e5de rundt omkring i Danmark og i udlandet. Han er autodidakt kunstner og form\u00e5ede selv at skabe sig sin karriere gennem afpr\u00f8vning af adskillige materialer i sine v\u00e6rker. Han er bedst kendt for sine skulpturer, men arbejdede ogs\u00e5 med grafiske v\u00e6rker. Han blev i f\u00f8rste omgang introduceret til det kunstneriske milj\u00f8, da han som cykelbud kom til Henning Larsens Kunsthandel i Vognmagergade i K\u00f8benhavn. Milj\u00f8et tiltrak ham og allerede i 1930 lavede han sin f\u00f8rste skulptur i tr\u00e6. Gennem sin levetid arbejdede han med mange forskellige udtryk og materialer, men han n\u00e5ede til et punkt hvor rummet omkring materialet blev vigtigere og vigtigere og herfra begyndte han at fokusere p\u00e5 jernet som materiale. Han var fantasifuld og eksperimenterende og i en serie kaldet \u2019Dukkerne\u2019 arbejdede Robert Jacobsen kun med skrot og kasserede elementer fra v\u00e6rksteder, som cykelk\u00e6der, skruer, st\u00e5ltr\u00e5d etc. Han lod materialerne eksistere i sig selv og \u00f8nskede ikke en poleret overflade. \u201d<i>Selv lod Robert Jacobsen for det meste sine skulpturer tale for sig selv. Han omtalte gerne arbejdet med den skulpturelle form, men mente ikke, at han med ord kunne tilf\u00f8re mere, end \u00f8jet kunne se</i>.\u201d ( \u2019Rum og form \u2013 Robert Jacobsen 100 \u00e5r\u2019, 2012: s. 67). Han havde en st\u00e6rk tilknytning til Paris, hvor han gennem flere \u00e5r var bosat. Da han vendte hjem til Danmark i 1969 begyndte mange foresp\u00f8rgsler om offentlige udsmykninger, som i dag st\u00e5r rundt i hele landet. <br>Robert Jacobsen var professor ved Kunstakademiet i M\u00fcnchen (1962-82) og ved Det Kongelige Danske Kunstakademi i K\u00f8benhavn (1976-83). Han blev desuden \u00e6resprofessor ved akademierne i M\u00fcnchen og Firenze. <br><i>Kilder: Kunstindeks Danmark & Weilbachs kunstnerleksikon / Bogen \u2019Rum og form \u2013 Robert Jacobsen 100 \u00e5r\u2019, 2012, udgivet af Kunsten.</i><br></p>"
+          },
+          "about": "<p><b>Sk\u00e6nket af Statens Kunstfond. Skabt specielt til DTU i forbindelse med opf\u00f8relsen af Universitetet. \n\n</b>Skulpturgruppen \u2019Den afd\u00f8de teknokrat\u2019 af Robert Jacobsen i Gr\u00f8nneg\u00e5rden p\u00e5 DTU er et enest\u00e5ende v\u00e6rk, af en af Danmarks mest anerkendte skulpt\u00f8rer. V\u00e6rket er skabt specielt til stedet og stod klar som del af indvielsen af universitetet p\u00e5 Lundtoftesletten i 1974. En af hovedarkitekterne bag byggeriet, Nils Koppel, satte selv ord p\u00e5 skulpturgruppen i forbindelse med opf\u00f8relsen: \u201d<i>Robert Jacobsens skulpturkompleks har mange tons ind-kapslet i sig\u2026 Tre brunsorte jernfigurer, formede af luftmellemrum og stof, der overv\u00e5ges af en st\u00f8tte af en anden herkomst, kongeligt ikl\u00e6dt rustfrit st\u00e5l og kobber</i>.\u201d (Dth dia tidsskrift fra byggeriets indvielse i 1974) Citatet understreger tyngden af Robert Jacobsens skulpturgruppe, men ogs\u00e5 letheden i materialerne. Docent ved DTU Mekanik Andy Horsewell har taget et n\u00e6rmere kig p\u00e5 skulpturens materialehistorie: \u201dMaterialet i jernpladerne er tilsyneladende ikke simple jernplader, men formentligt jern, som indeholder en lille procentdel kobber. Den slags jern ruster i starten til den karakteristiske brunlige rust, men bliver ikke ved med at ruste. Dette specielle jern kommer fra skrot som indeholder kobber fra ledningerne i de skrottede biler. Den anden, lidt h\u00f8jere figur er ikl\u00e6dt et kludet\u00e6ppe af geometrisk sk\u00e5rne stykker af rustfrit st\u00e5l og kobber. Disse stykker er svejset sammen til en nobel kappe eller en akademisk- / biskops- kappe. For at lave kappen har Robert Jacobsen samlet 2 forskellige metaller. Det m\u00e5 man i virkeligheden ikke - det giver svagheder ved samlingen, og v\u00e6rre er, at der kan opst\u00e5 'galvanisk korrosion' mellem de 2 forskellige metaller. Men valget af kobber og en bestemt type af rustfrit st\u00e5l kan lige g\u00e5 an (p\u00e5 grund af en lille forskel i sp\u00e6ndingsr\u00e6kken). Derudover har Jacobsen gjort samlingen mulig med en dengang meget speciel sammensvejsningsteknik. Han har brugt TIG-svejsning med kobber som fyldemetal til svejses\u00f8mmet mellem kobber og rustfrit st\u00e5l. Der, hvor der er samlinger mellem 2 rustfrie plader, har han brugt almindeligt rustfrit st\u00e5l som fyldemetal i svejses\u00f8mmet. En skjult hemmelighed er, at denne noble figur er st\u00f8ttet af et indre stativ, som er bygget op i almindelig jern. Dette afsl\u00f8res ved brug af en magnet!\u201d <br>Professor Stig Veibel vandrede i 1974 ogs\u00e5 rundt p\u00e5 sletten og fortalte om de mange v\u00e6rker som er placeret p\u00e5 Campus og netop Robert Jacobsen blev fremh\u00e6vet. Flere kunstanmeldere var fra start af skeptiske over skulpturens sammens\u00e6tning og brug af forskellige materialer, men Stig Veibel havde en anden mening: \u201d<i>Et kunstv\u00e6rk er ikke en matematisk ligning, der kun har \u00e9n l\u00f8sning. Dets opgave er at s\u00e6tte beskuerens fantasi i sving, og jeg er sikker p\u00e5, at Robert Jacobsens skulptur vil l\u00f8se denne opgave, ikke blot nu, men ogs\u00e5 overfor kommende tiders polyteknikere</i>.\u201d<br>Udforsk skulpturen yderligere gennem en lydfort\u00e6lling med Andy Horsewell.<br><i>Kilder: Andy Horsewell / Dth dia tidsskrift fra byggeriets indvigelse i 1974 / Sletten avis, 4. \u00e5rgang. Nr. 10, 1974.</i><br></p>",
+          "coordinates": {
+            "latitude": "55.7864310",
+            "longitude": "12.5239530"
+          },
+          "images": [
+            "_MG_2553.Robert_Jacobsen.jpg",
+            "_MG_2559.Robert_Jacobsen.2.jpg"
+          ]
+        },
+        "position": 2
+      },
+      {
+        "item": {
+          "name": "Loft, v\u00e6g og glasmaleri",
+          "audio": null,
+          "creator": {
+            "name": "Svend Wiig Hansen (1922-1997)",
+            "title": "Kunstner",
+            "about": "<p>Svend Wiig Hansen arbejdede b\u00e5de som maler, billedhugger, grafiker og tegner og uddannet ved Kunstakademiet i K\u00f8benhavn. At g\u00e5 den kunstneriske vej var ikke selvskrevet for Svend Wiig, tv\u00e6rtimod var han l\u00e6nge usikker omkring hvad han \u00f8nskede at lave i livet. Et job med nogle st\u00f8bte klatreengle fik ham dog til at interessere sig for skulpturen. Han blev herefter elev p\u00e5 Kunstakademiet, men blev ikke kendt som en s\u00e6rlig flittig elev. I 1950erne oplevede han sit gennembrud, hvor han blev et kendt navn grundet en landsd\u00e6kkende pressestorm om v\u00e6rket \u2019Moder Jord\u2019, som p\u00e5 dav\u00e6rende tidspunkt var udstillet foran \u00c5rhus R\u00e5dhus. Skulpturen blev senere fjernet, men Svend Wiig Hansen havde gjort stort nok indtryk til at blive husket. Hans v\u00e6rker er ofte stedsspecifikke og omfattende i st\u00f8rrelsen og tager ofte udgangspunkt i menneskekroppen. Svend Wiig Hansen tog flere initiativer gennem sin karriere, der peger p\u00e5 at han var en person der engagerede sig i samfundet og mennesker. Han tog blandt andet initiativ til en folkelig kunstundervisning i F\u00e6lledparken i 1973, samarbejdede med borgere i Brande om en udsmykning, samt underviste som kunstl\u00e6rer i det gamle Horsens Statsf\u00e6ngsel. \nDe seneste \u00e5r har man kunne se omfattende udstillinger af Svend Wiig Hansens v\u00e6rker b\u00e5de p\u00e5 HEART i Herning og Gl. Holtegaard.<br>Kilder<i>: Kunstindeks Danmark & Weilbachs Kunstnerleksikon/ Kunsten.nu: \u2018Svend Wiig Hansen \u2013 hudl\u00f8s gigant\u2019, af Trine Rytter Andersen, 11. 11.2014.</i><br></p>"
+          },
+          "about": "<p><b>Skabt til stedet i 1982. Sk\u00e6nket af Statens Kunstfond.\n</b><br>I den ene af DTU\u2019s store vandrehaller, ogs\u00e5 kaldet landingsbanerne, kan det omfattende kunstv\u00e6rk af Svend Wiig Hansen opleves. V\u00e6rket er skabt til stedet og sk\u00e6nket af Statens Kunstfond i 1982. Selve glasv\u00e6ggen str\u00e6kker sig over 3,5 x 45 meter. V\u00e6rkets omfang g\u00f8r, at det har betydning for hele det store areal som landingsbanen str\u00e6kker sig over. Det har blandt andet ikke v\u00e6ret muligt at lave en akustikd\u00e6mpning, som eller er sket i landingsbanen p\u00e5 den anden side af Gr\u00f8nneg\u00e5rden. Nils m\u00f8ller fra DTU (sektionsleder og bygherre) har v\u00e6ret en del af en omfattende renovering af vandrehallen hvor Svend Wiig Hansens v\u00e6rk befinder sig. Han fort\u00e6ller, at hallen m\u00e5tte renoveres i 2012, grundet vandskader i loftet. I samme omb\u00e6ring blev vinduerne skiftet ud og speciel belysning indf\u00f8rt i siderne og loftet. I forbindelse med alle forbedringerne blev der taget hensyn til det stedsspecifikke v\u00e6rk af Svend Wiig Hansen og forbedringer af v\u00e6rkets stand blev udf\u00f8rt med inddragelse af en kunstekspert. \nSvend Wiig Hansen er meget kendt for sine skulpturer og malerier af menneskekroppen, som b\u00e5de viser sk\u00f8nhed, men ogs\u00e5 det usk\u00f8nne og menneskets kamp i livet. Selvom v\u00e6rket her p\u00e5 DTU er mere abstrakt, rummer det alligevel nogle af de tematikker som Svend Wiig Hansen \u00f8nskede at ber\u00f8re sin beskuer med: orden & uorden, form & forml\u00f8shed, opbygning og nedbrydning - kontraster som altid vil v\u00e6re en del af livet. <br>Kilder: <i>Kunstindeks Danmark & Weilbachs Kunstnerleksikon</i><br></p>",
+          "coordinates": {
+            "latitude": "55.7862240",
+            "longitude": "12.5250110"
+          },
+          "images": [
+            "_MG_2562.SvendWiig.2..jpg",
+            "_MG_2582.SvendWiig.jpg"
+          ]
+        },
+        "position": 3
+      },
+      {
+        "item": {
+          "name": "Skrifter Tyrkiet, 1971/72",
+          "audio": null,
+          "creator": {
+            "name": "Stig Br\u00f8gger",
+            "title": "Kunstner",
+            "about": "<p>Stig Br\u00f8gger l\u00e6ste Statsvidenskab ved K\u00f8benhavns Universitet fra 1960-67, samt gik p\u00e5 Den eksperimenterende Kunstskole gennem et par \u00e5r. Han har gennem sin karriere arbejdet med skulptur, maleri, installation og fotografi. Hans karriere er pr\u00e6get af en mangfoldighed af materialer og formsprog, som underst\u00f8tter en kunstnerisk praksis der unders\u00f8ger billedets rolle i verdenen.   \n<b>\u201d</b><i>Br\u00f8gger er kendt for sine omfattende billedserier, der favner alskens \u2019motiver\u2019 fra det mikroskopiske til det makrokosmiske plan og er et fors\u00f8g p\u00e5 at formidle et s\u00e5 omfattende billede af verden som muligt. Kommunikations- og konsumsamfundets konstante informations- og billedflow er vand p\u00e5 hans m\u00f8lle og fungerer som udgangspunkt for en billedkunstnerisk kommentar til den samfundsm\u00e6ssige udvikling.\u201d</i> (Voreskunst.dk, af Julie Damgaard Nielsen) Billedkunsten kobles s\u00e5ledes til b\u00e5de den sociale og naturlige verden. En interesse Stig Br\u00f8gger allerede fandt tilbage i 1960erne og 70erne gennem internationale str\u00f8mninger som popkunst og land art. I 1974 stiftede Stig Br\u00f8gger, Hein Hansen og Mogens M\u00f8ller f\u00e6llesskabet \u2019Institut for Skalakunst\u2019. De tre kunstnere udf\u00f8rte sammen en r\u00e6kke offentlige udsmykninger, blandt andet\u2019 Fredens Port\u2019 (1982) p\u00e5 N\u00f8rrebro i K\u00f8benhavn. Stig Br\u00f8gger bor og arbejder i dag i Vedb\u00e6k.  \n\nKilder: <i>Kunstindeks Danmark & Weilbachs Kunstnerleksikon/ voreskunst.dk /</i>  <i>kunsten.nu, \u2019Stig Br\u00f8gger \u2013 Ugens kunstner\u2019, 2013.</i><br></p>"
+          },
+          "about": "<p><b>Kvadrater af 90x90 cm.\nSk\u00e6nket af Statens Kunstfond i 1977</b><br>V\u00e6rket af Stig Br\u00f8gger spreder sig rundt i en st\u00f8rre del af bygning 116. V\u00e6rket m\u00f8der dig som det f\u00f8rste n\u00e5r du ankommer i foyeren, men forts\u00e6tter ogs\u00e5 rundt i andre hj\u00f8rner og kroge. Det er p\u00e5 mange m\u00e5der flettet ind i det liv der leves i bygningen og det overordnede studiemilj\u00f8. V\u00e6rket er et glimrende eksempel p\u00e5, at kunsten p\u00e5 DTU fungerer i sammenspil med dets omgivelser \u2013 der er plads til b\u00e5de kunsten og de studerende. V\u00e6rkets store omfang er et typisk formsprog for Stig Br\u00f8gger at arbejde med. Det serielle er et yndet format for kunstneren, med store fort\u00e6llinger der b\u00e5de afgr\u00e6nser, men samtidig springer udenfor den klassiske billedramme og i stedet bruger hele rummet som ramme. \nP\u00e5 DTU forskes der bredt indenfor alverdens felter og forskningen tager os nogle gange steder hen vi ikke kunne forudsige eller forestille os. De mange billeder i Stig Br\u00f8ggers v\u00e6rk springer mellem kompositioner, farver og stilarter, men h\u00e6nger alligevel sammen p\u00e5 kryds og tv\u00e6rs. De kan siges at afspejle de skiftende nybrud i videnskaben og kunsten, som hele tiden forrykker sig og finder nye udtryk. Denne serie af malerier er inspireret af et filmprojekt, som Stig Br\u00f8gger lavede efter et bes\u00f8g i Tyrkiet. \n<i>\nKilder: Voreskunst.dk</i> <br></p>",
+          "coordinates": {
+            "latitude": "55.7891830",
+            "longitude": "12.5250880"
+          },
+          "images": [
+            "_MG_2614.StigBr\u00f8gger.3.jpg",
+            "_MG_3158.StigBr\u00f8gger.jpg",
+            "_MG_3163.StigBr\u00f8gger.2.jpg"
+          ]
+        },
+        "position": 4
+      },
+      {
+        "item": {
+          "name": "Portr\u00e6t af Julius Thomsen",
+          "audio": null,
+          "creator": {
+            "name": "August Vilhelm Saabye (1823-1916)",
+            "title": "Kunstner",
+            "about": "<p>August Vilhelm Saabye var en dansk billedhugger. Oprindelig blev han uddannet h\u00e5ndv\u00e6rker, men havde et \u00f8nske om at udvikle sig yderligere gennem kunstakademiet hvor han blev optaget i 1842. En r\u00e6kke konkurrencer skabte opm\u00e6rksomhed omkring A. Vilhelm og i 1855 fik han midler af indenrigsministeriet og den Reiersenske fond til rejser, som fik betydning for kunstnerens videre produktioner. Desuden fik han lov at arbejde hos den erfarne billedhugger H.W Bissen (1798-1868), som s\u00e5 hans talent.  Igennem sit liv udf\u00f8rte A. Saabye adskillige bestillingsopgaver, eks. H.C. Andersens statue i Kongens Have, fra 1877. Blandt andet p\u00e5 grund af sit lange liv, kom A. Saabye til at pr\u00e6ge dansk billedhuggerkunst i mange \u00e5rtier med sine mindesm\u00e6rker og portr\u00e6tbuster. <br><i>Kilder: Kunstindeks Danmark & Weilbachs Kunstnerleksikon</i><br></p>"
+          },
+          "about": "<p><b>Bronzefigur/portr\u00e6t af Julius Thomsen\nIndviet d. 20. februar 1906 i S\u00f8lvgade. \n\n</b>Udenfor Institut for Byggeri & Anl\u00e6g, ved bygning 118, st\u00e5r en lille bronzefigur med en stor historie. Oprindeligt blev bronzestatuetten skabt til DTU\u2019s gamle lokaler i S\u00f8lvgade, hvor den blev afsl\u00f8ret d. 20. februar 1906 i anledning af J. Thomsens 80 \u00e5rs f\u00f8dselsdag. Det er netop J. Thomsen <b>(</b>Hans Peter J\u00f6rgen Julius Thomsen), professor i kemi og direkt\u00f8r ved Den Polytekniske L\u00e6reanstalt i \u00e5rene 1883-1902, der er statuens motiv. Bronzefiguren viser os en af landets f\u00f8rende og mest indflydelsesrige videnskabsm\u00e6nd. I 1853 udtog Julius Thomsen patent p\u00e5 en metode til fabrikation af soda af mineralet kryolit, og i 1856 blev han direkt\u00f8r for fabrikken \u00d8resund, der anvendte kryolit til produktion af soda efter Julius Thomsens metoder (det formodes at statuen st\u00e5r i et bed med kryolitsten).  Fra 1864 underviste Julius Thomsen p\u00e5 K\u00f8benhavns Universitet i kemi, og fra 1866 var han fastansat professor i kemi og bestyrer af universitetets laboratorium. Som rektor for Den Polytekniske L\u00e6reanstalt fra 1883 gennemf\u00f8rte han v\u00e6sentlige reformer i undervisningen og stod for opf\u00f8relsen af L\u00e6reanstaltens nye bygninger p\u00e5 S\u00f8lvtorvet i K\u00f8benhavn. Internationalt blev Thomsen kendt for sine termokemiske unders\u00f8gelser \u2013 han var den f\u00f8rste som bevidst anvendte loven om energiens konstans som grundprincip for termokemien. \nThomsen <i>\u201d var hverken inspirerende, \u00e5ndrig eller intellektuel\u201d, men han var en meget dygtig eksperimentator, \u201darbejdsom, produktiv og skarpsindig</i>\u201d (citeret af Nielsen., A.K. i Kj\u00e6rgaard, 2005, s. 131).<br><i>Kilder: DTU Historie \u2013 og samlingsdatabase & </i><br></p>",
+          "coordinates": {
+            "latitude": "55.7899520",
+            "longitude": "12.5259390"
+          },
+          "images": [
+            "_MG_2591.JuliusThomsen.statue.jpg",
+            "_MG_3145.JuliusThomsen.2.jpg",
+            "_MG_3150.JuliusThomsen.3.jpg"
+          ]
+        },
+        "position": 5
+      },
+      {
+        "item": {
+          "name": "Glaseret beton, uden titel",
+          "audio": null,
+          "creator": {
+            "name": "Anja Magrethe Bache (f\u00f8dt 1964)",
+            "title": "Kunstner",
+            "about": "<p><span class=\\\"s1\\\">Anja Magrethe Bache eksemplificerer p&aring; mange m&aring;der sammenspillet mellem teknik og kunst i sin unders&oslash;gelse af beton og keramisk glacering. Hun er uddannet skulpt&oslash;r fra Det Kongelige Danske Kunstakademi og er derudover uddannet Civilingeni&oslash;r fra DTU (Procesteknisk Institut), samt har en ph.d.-grad i arkitektur fra Arkitektskolen i Aarhus. Hendes unders&oslash;gelser af materialer g&oslash;r det sv&aelig;rt at skelne mellem videnskaben og kunsten, da de smelter sammen i &aelig;stetiske objekter og konstruktioner. Hun anvender sin baggrund i materialedesign og implementerer kunstneriske elementer, med tanke p&aring; at udvikle og nyt&aelig;nke &aelig;stetisk byggeri i fremtiden. &nbsp; &nbsp; &nbsp;</span><br><span class=\\\"s1\\\">Anja Magrethe Bache foresl&aring;r en designmetode med bredt perspektiv, hvor kunst, h&aring;ndv&aelig;rk og arkitektur arbejder sammen. I 2014 udgav hun bogen <em>Questioning Material design</em> og i pressemeddelelsen fort&aelig;ller hun f&oslash;lgende: &ldquo;<em>I develop materials with the desire to achieve new mechanical, static, chemical and/or other technical performances that can breed possibilities for future types of art, buildings, and urban spaces that do not exist today. At the same time, the materials have to move us sensuously, bodily, and emotionally, so that we want to embrace and kiss them. They must become relevant to us, so we take care of them and feel ourselves in them as reflective intellectuals, but also as beings that sense with body and spirit.&rdquo; </em>Ovenst&aring;ende citater med til at understrege, hvor essentielt det er for Anja Bache at arbejde stedsspecifikt og forholde sig til de omgivelser, hun g&aring;r i dialog med. Det handler om rum og perception, og om at kunne skabe helhedsoplevelser.</span><br><span class=\\\"s1\\\">Kilder: <em>Questioning Material design (Anja Magrethe Bache), 2014</em> / www.anjabache.com&nbsp;</span><br></p>"
+          },
+          "about": "<p><span class=\\\"s1\\\">V&aelig;rket p&aring; DTU er en samling af cirkul&aelig;re betonformer glaseret med henholdsvis hvid blank glasur med aftryk af st&aring;lfibre, samt meleret mat blandingsglasur. V&aelig;rket er oprindeligt skabt til en udstilling p&aring; Danmarks Keramiske Museum i 2012 som hed &rsquo;Keramiske Rum &ndash; forskydninger&rsquo;. V&aelig;rket er derfor fra start af en smule atypisk, da Anja Magrethe Bache normalt arbejder med stedsspecifik installation. V&aelig;rket er skabt til Danmarks Keramiske Museum, men selve produktionen foregik her p&aring; DTU, hvor Anja Bache i en periode havde et lille v&aelig;rksted. V&aelig;rket er s&aring;ledes oprindeligt en del af en st&oslash;rre udstilling, som unders&oslash;ger forskydninger og forholdet mellem beton og keramisk glasering. Den gr&aring; beton, som ofte knyttes til en h&aring;rdhed og styrke, kommer i sammenspil med den keramiske glaserings lethed og stoflighed. Det er et v&aelig;rk, der stiller sp&oslash;rgsm&aring;l og unders&oslash;ger brugen af materialer og former i dets rumlige sammenh&aelig;ng.&nbsp; Anja Bache fort&aelig;ller f&oslash;lgende om sit arbejde: &rdquo;<em>Mit kunstneriske virke opst&aring;r i sp&aelig;ndingsfeltet mellem forskning og praksis, samt mellem kunst, design, arkitektur og teknologi. Her m&oslash;der jeg forskellige traditioner, dogmer, begreber og betydninger. Jeg st&oslash;der p&aring; varierende fagligheder, metoder og kommunikationsformer. Det er det, jeg dyrker, det er forskellene, mellemrummene og gr&aelig;nserne. Jeg transformerer viden, skaber synteser, stiller sp&oslash;rgsm&aring;l p&aring; tv&aelig;rs og kreerer herudfra former, konstruktioner og objekter, der peger p&aring; nye performances, stofligheder og &aelig;stetiske udtryk.</em>&rdquo; Der sker en sammensmeltning af tilgange hos Anja Bache, som &aring;bner op for nye perspektiver og muligheder. En symbiose mellem teknisk videnskab og kunstnerisk kreativitet.</span><br><span class=\\\"s1\\\">Kilder: <em>Udstillingskataloget til &rsquo;Keramiske Rum, forskydninger&rsquo; p&aring; Danmarks Keramikmuseum &ndash; Grimmerhus, 22.januar &ndash; 22. april 2012 / www.anjabache.com</em>&nbsp;</span><br></p>",
+          "coordinates": {
+            "latitude": "55.7902500",
+            "longitude": "12.5255510"
+          },
+          "images": [
+            "_MG_2593.AnjaBache.jpg",
+            "_MG_2596.AnjaBache.2.jpg"
+          ]
+        },
+        "position": 6
+      },
+      {
+        "item": {
+          "name": "Eventyret om K\u00f8benhavn, 1967",
+          "audio": null,
+          "creator": {
+            "name": "Carl Henning Pedersen (1913-2007)",
+            "title": "Kunstner",
+            "about": "<p>Carl Henning Pedersen (1913-2007) var en anerkendt dansk maler, hvis v\u00e6rker fortsat kan ses mange steder i Danmark grundet en r\u00e6kke offentlige udsmykningsopgaver (eks. Ribe Domkirke). P\u00e5 DTU er vi s\u00e5 heldige at have to v\u00e6rker af kunstneren, som er med til at understrege hans kunstneriske mangfoldighed. Carl Henning Pedersen er blandt andet kendt for sin tilknytning til Cobra-bev\u00e6gelsen. En gruppe dannet af ligesindede kunstnere i 1948, som skabte spontane og fantasifulde v\u00e6rker. Han var en del af et alternativt kunstmilj\u00f8, som opstod p\u00e5 tekstilfabrikant Aage Damg\u00e5rds tredje Angli-fabrik. En fabrik hvor kunstnere som Robert Jacobsen og Sven Wiig Hansen ogs\u00e5 tidligere havde v\u00e6ret tilknyttet. Desuden levede han t\u00e6t med sin kone Else Alfelt, som var en af de drivkr\u00e6fter der i f\u00f8rste omgang inspirerede ham til at male.<br>Carl Henning Pedersen har selv udtalt f\u00f8lgende om sin tilgang til kunst: \u201d<i>Jeg har skabt billeder ud af fantasien og har derved bygget p\u00e5 det samme grundlag som al folkelig kunst. Jeg tror, at vil vi skabe en kunst, der skal f\u00e5 betydning i det menneskelige samfunds udvikling, der vil bev\u00e6ge og tale til menneskene, m\u00e5 vi \u00f8se af de rige kilder, der ligger inde i ethvert menneske.</i>\u201d Carl Henning Pedersen var et gavmildt menneske og han \u00f8nskede, at sin kunst var tilg\u00e6ngelig for offentligheden. Han stoppede allerede omkring 1960 med salget af sine v\u00e6rker til private. I stedet fokuserede han p\u00e5 enkelte museumsbestillinger eller udsmykningsopgaver og han s\u00e5 desuden gerne sine v\u00e6rker samlet under \u00e9t tag. I dag kan der ses en omfattende samling af Carl Henning Pedersens v\u00e6rker p\u00e5 Carl Henning Pedersen & Else Alfelts Museum ved Herning. <br><i>Kilder: Carl Henning Pedersen & Else Alfelts Museum / \u2019Virkeligheden og dr\u00f8mmen\u2019, Eventyrets maleri, H\u00f8studstillingen, Kbh. 1950</i><br></p>"
+          },
+          "about": "<p><b>Malet i anledning af K\u00f8benhavns 800 \u00e5rs jubil\u00e6um. </b>\n<b>Oliemaleri,  250 x 350. </b><br>\u2019Eventyret om K\u00f8benhavn\u2019 er navnet p\u00e5 dette store oliemaleri af Carl Henning Pedersen. V\u00e6rket blev oprindeligt malet til K\u00f8benhavns 800 \u00e5rs Jubil\u00e6um, men senere sk\u00e6nket til DTU af kunstneren selv. Tidligere professor ved DTU Stig Veibel fort\u00e6ller om v\u00e6rket og dets ankomst til DTU i \u2019Sletten\u2019 avisen fra 1974: \u201d<i>Det er en vision, et udsyn over K\u00f8benhavn fra toppen af SAS-bygningen, hvor man aner b\u00e5de skibe og biskop Absalon. Udf\u00f8rt p\u00e5 bestilling af Berlingske Tidende til brug for et nyt\u00e5rsnummer fik kunstneren det tilbage efter endt reproduktion, og han fik da den for os uhyre velkomne id\u00e9, at unge polyteknikere kunne have gl\u00e6de af at tage del i de indtryk, udsigten fra Hotel Royal havde givet ham</i>.\u201d Carl Henning Pedersen s\u00e5 s\u00e5ledes selv v\u00e6rket som en inspirationskilde for de studerende. V\u00e6rket er farverigt med sine klare gr\u00f8nne og r\u00f8de felter og de store penselstr\u00f8g understreger en spontanitet og kreativitet i skabelsen af v\u00e6rket. En kreativitet som ogs\u00e5 lever p\u00e5 DTU blandt de studerende. For Carl Henning Pedersen var kunsten ikke for de f\u00e5, men for de mange og selve evnen til at skabe s\u00e5 han ogs\u00e5 som en evne iboende i alle mennesker: \u201d<i>Vi skal g\u00f8re alle mennesker til kunstnere. For det er de. De tror bare ikke p\u00e5 det selv\u2026 De ved ikke, at kunsten bor i mennesket og kun kommer frem ved, at mennesket f\u00f8ler sig frem og leger med sten, farver, ord og toner\u2026\u201d.</i> (Udtale fra 1944. Kataloget til udstillingen CoBrA 1948-51, kunstforeningen i Hamburg, udg. af Uwe M. Schneede, Hamborg 1982, s. 9.)<br><i>Kilder: \u2019Sletten\u2019 avisen fra 1974, 4. \u00e5rgang, nr. 10</i><br></p>",
+          "coordinates": {
+            "latitude": "55.7873980",
+            "longitude": "12.5184100"
+          },
+          "images": [
+            "_MG_2534.CarlHenningPedersen.maleri.jpg"
+          ]
+        },
+        "position": 7
+      },
+      {
+        "item": {
+          "name": "Keramisk V\u00e6gdekoration/relief, 1974",
+          "audio": "Carl Henning Pedersen.mp3",
+          "creator": {
+            "name": "Carl Henning Pedersen (1913-2007)",
+            "title": "Kunstner",
+            "about": "<p>Carl Henning Pedersen (1913-2007) var en anerkendt dansk maler, hvis v\u00e6rker fortsat kan ses mange steder i Danmark grundet en r\u00e6kke offentlige udsmykningsopgaver (eks. Ribe Domkirke). P\u00e5 DTU er vi s\u00e5 heldige at have to v\u00e6rker af kunstneren, som er med til at understrege hans kunstneriske mangfoldighed. Carl Henning Pedersen er blandt andet kendt for sin tilknytning til Cobra-bev\u00e6gelsen. En gruppe dannet af ligesindede kunstnere i 1948, som skabte spontane og fantasifulde v\u00e6rker. Han var en del af et alternativt kunstmilj\u00f8, som opstod p\u00e5 tekstilfabrikant Aage Damg\u00e5rds tredje Angli-fabrik. En fabrik hvor kunstnere som Robert Jacobsen og Sven Wiig Hansen ogs\u00e5 tidligere havde v\u00e6ret tilknyttet. Desuden levede han t\u00e6t med sin kone Else Alfelt, som var en af de drivkr\u00e6fter der i f\u00f8rste omgang inspirerede ham til at male.<br>Carl Henning Pedersen har selv udtalt f\u00f8lgende om sin tilgang til kunst: \u201d<i>Jeg har skabt billeder ud af fantasien og har derved bygget p\u00e5 det samme grundlag som al folkelig kunst. Jeg tror, at vil vi skabe en kunst, der skal f\u00e5 betydning i det menneskelige samfunds udvikling, der vil bev\u00e6ge og tale til menneskene, m\u00e5 vi \u00f8se af de rige kilder, der ligger inde i ethvert menneske.</i>\u201d Carl Henning Pedersen var et gavmildt menneske og han \u00f8nskede, at sin kunst var tilg\u00e6ngelig for offentligheden. Han stoppede allerede omkring 1960 med salget af sine v\u00e6rker til private. I stedet fokuserede han p\u00e5 enkelte museumsbestillinger eller udsmykningsopgaver og han s\u00e5 desuden gerne sine v\u00e6rker samlet under \u00e9t tag. I dag kan der ses en omfattende samling af Carl Henning Pedersens v\u00e6rker p\u00e5 Carl Henning Pedersen & Else Alfelts Museum ved Herning. <br><i>Kilder: Carl Henning Pedersen & Else Alfelts Museum / \u2019Virkeligheden og dr\u00f8mmen\u2019, Eventyrets maleri, H\u00f8studstillingen, Kbh. 1950 / Katalog til Carl Henning Pedersens 100 \u00e5r, 2013. </i><br></p>"
+          },
+          "about": "<p><i><b>S</b></i><b>k\u00e6nket af Statens Kunstfond.\n3x11 meter.</b><br>Den store keramiske v\u00e6g af Carl Henning Pedersen st\u00e5r fast placeret i bygning 303. V\u00e6rket er skabt til stedet og har netop under en ombygning v\u00e6ret oppe til diskussion i forhold til h\u00e5ndteringen af v\u00e6rket under byggeprocessen. Hele ombygningen af den centrale auditoriebygning er foreg\u00e5et rundt om Carl Henning Pedersens v\u00e6rk, som har st\u00e5et beskyttet og indpakket, s\u00e5 det kunne beholde sin oprindelige placering p\u00e5 DTU. V\u00e6rket spreder sig over hele 3x11 meter og byder de studerende velkommen i bygningen og minder om universitetets lange historie. Tidligere professor ved DTU Stig Veibel  sagde f\u00f8lgende om v\u00e6rket tilbage ved DTU\u2019s indvigelse i 1974: <i>\u201d\u2026en fantasi i gule, gr\u00f8nne, bl\u00e5 og sorte farver, der n\u00e6ppe kan undlade at g\u00f8re indtryk p\u00e5 selv den mest h\u00e5rdnakkede teknokrat, hvis en s\u00e5dan skulle findes</i>.\u201d \nV\u00e6gudsmykningen p\u00e5 DTU er lavet i tiden efter Carl Henning Pedersen udsmykkede den indre Anglig\u00e5rd i Birk ved Herning med et 1000 m2 stort keramisk hovedv\u00e6rk \u2019Fantasiens leg om livets hjul\u2019, der stod f\u00e6rdigt i 1968. Han har desuden udsmykket sit eget museum i Birk ved Herning, der stod f\u00e6rdigt i 1976. Disse to v\u00e6rker minder p\u00e5 flere m\u00e5der om det keramiske v\u00e6rk der er skabt til stedet her, hvor blik og krop bliver omfavnet af v\u00e6rkets omfang og farvestr\u00e5lende keramik.<br>Du kan lytte til en lille fort\u00e6lling om den keramiske v\u00e6g her p\u00e5 DTU, som satte bygherre Lars Robert Kruse i et dilemma.<br><i>Kilder: Sletten, 4. \u00e5rg. Nr. 10 \u2013 onsdag d. 15. maj 1974, \u2019DTH\u2019s Indvigelse\u2019.</i><br></p>",
+          "coordinates": {
+            "latitude": "55.7852450",
+            "longitude": "12.5197700"
+          },
+          "images": [
+            "_MG_3172.CarlHenningPedersen.mur.jpg",
+            "_W6A5528.CarlHenningPedersen.mur2.jpg"
+          ]
+        },
+        "position": 8
+      },
+      {
+        "item": {
+          "name": "3 Oliemalerier, 1977",
+          "audio": null,
+          "creator": {
+            "name": "Peter Nyborg (f. 1937)",
+            "title": "Kunstner",
+            "about": "<p>Peter Nyborg har flere uddannelser bag sig, blandt andet p\u00e5 Kunsth\u00e5ndv\u00e6rker skolen i K\u00f8benhavn (1958-60) og senere ogs\u00e5 Kongelige Danske Kunstakademi (1960-63). Han er kendt for at male ekspressionistisk, men det abstrakte og tilsyneladende tilf\u00e6ldige f\u00e5r ogs\u00e5 tankerne mod action-painting. En malerstil fra Amerika, der inddrager forskellige hj\u00e6lpemidler i processen og hvor kunstneren meget aktivt bruger kroppen mens der males/dryppes/kastes/tv\u00e6res etc. med malingen. De tidlige malerier af Peter Nyborg har ligheder med Carl Henning Pedersens stil, en kunstner der ogs\u00e5 er repr\u00e6senteret her p\u00e5 DTU. I de tidlige v\u00e6rker malede Peter Nyborg ofte farvetomt og holdte sig til sort-hvide toner. Flere af de \u00e6ldre v\u00e6rkers titler peger desuden mod den nordiske tradition med sagn og myter. Senere v\u00e6rker viser hvorledes farverne begyndte at fylde mere og mere og i de nyere v\u00e6rker k\u00e6mper st\u00e6rke farver side og side. <br><i>Kilder: Kunstindeks Danmarks & Weilbachs Kunstnerleksikon</i><br></p>"
+          },
+          "about": "<p><b>Sk\u00e6nket af Statens Kunstfond </b><br>Peter Nyborg har skabt en udsmykning til DTU med tre store sort/hvide v\u00e6rker, som med sine abstrakte universer giver fornemmelsen af, at v\u00e6re i konstant bev\u00e6gelse. Kigger man ordentligt p\u00e5 v\u00e6rkerne stikker der sm\u00e5 fabeldyr frem i billederne, der k\u00e6mper om pladsen p\u00e5 l\u00e6rredet. V\u00e6rkerne fremst\u00e5r tidsl\u00f8se, blandt andet grundet de sort-hvide farver og det abstrakte univers, der giver mulighed for fri fantasi. \u201d<i>Malerierne b\u00e6rer flere tidsaldre i sig\u2026P\u00e5 den m\u00e5de l\u00e6ner de sig op af den videnskab, der praktiseres p\u00e5 DTU, hvis love heller ikke skelner mellem fortid, nutid eller fremtid</i>.\u201d (voreskunst.dk, JDN) N\u00e5r videnskab og forskning ud\u00f8ves p\u00e5 DTU findes der inspiration b\u00e5de i fortiden og nutiden, for at kunne skabe de bedst mulige l\u00f8sninger og opfindelser til fremtiden. Det er en n\u00f8dvendig bev\u00e6gelse for l\u00e6ring og udvikling, som praktiseres b\u00e5de i kunsten og i studiemilj\u00f8et p\u00e5 DTU. Det abstrakte og n\u00e6rmest kaotiske er en del af vejen mod brugbare resultater i en forskningsproces, s\u00e5vel som i den kunstneriske proces.<br><i>Kilder: voreskunst.dk </i><br></p>",
+          "coordinates": {
+            "latitude": "55.7853860",
+            "longitude": "12.5189370"
+          },
+          "images": [
+            "_MG_2491.PeterNyborg.2.jpg",
+            "_MG_3179.PeterNyborg.jpg"
+          ]
+        },
+        "position": 9
+      },
+      {
+        "item": {
+          "name": "V\u00e6gudsmykning i emalje udf\u00f8rt til stedet, 1986",
+          "audio": null,
+          "creator": {
+            "name": "Tonning Rasmussen (f. 1936)",
+            "title": "Kunstner",
+            "about": "<p>Tonning Rasmussen er en autodidakt kunstner, f\u00f8dt i det midtjyske, men i dag bosat p\u00e5 Bornholm. Han er oprindeligt uddannet malersvend og f\u00f8rte efterh\u00e5nden sit h\u00e5ndv\u00e6rk til kunstv\u00e6rker. Tonning Rasmussen har udf\u00f8rt flere udsmykningsopgaver, blandt andet den omfattende farveudsmykning af Panum Instituttet i K\u00f8benhavn fra 1976 og 1982. Han har fundet inspiration i flere stilarter, blandt andet abstrakt-ekspressiv kunst og det non-figurative. De farverige v\u00e6rker har ikke altid pr\u00e6get kunstnerens v\u00e6rker, tv\u00e6rtimod startede han med at male m\u00f8rke landskaber og portr\u00e6tter. Farverne tog til gennem \u00e5rerne og i denne \u00e6stetiske \u00e6ndring, ligger der ogs\u00e5 et personligt \u00f8nske om at frembringe gl\u00e6de gennem kunst. I en artikel fra Kristelig Dagblad, 2012, siger han s\u00e5ledes: \u201d<i>Som ung var min kunst ogs\u00e5 mere politisk. Dengang malede jeg blandt andet generaler og raketter i mine malerier. Men jeg har for l\u00e6ngst opgivet at fors\u00f8ge at fordrive krig ved at gengive den i kunsten. Jeg vil hellere pege p\u00e5 gl\u00e6den og alt det, der giver livet mening. Alt det modsatte af krig\u2026</i>\u201d.<br>Kilder: <i>Kunstnersammenslutningen Gr\u00f8nningen</i> - <i>gronningen.dk / Kristelig Dagblad \u2013 \u2019En fest form former og farver\u2019, 15. marts 2012.</i><br></p>"
+          },
+          "about": "<p><b>3x8 meter</b><br><b>\n</b>Matematiktorvet i 3. kvadrant er et sted med liv og aktivitet og Tonning Rasmussens v\u00e6rk afspejler ogs\u00e5 dette. Et v\u00e6ld af farver og former er i bev\u00e6gelse p\u00e5 det store emaljev\u00e6rk, som er skabt specielt til DTU. I flere af Tonning Rasmussens v\u00e6rker ser man de klare, tydelige farver, men komplement\u00e6rfarverne er altid en smule kn\u00e6kkede, s\u00e5 din har sin egen tone. Desuden bruger han altid prim\u00e6rtalsr\u00e6kken i antallet af figurer i sine v\u00e6rker: \u201d<i>Der er ikke noget der g\u00e5r op i billedet. Og dermed g\u00e5r billedet ogs\u00e5 kun op i sig selv</i>.\u201d (Kristelig Dagblad, 15. marts 2012) Brugen af emalje i Tonning Rasmussens v\u00e6rk bygger bro til opfindelser indenfor DTU\u2019s egne r\u00e6kker. Civilingeni\u00f8r Herbert Krenchel (uddannet i 1946 fra DtH) viste et kreativt talent gennem sin udvikling af krenit \u2013 navnet er en sammentr\u00e6kning af Krenchel og eternit. I 1953 formgav han designikonet Krenitsk\u00e5len, som bestod af flere materialer, blandt andet den abestfri eternit, men ogs\u00e5 emalje. Emaljen l\u00e5 som et lag udenp\u00e5 sk\u00e5lens tynde st\u00e5lskal. Netop emaljen var som materiale ikke s\u00e6rlig anerkendt p\u00e5 dette tidspunkt, men Herbert Krenchel form\u00e5ede gennem en fin sandbl\u00e6sning, at give emaljen et nyt udtryk p\u00e5 Krenitsk\u00e5len. Det var en dybdeg\u00e5ende forskning og fors\u00f8g om konstruktion og materialer der banede vejen for udviklingen af et Dansk designikon. Emaljen kommer ogs\u00e5 til sin ret her i v\u00e6rket af Tonning Rasmussen, som viser et eksempel p\u00e5 materialets brug indenfor kunstens verden. \n\nKilder: <i>historie.dtu.dk / DTU\u2019s magasin DYNAMO, Maj 2006, nr. 5 /Kristelig Dagblad \u2013 \u2019En fest form former og farver\u2019, 15. marts 2012.</i><br></p>",
+          "coordinates": {
+            "latitude": "55.7842620",
+            "longitude": "12.5191020"
+          },
+          "images": [
+            "_MG_2499.TonningRasmussen.jpg",
+            "_MG_2513.TonningRasmussen.2.jpg"
+          ]
+        },
+        "position": 10
+      },
+      {
+        "item": {
+          "name": "Multi Dimentioner, 2004",
+          "audio": "Viera Collaro.mp3",
+          "creator": {
+            "name": "Viera Collaro (f. 1946)",
+            "title": "Kunstner",
+            "about": "<p>Viera Collaro blev f\u00f8dt i Slovakiet i 1946 og arbejder som maler og installationskunstner. Hun er uddannet som billedkunstner i USA og senere videreudannet p\u00e5 Det Kongelige Danske Kunstakademi i K\u00f8benhavn. Hun har igennem en l\u00e6ngere \u00e5rr\u00e6kke arbejdet med lys som kunstnerisk materiale. Blandt andet ved at skabe skulpturer og ruminstallationer, med forskelligt farvede lysstofr\u00f8r som et af de prim\u00e6re elementer. Viera Collaro har skabt flere udsmykningsv\u00e6rker, som ofte har referencer til nutidig teknologi, energi og transformation. Udsmykninger kan blandt andet ses b\u00e5de p\u00e5 K\u00f8benhavns Universitet, Lyngby Kulturhus og Aved\u00f8re Kraftv\u00e6rk 2. Hun udtaler i et interview p\u00e5 levekunst.com: \u201d<i>Light is part of nature and the universe. My attraction to light  is due the infinite quality it possesses. Due to this, it can be compared with the universal aspects of mankind, the mind and the spirit</i>.\u201d <br>I 2006 blev Viera Collaro tildelt livsvarig ydelse fra Statens Kunstfond og hun fik i 2015 tildelt Thorvaldsens Medaljen for sit enest\u00e5ende og banebrydende kunstneriske arbejde.   <br>Kilder: <i>Levekunst.com & vieracollaro.com </i><br></p>"
+          },
+          "about": "<p><b>Lysinstallationerne er skabt i samarbejde mellem kunstneren og Erik M\u00f8llers Tegnestue. </b><br>P\u00e5 DTU m\u00e5 man sige at \u00e9t v\u00e6rk i s\u00e6rlig grad lyser Campus op. Det er Viera Collaros v\u00e6rk \u2019Multi Dimentioner\u2019, fra 2004, som er skabt til DTU i forbindelse med opf\u00f8relsen og udvidelsen af bygning 346 af Erik M\u00f8llers Tegnestue. Starter vi med at vende blikket ind i bygningen er det faktisk lidt begr\u00e6nset hvad vi kan f\u00e5 lov til at se. Bygningen indeholder nemlig et renrumslaboratorium, et af landets reneste rum, som af gode grunde derfor ikke er offentligt tilg\u00e6ngeligt. Viera Collaros v\u00e6rker h\u00e6nger ogs\u00e5 i nogle af indend\u00f8rsarealerne i Mikroelektronisk Center, dog er disse ikke s\u00e5 let tilg\u00e6ngelige grundet bygningens funktion. Men det rene indhold inde i bygningen kan ogs\u00e5 ses afspejlet udenp\u00e5 bygningen, hvor arkitekturen er skarp og simpel. Det er her Viera Collaros v\u00e6rk lyser st\u00e5lfladerne p\u00e5 bygningen op. V\u00e6rket er integreret fuldst\u00e6ndigt i arkitekturen og kunstneren har v\u00e6ret med i processen fra start af. St\u00e5lmoduler er blevet udskiftet med glasmoduler, som bag sig har neonr\u00f8r i forskellige farver, der bryder med den blanke overflade. Lyset tilf\u00f8rer bygningen noget liv og poetisk, som afspejler det arbejde som foreg\u00e5r inde i bygningen. Viera Collaro behandler emner som lys og farve: de fleste mennesker mener m\u00e5ske at vide hvad disse begreber betyder, men at forklare det helt pr\u00e6cis kr\u00e6ver fysiske, biologiske og matematiske aspekter: \u201d<i>Hun samordner farvens kunstneriske, \u00e6stetiske side med de erfaringer, vi har gjort gennem videnskabelig forskning og matematisk beskrivelse og frig\u00f8r derigennem helt nye, upr\u00f8vede kr\u00e6fter ved at stille det n\u00f8dvendige sp\u00f8rgsm\u00e5l: Hvad er lys?</i>\u201d. (Jan O. Hansen i \u2019Viera Collaro \u2013 lys, kunst og arkitektur\u2019.) <br>H\u00f8r kunstneren fort\u00e6lle mere om v\u00e6rket i en lydfort\u00e6lling.<br>Kilder: <i>Erik M\u00f8llers Tegnsetue A/S / \u2019Lyspunkter p\u00e5 DTU\u2019, artikel i Berlingske Kultur, 28. april 2005 af Torben Weirup / Bogen \u2019Viera Collaro \u2013 lys, kunst og arkitektur\u2019, 2006 (red. Viera Collaro & Elsebeth Gynther)</i><br></p>",
+          "coordinates": {
+            "latitude": "55.7808740",
+            "longitude": "12.5170630"
+          },
+          "images": [
+            "_MG_2636.VieraCollaro.jpg",
+            "_MG_2640.VieraCollaro.2.jpg",
+            "_MG_2641.VieraCollaro.3.jpg"
+          ]
+        },
+        "position": 11
+      },
+      {
+        "item": {
+          "name": "6 v\u00e6rker, uden titler",
+          "audio": null,
+          "creator": {
+            "name": "Mogens Andersen (1916-2003)",
+            "title": "Kunstner",
+            "about": "<p>Mogens Andersen arbejdede i sin levetid b\u00e5de som maler, grafiker og keramiker. Han var elev p\u00e5 maleren Peter Rostrup B\u00f8yesens malerskole, som l\u00e6rte ham b\u00e5de klassisk og mere alternativ kunsthistorie. Han var t\u00e6t knyttet til Frankrig og han ops\u00f8gte store malere som C\u00e9zanne og Henri Matisse og skrev ofte om de franske kunstnere. Mogens Andersen er et vigtigt bindeled for forholdet mellem dansk og fransk kunst. Hans egen kunst udviklede sig i takt med kendskabet til fransk malerkunst og han bev\u00e6gede sig v\u00e6k fra de till\u00e6rte modelstudier, med naturalistisk forl\u00e6g. I stedet unders\u00f8gte han dynamikker og kontraster i malerierne. Mogens Andersens f\u00f8rste udsmykningsopgave blev til K\u00f8benhavns Kommunes Hovedbibliotek (1957-59). Han vandt udsmykningen gennem en konkurrence, men der var noget skepsis over den abstrakte malerstil p\u00e5 en offentlig institution. Han modtog dog senere i livet betydelig anerkendelse og applaus for sin stil og han var officiel repr\u00e6sentant for Danmark p\u00e5 Venedig Biennalen i 1968. Han arbejdede senere i livet som g\u00e6steprofessor p\u00e5 Kunstakademiet og var formand for de billedkunstneriske udvalg under Statens Kunstfond fra 1977-80. Flere af Mogens Andersens v\u00e6rker h\u00e6nger rundt omkring p\u00e5 Campus, Lyngby.<br><i>Kilder: Mogensandersen.com / voreskunst.dk / Kunstindeks Danmark & Weilbachs kunstnerleksikon</i><br></p>"
+          },
+          "about": "<p><b>6 v\u00e6rker</b><i><b> </b></i><b>(235x110 olie)</b><i><b> </b></i><b>og et</b><i><b> v\u00e6gt\u00e6ppe (</b></i><b>v\u00e6vet af Lise Warburg).</b><br><b>Sk\u00e6nket i 1979 af Statens Kunstfond.</b><br>I bygning 358 kan man n\u00e6sten ikke undg\u00e5 at se Mogens Andersens omfattende v\u00e6rker, som b\u00e5de t\u00e6ller 6 oliemalerier af kunstneren selv, samt et stort v\u00e6gt\u00e6ppe skabt i samarbejde med v\u00e6ver Lise Warburg. V\u00e6gt\u00e6ppet blev skabt i 1977 og senere sk\u00e6nket af statens kunstfond i 1979. De 6 oliemalerier viser os den side af malerkunsten som Mogens Andersen nok er blevet mest kendt for. De m\u00f8rke farver i sine non-figurative malerier, der kun lader spr\u00e6kker \u00e5bne sig op til de lysere farver inde bagved. Med placeringen p\u00e5 DTU f\u00e5r vi b\u00e5de et indblik i det traditionelle for kunstneren, men ogs\u00e5 for det unikke samarbejde mellem billedkunst og v\u00e6vning i det store v\u00e6gt\u00e6ppe. De to kunstnere har form\u00e5et at samles om det store v\u00e6gt\u00e6ppe, som forener hver deres ekspertise. Lise Warburg refererer til en samtale mellem hende selv og Mogens Andersen: \"<i>Det skal se ud li\u2019som, n\u00e5r man tar brillerne af. S\u00e5 kan man ikke se noget\u2026 Det hele bliver s\u00e5dan lidt uklart.. Man ser kun de store linier\u2026 JA! S\u00e5dan skal det se ud: en stor bl\u00e5 tegning p\u00e5 en gr\u00f8n bund. Det er da nemt \u2013 ikke sandt?</i>\" V\u00e6gt\u00e6ppet fylder godt ud p\u00e5 de gule murstensv\u00e6gge med sine 3,30 x 3,50 meters omfang og er et ud af i alt syv gobeliner, som Lise Warburg og Mogens Andersen skabte i f\u00e6llesskab. Med de 6 oliemalerier p\u00e5 den ene side og v\u00e6gt\u00e6ppet p\u00e5 den modsatte, bliver de studerende og ansatte omringet af de farverige inputs, som forh\u00e5bentlig indbyder til en lille kunstnerisk pause i hverdagen.  <br><i>Kilder: voreskunst.dk  </i><br></p>",
+          "coordinates": {
+            "latitude": "55.7803820",
+            "longitude": "12.5165610"
+          },
+          "images": [
+            "_MG_2467.MogensAndersen.jpg",
+            "_MG_2471.MogensAndersen.2.jpg",
+            "_MG_2472.MogensAndersen.3.jpg"
+          ]
+        },
+        "position": 12
+      },
+      {
+        "item": {
+          "name": "3 sten, 1961-1965",
+          "audio": null,
+          "creator": {
+            "name": "S\u00f8ren Georg Jensen (1917-1982)",
+            "title": "Kunstner",
+            "about": "<p>Som efternavnet m\u00e5ske hurtigt antyder, var S\u00f8ren Georg Jensen s\u00f8n af den ber\u00f8mte danske s\u00f8lvsmed Georg Jensen. Han blev uddannet s\u00f8lvsmed i starten af 1930erne og gik senere til tegneundervisning, inden han gik p\u00e5 Kunstakademiets Billedhuggerskole i K\u00f8benhavn fra 1941-45. Hans skulpturer er ofte enkle i sit design og er ofte skabt med brug af geometriske linjer. I knap 10 \u00e5r stod han i spidsen som kunstnerisk direkt\u00f8r hos Georg Jensen, hvor han videref\u00f8rte sin fars visioner og filosofi. Som skulpt\u00f8r kan man ogs\u00e5 sige, at han arbejdede indenfor de famili\u00e6re rammer. Han videref\u00f8rte ideer fra sin fars praksis som s\u00f8lvsmed, om at skabe tidsl\u00f8se, \u00e6stetiske og holdbare genstande. S\u00f8ren Georg Jensen har skabt flere ikoniske v\u00e6rker, som blandt andet pryder gaderne i K\u00f8benhavn. Blandt andet hele udsmykningen omkring havnebassinet ved Udenrigsministeriet p\u00e5 Christianshavn, med hele 3 skulpturer. <br>Kilde:<b> </b><i>Kunstindeks Danmark & Weilbachs Kunstnerleksikon / georgjensen.com </i><br></p>"
+          },
+          "about": "<p><b>Granit skulptur. Sk\u00e6nket af Ny Carlsbergfondet i 1966.</b><br>Skulpturen \u20193 sten\u2019 er den f\u00f8rste gave til byggeriet af DTU (dengang Dth) og blev sk\u00e6nket af Ny Carlsbergfondet i 1966. I f\u00f8rste omgang var skulpturen oprindeligt placeret et andet sted p\u00e5 Campus mellem en r\u00e6kke bygninger, men blev senere flyttet til Ole N\u00f8rg\u00e5rds Have, med en placering der gav skulpturen mere ro og plads. V\u00e6rket er et eksempel p\u00e5 S\u00f8ren Georg Jensens arbejde med tyngde. I sin tid som billedhugger og s\u00f8lvsmed eksperimenterede han l\u00f8bende med flere materialer i sine v\u00e6rker. Han blev mere og mere optaget af det konkrete, som drejede sig om former og flader. Flere af S\u00f8ren Georg Jensens v\u00e6rker er, ligesom p\u00e5 DTU, t\u00e6nkt ind i arkitekturen der omgiver v\u00e6rket. Den endelige og nuv\u00e6rende placering p\u00e5 DTU er i en af de haver som indkredser Lyngby Campus. Haven er opkaldt efter arkitekt og landskabsarkitekt Ole N\u00f8rgaard, som st\u00e5r bag udf\u00f8relsen af DTU\u2019s udenoms arealer. Han stod blandt andet ogs\u00e5 bag Louisianas kendte skulpturhave i Humleb\u00e6k. Ideen bag Lyngby Campus er, at man skal betragte hele Campus som en lysning midt i en skov, med den brede akse centralt placeret. S\u00e5 selvom N\u00f8rgaards have og skulpturen af S\u00f8ren Georg Jensen er placeret i den ene ende af Campus, er den en vigtig del af at opleve helheden.    <br>Kilder: <i>historie.dtu.dk / \u2019Sletten\u2019 Avis, 1974, 4. \u00e5rgang, nr. 10</i><br></p>",
+          "coordinates": {
+            "latitude": "55.7800060",
+            "longitude": "12.5183340"
+          },
+          "images": [
+            "_MG_2444.S\u00f8renGeorgJensen.jpg",
+            "_MG_2449.S\u00f8renGeorgJensen.2.jpg"
+          ]
+        },
+        "position": 13
+      },
+      {
+        "item": {
+          "name": "Boreplatform, 1990",
+          "audio": null,
+          "creator": {
+            "name": "Erik Styrbj\u00f8rn Pedersen (f. 1946)",
+            "title": "Kunstner",
+            "about": "<p>Erik Styrbj\u00f8rn Pedersen kan godt siges at skille sig lidt ud blandt de mange kunstnere der er repr\u00e6senteret p\u00e5 DTU. Erik Styrbj\u00f8rn er selvl\u00e6rt kunstner og er ikke interesseret i at male det de andre g\u00f8r. Tv\u00e6rtimod maler han ofte motiver fra det klassiske arbejdsliv, med maskiner og sved p\u00e5 panden. Han maler det liv der leves, direkte og r\u00e5t. P\u00e5 mange m\u00e5der kan man sige, at Erik Styrbj\u00f8rn hylder arbejderen gennem sine malerier og disse verdslige motiver er sj\u00e6ldne indenfor kunstens tradition. Han har tidligere malet over tematikker som kvantefysikken og f\u00f8ler sig inspireret af den verden der ligger bagved alt det vi kan se. Han har haft adskillige udstillinger gennem tiden b\u00e5de solo og gruppe og har samarbejdet med institutioner rundt omkring i Danmark.  <br>Han blev h\u00e6dret med LO\u2019s kulturpris i 1999.  <br><i>Kilder: Artikel, \u2019Kunsten at skildre arbejdet\u2019, i Arbejderen, 24. juni 2008. </i><br></p>"
+          },
+          "about": "<p><b>En del af udstillingen DRIFT, i samarbejde med flere arbejdspladser.</b><br><b>170x210 cm. </b><br>Maleriet p\u00e5 DTU af Erik Styrbj\u00f8rn Pedersen h\u00e6nger p\u00e5 Institut for Mekanik & Teknologi. V\u00e6rket blev skabt i forbindelse med en st\u00f8rre udstilling af kunstneren i 1988-89 ved navn \u2019Drift\u2019, som skildrede det moderne producerende samfund fra seks forskellige arbejdspladser. Udstillingen rykkede rundt p\u00e5 museer og arbejdspladser og var blandt andet udstillet p\u00e5 DTU. V\u00e6rket som h\u00e6nger p\u00e5 DTU var knyttet til boreplatformen som arbejdsplads. I kataloget til udstillingen beskrives boreplatformen s\u00e5ledes: \u201d<i>P\u00e5 jordens overflade er havet nok det sted der kommer n\u00e6rmest det tomme rum. Her st\u00e5r de \u2019rumfabrikkerne\u2019. Sm\u00e5 samfund isoleret med hav og rum til alle sider, med turnus p\u00e5 14 dage, pr\u00e6cist udf\u00f8rt af helikopteren, maskinernes guldsmed. Borerigge selv er en gigantisk myg, der st\u00e5r med sine stankelben p\u00e5 havbunden med snablen dybt stukket i jordens hud sugende v\u00e6sker og gasser til m\u00e6tning af maskinernes glubende appetit.</i>\u201d <br>V\u00e6rket blev k\u00f8bt til DTU i 1992 og tidligere rektor Hans Peter Jensen s\u00e5 en fin kobling til DTU gennem den tekniske tematik i v\u00e6rket. Han bem\u00e6rkede dog ogs\u00e5 en mere seri\u00f8s vinkel ved v\u00e6rket, som minder os om, at store tekniske konstruktioner ogs\u00e5 skal t\u00e6nkes menneskeligt. DTU er et universitet der udvikler og producerer redskaber og ideer til arbejdslivet. Universitetet og dets virke er spundet ind i de tematikker som Erik Styrbj\u00f8rn behandler gennem kunsten - nemlig arbejdslivet og det producerende samfund. <br><i>Kilder: Katalog til museumsudstillingen \u2019Drift\u2019 af Erik Styrbj\u00f8rn Pedersen. </i><br></p>",
+          "coordinates": {
+            "latitude": "55.7820290",
+            "longitude": "12.5215460"
+          },
+          "images": [
+            "_MG_2483.ErikStyrbj\u00f8rn.jpg",
+            "_MG_2485.ErikStyrbj\u00f8rn.2.jpg"
+          ]
+        },
+        "position": 14
+      }
+    ]
+  },
+  {
+    "name": "HC\u00d8-ruten",
+    "logo": "HCO_route",
+    "audio": null,
+    "about": "<p>H.C. \u00d8rsted vandringen p\u00e5 DTU er en del af fejringen af 200-\u00e5ret for H.C. \u00d8rsteds opdagelse af elektromagnetismen. Ruten belyser nogle af de videnskabelige, menneskelige og kulturelle tematikker, der optog H.C. \u00d8rsted, og lydfort\u00e6llingerne kigger b\u00e5de tilbage til \u00d8rsteds samtid og frem mod aktuelle eksempler, der viser, hvordan hans opdagelser stadig er relevante i dag.<br>H.C. \u00d8rsted var st\u00e6rkt inspireret af filosofi og \u00e6stetik i sit naturvidenskabelige arbejde. Et af vandringens form\u00e5l er at fremh\u00e6ve de muligheder og id\u00e9er, der opst\u00e5r i m\u00f8det mellem naturvidenskaben og de mere kreative fag. Ruten tager udgangspunkt i den tv\u00e6rfaglige tilgang, kendt som STEM (Science, Technology, Engineering & Mathematics), men tilf\u00f8jer et \u2019A\u2019 for \u2019Arts\u2019, og skaber dermed begrebet STEAM. Dette skift fokuserer p\u00e5 at integrere humaniora og kunst i de tekniske og naturvidenskabelige discipliner og inddrage etik, moral og kultur i uddannelsen.<br></p>",
+    "color": [
+      0,
+      0,
+      255
+    ],
+    "route_items": [
+      {
+        "item": {
+          "name": "En ledestjerne",
+          "audio": "A_leading_star_intro.mp3",
+          "creator": {
+            "name": "Hans Christian \u00d8rsted og DTU",
+            "title": "Kunstner",
+            "about": "<p>Tekst her, <br></p>"
+          },
+          "about": "<p>Velkommen til denne DTU \u00d8rsted vandring. Vandringen er gjort muligt med midler fra Nordea Fondens Lokalpulje og Corritfonden. Med denne vandring \u00f8nsker DTU at formidle historien om en af Danmarks st\u00f8rste videnskabsm\u00e6nd, Hans Christian \u00d8rsted (1777-1851). P\u00e5 DTU har H.C. \u00d8rsted en helt s\u00e6rlig plads, da han sad som den f\u00f8rste direkt\u00f8r ved Den Polytekniske L\u00e6reanstalt (i dag DTU) tilbage i 1829-1851. Vandringen markerer desuden at det i 2020 er 200 \u00e5r siden at H.C. \u00d8rsted opdagede elektromagnetismen. Det fejres med det nationale formidlingsinitiativ HC\u00d82020.  <br>H.C. \u00d8rsted tog den farmaceutiske embedseksamen, og afleverede f\u00e5 \u00e5r senere sin doktordisputats i naturfilosofi p\u00e5 K\u00f8benhavns Universitet. Herefter fulgte han studier i kemi og fysik. I sammenspil med sin naturvidenskabelige uddannelse, besk\u00e6ftigede han sig i h\u00f8j grad ogs\u00e5 med poesi, filosofi og \u00e6stetik og omgav sig med sin tids kulturpersonligheder som H.C. Andersen. H.C. \u00d8rsted var et nysgerrigt menneske, der var pr\u00e6get af sin tids romantiske str\u00f8mninger i samfundet. Med denne vandring skal vi gennem lydfort\u00e6llinger blive klogere p\u00e5 H.C. \u00d8rsted og de mange tematikker der fascinerede og inspirerede ham. <br>Lyt til en kort introduktion til vandringen og m\u00f8d nogle ambassad\u00f8rer for HC\u00d82020; Folketingsmedlem og tidl. Kulturminister Bertel Haarder, formand for Selskabet for Naturl\u00e6rens Udbredelse Dorthe Olesen, professor i ansvarlig teknologi p\u00e5 DTU Maja Horst og prorektor p\u00e5 DTU Rasmus Larsen.<br>Kilder: <a\u00a0href=\"https://historie.dtu.dk/dtus-historie/rektorer/hanschrorsted\">https://historie.dtu.dk/dtus-historie/rektorer/hanschrorsted</a> <br></p>",
+          "coordinates": {
+            "latitude": "55.785729",
+            "longitude": "12.523205"
+          },
+          "images": [
+            "Bygning_101A.jpg"
+          ]
+        },
+        "position": 1
+      },
+      {
+        "item": {
+          "name": "En omhyggelig eksperimentarist",
+          "audio": "A_careful_experimentalist.mp3",
+          "creator": {
+            "name": "H.C. \u00d8rsted",
+            "title": "Kunstner",
+            "about": "<p>Den Unge \u00d8rsted: Personen og opdagelsen af elektromagnetismen i 1820<br></p>"
+          },
+          "about": "<p>Denne lydfort\u00e6lling vil g\u00f8re dig klogere p\u00e5 hvad der formede H.C. \u00d8rsted. Han blev f\u00f8dt i Rudk\u00f8bing i 1977 og det var naturligt at han, som sin far, skulle v\u00e6re apoteker. Det viste sig dog at H.C. \u00d8rsted skulle p\u00e5vise en stor naturvidenskabelig opdagelse i 1820, da han under en forel\u00e6sning beviste en sammenh\u00e6ng mellem elektricitet og magnetisme. Denne sammenh\u00e6ng er senere kommet til at danne baggrund for en lang r\u00e6kke opfindelser og muligheder, som vi i dag tager for givet. \n\nLyt til fort\u00e6llingen og m\u00f8d dr.phil. i historie og forfatter<b> </b>Dan Charly Christensen, og formand for Selskabet for Naturl\u00e6rens Udbredelse, Dorte Olesen.\n\nKilder: <a\u00a0href=\"https://www.dtu.dk/nyheder/temaer/elektromagnetisme/h-c-oersted-og-hans-fantastiske-opdagelse\">https://www.dtu.dk/nyheder/temaer/elektromagnetisme/h-c-oersted-og-hans-fantastiske-opdagelse</a> <br></p>",
+          "coordinates": {
+            "latitude": "55.786214",
+            "longitude": "12.523470"
+          },
+          "images": [
+            "Administrationshallen.jpg"
+          ]
+        },
+        "position": 2
+      },
+      {
+        "item": {
+          "name": "En tv\u00e6rfaglig videnskabsmand og altings sammenh\u00e6ng",
+          "audio": "Naturfilosofi og guldalder(3).mp3",
+          "creator": {
+            "name": "skaber navn",
+            "title": "Kunstner",
+            "about": "<p>Tekst her, links skal markeres som <a\u00a0href=\"url\">link tekst</a><br></p>"
+          },
+          "about": "<p>Guldalderens naturfilosofi havde stor betydning for H.C. \u00d8rsteds arbejde. For H.C. \u00d8rsted var der en kompleks sammenh\u00e6ng mellem naturlovene og kunsten, som gjorde at hans omgangskreds inkluderede datidens store kulturpersonligheder som H.C. Andersen og Adam Oehlenschl\u00e4ger. H.C. \u00d8rsted var heller ikke bange for selv at bidrage til kulturens verden. Han eksperimenterede blandt andet med klangfigurer. H.C. \u00d8rsted forfinede de eksperimenter som i f\u00f8rste omgang var udf\u00f8rt af den franske amat\u00f8rfysiker Chladni, der h\u00e6ldte sand p\u00e5 en plade som han bestr\u00f8g med en violinbue. Dette skabte vibrationer i sandet som afsatte sig som m\u00f8nstre. Disse fors\u00f8g arbejdede H.C. \u00d8rsted ih\u00e6rdigt videre med og form\u00e5ede at udvikle en metode hvor m\u00f8nstrene kunne overf\u00f8res til papir. Desuden bidrog han med over 2000 ord til det danske sprog, som for eksempel: rumfang, ildsj\u00e6l og billedkunst. <br>Her p\u00e5 DTU er kunsten ogs\u00e5 fremtr\u00e6dende flere steder og blev t\u00e6nkt ind i byggeriet da universitetet blev etableret af hovedarkitekterne Eva og Nils Koppel. Her i vandrehallen er der b\u00e5de udsyn til en udend\u00f8rs skulptur af Robert Jacobsen og de nyere malerier af Lars N\u00f8rg\u00e5rd (sk\u00e6nket i 2011 af Ny Carlsberg Fondet).  <br>I lydfort\u00e6llingen uddybes H.C. \u00d8rsted forhold til kunstens verden af Folketingsmedlem og tidl. Kulturminister Bertel Haarder, dr. Phil. i historie og forfatter Dan Charly og formand for Selskabet for Naturl\u00e6rens Udbredelse Dorte Olesen. <br>Kilder:<br><a\u00a0href=\"www.kristeligt-dagblad.dk/kultur/en-brobygger-mellem-romantikken-og-moderniteten \">www.kristeligt-dagblad.dk/kultur/en-brobygger-mellem-romantikken-og-moderniteten </a><br><a\u00a0href=\" www.berlingske.dk/samfund/guddommelige-klange \"> www.berlingske.dk/samfund/guddommelige-klange </a><br></p>",
+          "coordinates": {
+            "latitude": "55.786439",
+            "longitude": "12.523607"
+          },
+          "images": [
+            "PIC3.jpg"
+          ]
+        },
+        "position": 3
+      },
+      {
+        "item": {
+          "name": "Elektromagnetismens betydning i forskningen p\u00e5 DTU I - DTU Fysik",
+          "audio": "Forskning_Til_Lyt(4).mp3",
+          "creator": {
+            "name": "Peter Christian Vesborg",
+            "title": "Professor",
+            "about": "<p>Tekst her, links skal markeres som <a\u00a0href=\"url\">link tekst</a><br></p>"
+          },
+          "about": "<p>Bliv klogere p\u00e5 den energi vi kan f\u00e5 ud af sollyset. DTU professor Peter Christian Vesborg giver os et indblik i elektromagnetismens anvendelse i dagens forskning p\u00e5 DTU Fysik.<br></p>",
+          "coordinates": {
+            "latitude": "55.785293",
+            "longitude": "12.519001"
+          },
+          "images": [
+            "PIC4.jpg"
+          ]
+        },
+        "position": 4
+      },
+      {
+        "item": {
+          "name": "Elektromagnetismens betydning i kunsten i dag \u2013 perspektivering til dansk samtidskunst",
+          "audio": "JacobKirkegaard(5).mp3",
+          "creator": {
+            "name": "Jacob Kirkegaard",
+            "title": "Kunstner",
+            "about": "<p>Tekst her, links skal markeres som <a\u00a0href=\"url\">link tekst</a><br></p>"
+          },
+          "about": "<p>I denne fort\u00e6lling skal du m\u00f8de den danske samtidskunstner Jacob Kirkegaard der er dybt fascineret af lyde. Jacob er desuden et godt eksempel p\u00e5 en kunstner der finder inspiration i videnskabens verden og p\u00e5 den m\u00e5de dyrker den tv\u00e6rfaglighed, der ogs\u00e5 pr\u00e6gede H.C. \u00d8rsted m\u00e5de at arbejde p\u00e5. <br>L\u00e6s mere om Jacob Kirkegaards praksis her: <a\u00a0href=\"https://www.fonik.dk/\">Fonik.dk</a><br></p>",
+          "coordinates": {
+            "latitude": "55.782703",
+            "longitude": "12.516469"
+          },
+          "images": [
+            "PIC5.jpg"
+          ]
+        },
+        "position": 5
+      },
+      {
+        "item": {
+          "name": "Elektromagnetismens betydning i forskningen p\u00e5 DTU II - DTU Elektro",
+          "audio": "Olau Breinbjerg(6).mp3",
+          "creator": {
+            "name": " Olav Breinbjerg",
+            "title": "Professor",
+            "about": "<p>Tekst her, links skal markeres som <a\u00a0href=\"url\">link tekst</a><br></p>"
+          },
+          "about": "<p>H\u00f8r DTU professor Olav Breinbjerg fort\u00e6lle om den direkte forbindelse mellem elektromagnetisme og hvad der arbejdes med i dag p\u00e5 DTU Elektro, for at skabe teknologi til gavn for mennesker. Olav Breinbjerg kommer ind p\u00e5 emner som antenneteknologi og satellitter.<br></p>",
+          "coordinates": {
+            "latitude": "55.782037",
+            "longitude": "12.516094"
+          },
+          "images": [
+            "PIC6.jpg"
+          ]
+        },
+        "position": 6
+      },
+      {
+        "item": {
+          "name": "Hvilken betydning har H.C. \u00d8rsted for os i dag?",
+          "audio": "Outro_Til Lyt(7).mp3",
+          "creator": {
+            "name": "skaber navn",
+            "title": "Kunstner",
+            "about": "<p>Tekst her, links skal markeres som <a\u00a0href=\"url\">link tekst</a><br></p>"
+          },
+          "about": "<p>Vi afrunder vandringen med at kigge fremad\u2026 Hvad kan vi l\u00e6re af H.C. \u00d8rsted i dag og hvordan har hans opfindelse og tilgang til naturvidenskaben pr\u00e6get os? H\u00f8r de overvejelser som DTU\u2019s rektor Anders O. Bjarklev og professor i ansvarlig teknologi p\u00e5 DTU Maja Horst har gjort sig.  <br>Tak fordi du lyttede med. <br></p>",
+          "coordinates": {
+            "latitude": "55.781481",
+            "longitude": "12.516893"
+          },
+          "images": [
+            "PIC7.jpg"
+          ]
+        },
+        "position": 7
+      }
+    ]
+  }
 ]
